@@ -1,5 +1,4 @@
 import streamlit as st
-import random
 import os
 
 # Global variables
@@ -8,20 +7,17 @@ javoblar = []
 variant_b = []
 variant_c = []
 variant_d = []
-shuffled_options = []
-correct_answers = 0
 
 def load_questions(file_path):
     """
     Loads questions from a file and processes them into the global lists.
     """
-    global savollar, javoblar, variant_b, variant_c, variant_d, shuffled_options
+    global savollar, javoblar, variant_b, variant_c, variant_d
     savollar.clear()
     javoblar.clear()
     variant_b.clear()
     variant_c.clear()
     variant_d.clear()
-    shuffled_options.clear()
     
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
@@ -40,11 +36,6 @@ def load_questions(file_path):
                 variant_b.append(second_variant)
                 variant_c.append(third_variant)
                 variant_d.append(fourth_variant)
-                # Shuffle options for the current question
-                shuffled_options.append(random.sample(
-                    [answer, second_variant, third_variant, fourth_variant],
-                    len([answer, second_variant, third_variant, fourth_variant])
-                ))
 
 def display_question(selected_question_index):
     """
@@ -57,11 +48,18 @@ def display_question(selected_question_index):
     # Show the current question
     st.text_area("Savol", savollar[selected_question_index], height=100, disabled=True)
     
-    options = shuffled_options[selected_question_index]
+    # Original options without shuffling
+    options = [javoblar[selected_question_index], variant_b[selected_question_index], variant_c[selected_question_index], variant_d[selected_question_index]]
     
     # Panel-like layout for options
     selected_option = st.radio("Javob variantlarini tanlang:", options, key=f"question_{selected_question_index}")
     
+    # Render options in TextBoxes
+    cols = st.columns(4)
+    for i, option in enumerate(options):
+        with cols[i]:
+            st.text_input(f"Variant {chr(65+i)}:", option, disabled=True)
+
     if st.button("Natijani Tekshirish", key=f"check_{selected_question_index}"):
         check_answer(selected_question_index, selected_option)
 
@@ -69,17 +67,13 @@ def check_answer(selected_question_index, selected_answer):
     """
     Checks if the selected answer is correct.
     """
-    global correct_answers
     correct_answer = javoblar[selected_question_index]
     if selected_answer == correct_answer:
         st.success("To'g'ri javob!")
-        correct_answers += 1
     else:
         st.error(f"Noto'g'ri javob! To'g'ri javob: {correct_answer}")
 
 def main():
-    global correct_answers
-
     # Initialize session state
     if "current_question_index" not in st.session_state:
         st.session_state["current_question_index"] = 0
@@ -95,13 +89,12 @@ def main():
         with open(file_path, "wb") as f:
             f.write(uploaded_file.getbuffer())
         
-        # Load questions and shuffle
+        # Load questions without shuffling
         load_questions(file_path)
         os.remove(file_path)  # Clean up temporary file
         
         # Reset test state
         st.session_state["current_question_index"] = 0
-        correct_answers = 0
         st.success("Savollar yuklandi!")
     
     # Display the current question
@@ -111,9 +104,6 @@ def main():
         selected_question_index = question_labels.index(selected_question_label)
         
         display_question(selected_question_index)
-    
-    # Show progress
-    st.write(f"To'g'ri javoblar: {correct_answers}/{len(savollar)}")
 
 if __name__ == "__main__":
     main()
