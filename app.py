@@ -10,6 +10,7 @@ variant_c = []
 variant_d = []
 shuffled_options = []
 correct_answers = 0
+selected_answer = None  # To store the selected answer
 
 def load_questions(file_path):
     """
@@ -53,8 +54,9 @@ def shuffle_all_options():
 
 def display_question(selected_question_index):
     """
-    Displays the question and its options using TextBox and RadioButton.
+    Displays the selected question and its options using buttons.
     """
+    global selected_answer
     if selected_question_index < 0 or selected_question_index >= len(savollar):
         st.warning("Savollar qolmadi!")
         return
@@ -63,24 +65,27 @@ def display_question(selected_question_index):
     st.text_area("Savol", savollar[selected_question_index], height=100, disabled=True)
     
     options = shuffled_options[selected_question_index]
+    selected_answer = None  # Reset the selected answer for each question
     
-    # Panel-like layout for options
-    selected_option = st.radio("Javob variantlarini tanlang:", options, key=f"question_{selected_question_index}")
-    
-    # Render options in TextBoxes
-    cols = st.columns(4)
+    # Display options as buttons
+    cols = st.columns(2)  # Create a 2-column layout for buttons
     for i, option in enumerate(options):
-        with cols[i]:
-            st.text_input(f"Variant {chr(65+i)}:", option, disabled=True)
+        with cols[i % 2]:  # Distribute buttons between columns
+            if st.button(option, key=f"option_{selected_question_index}_{i}"):
+                selected_answer = option  # Update selected answer
 
     if st.button("Natijani Tekshirish", key=f"check_{selected_question_index}"):
-        check_answer(selected_question_index, selected_option)
+        check_answer(selected_question_index, selected_answer)
 
 def check_answer(selected_question_index, selected_answer):
     """
     Checks if the selected answer is correct.
     """
     global correct_answers
+    if selected_answer is None:
+        st.warning("Avval bir variantni tanlang!")
+        return
+    
     correct_answer = javoblar[selected_question_index]
     if selected_answer == correct_answer:
         st.success("To'g'ri javob!")
