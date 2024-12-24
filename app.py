@@ -37,41 +37,51 @@ def load_questions(file_path):
                 variant_c.append(third_variant)
                 variant_d.append(fourth_variant)
 
-def display_question(selected_question_index):
+def display_question():
     """
-    Displays the question and its options using TextBox and RadioButton.
+    Displays the current question and its options using TextBox and RadioButton.
     """
-    if selected_question_index < 0 or selected_question_index >= len(savollar):
-        st.warning("Savollar qolmadi!")
+    current_question_index = st.session_state.get("current_question_index", 0)
+    if current_question_index < 0 or current_question_index >= len(savollar):
+        st.warning("Boshqa savollar qolmadi!")
         return
-    
+
     # Show the current question
-    st.text_area("Savol", savollar[selected_question_index], height=100, disabled=True)
+    st.text_area("Savol", savollar[current_question_index], height=100, disabled=True)
     
-    # Original options without shuffling
-    options = [javoblar[selected_question_index], variant_b[selected_question_index], variant_c[selected_question_index], variant_d[selected_question_index]]
+    # Options without shuffling
+    options = [javoblar[current_question_index], variant_b[current_question_index], variant_c[current_question_index], variant_d[current_question_index]]
     
     # Panel-like layout for options
-    selected_option = st.radio("Javob variantlarini tanlang:", options, key=f"question_{selected_question_index}")
+    selected_option = st.radio("Javob variantlarini tanlang:", options, key=f"question_{current_question_index}")
     
-    # Render options in TextBoxes
-    cols = st.columns(4)
-    for i, option in enumerate(options):
-        with cols[i]:
-            st.text_input(f"Variant {chr(65+i)}:", option, disabled=True)
+    if st.button("Natijani Tekshirish"):
+        check_answer(current_question_index, selected_option)
+    
+    # Navigation buttons
+    cols = st.columns(2)
+    with cols[0]:
+        if st.button("⬅️ Oldinga", key="prev"):
+            st.session_state.current_question_index = max(0, current_question_index - 1)
+    with cols[1]:
+        if st.button("➡️ Keyingi", key="next"):
+            st.session_state.current_question_index = min(len(savollar) - 1, current_question_index + 1)
 
-    if st.button("Natijani Tekshirish", key=f"check_{selected_question_index}"):
-        check_answer(selected_question_index, selected_option)
-
-def check_answer(selected_question_index, selected_answer):
+def check_answer(current_question_index, selected_answer):
     """
-    Checks if the selected answer is correct.
+    Checks if the selected answer is correct and proceeds to the next question.
     """
-    correct_answer = javoblar[selected_question_index]
+    correct_answer = javoblar[current_question_index]
     if selected_answer == correct_answer:
         st.success("To'g'ri javob!")
     else:
         st.error(f"Noto'g'ri javob! To'g'ri javob: {correct_answer}")
+    
+    # Automatically move to the next question
+    if current_question_index + 1 < len(savollar):
+        st.session_state.current_question_index += 1
+    else:
+        st.warning("Savollar tugadi!")
 
 def main():
     # Initialize session state
@@ -89,7 +99,7 @@ def main():
         with open(file_path, "wb") as f:
             f.write(uploaded_file.getbuffer())
         
-        # Load questions without shuffling
+        # Load questions
         load_questions(file_path)
         os.remove(file_path)  # Clean up temporary file
         
@@ -99,11 +109,7 @@ def main():
     
     # Display the current question
     if savollar:
-        question_labels = [f"Savol {i + 1}" for i in range(len(savollar))]
-        selected_question_label = st.selectbox("Savolni tanlang:", question_labels)
-        selected_question_index = question_labels.index(selected_question_label)
-        
-        display_question(selected_question_index)
+        display_question()
 
 if __name__ == "__main__":
     main()
