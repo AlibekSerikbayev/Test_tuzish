@@ -75,7 +75,7 @@ def display_question(selected_question_index):
 
 def check_answer(selected_question_index, selected_answer):
     """
-    Checks if the selected answer is correct.
+    Checks if the selected answer is correct and moves to the next question.
     """
     global correct_answers
     correct_answer = javoblar[selected_question_index]
@@ -84,6 +84,12 @@ def check_answer(selected_question_index, selected_answer):
         correct_answers += 1
     else:
         st.error(f"Noto'g'ri javob! To'g'ri javob: {correct_answer}")
+    
+    # Move to the next question
+    if st.session_state["current_question_index"] + 1 < len(savollar):
+        st.session_state["current_question_index"] += 1
+    else:
+        st.info("Barcha savollar tugadi!")
 
 def main():
     global correct_answers
@@ -113,19 +119,9 @@ def main():
         correct_answers = 0
         st.success("Savollar yuklandi!")
     
-    # Display the questions in intervals
+    # Display the current question
     if savollar:
-        total_ranges = (len(savollar) + range_size - 1) // range_size
-        range_labels = [f"{i * range_size + 1}-{min((i + 1) * range_size, len(savollar))}" for i in range(total_ranges)]
-        selected_range = st.selectbox("Savollar oralig'ini tanlang:", range_labels)
-        start_index = (range_labels.index(selected_range)) * range_size
-        end_index = min(start_index + range_size, len(savollar))
-        
-        question_labels = [f"Savol {i + 1}" for i in range(start_index, end_index)]
-        selected_question_label = st.selectbox("Savolni tanlang:", question_labels)
-        selected_question_index = start_index + question_labels.index(selected_question_label)
-        
-        display_question(selected_question_index)
+        display_question(st.session_state["current_question_index"])
     
     # Show progress
     st.write(f"To'g'ri javoblar: {correct_answers}/{len(savollar)}")
