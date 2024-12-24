@@ -10,18 +10,18 @@ variant_c = []
 variant_d = []
 shuffled_options = []
 correct_answers = 0
-selected_answer = None  # To store the selected answer
 
 def load_questions(file_path):
     """
     Loads questions from a file and processes them into the global lists.
     """
-    global savollar, javoblar, variant_b, variant_c, variant_d
+    global savollar, javoblar, variant_b, variant_c, variant_d, shuffled_options
     savollar.clear()
     javoblar.clear()
     variant_b.clear()
     variant_c.clear()
     variant_d.clear()
+    shuffled_options.clear()
     
     with open(file_path, 'r', encoding='utf-8') as file:
         text = file.read()
@@ -40,23 +40,16 @@ def load_questions(file_path):
                 variant_b.append(second_variant)
                 variant_c.append(third_variant)
                 variant_d.append(fourth_variant)
-
-def shuffle_all_options():
-    """
-    Shuffles the options for each question.
-    """
-    global shuffled_options
-    shuffled_options = []
-    for i in range(len(savollar)):
-        options = [javoblar[i], variant_b[i], variant_c[i], variant_d[i]]
-        random.shuffle(options)
-        shuffled_options.append(options)
+                # Shuffle options for the current question
+                shuffled_options.append(random.sample(
+                    [answer, second_variant, third_variant, fourth_variant],
+                    len([answer, second_variant, third_variant, fourth_variant])
+                ))
 
 def display_question(selected_question_index):
     """
-    Displays the selected question and its options using buttons.
+    Displays the question and its options using TextBox and RadioButton.
     """
-    global selected_answer
     if selected_question_index < 0 or selected_question_index >= len(savollar):
         st.warning("Savollar qolmadi!")
         return
@@ -65,27 +58,18 @@ def display_question(selected_question_index):
     st.text_area("Savol", savollar[selected_question_index], height=100, disabled=True)
     
     options = shuffled_options[selected_question_index]
-    selected_answer = None  # Reset the selected answer for each question
     
-    # Display options as buttons
-    cols = st.columns(2)  # Create a 2-column layout for buttons
-    for i, option in enumerate(options):
-        with cols[i % 2]:  # Distribute buttons between columns
-            if st.button(option, key=f"option_{selected_question_index}_{i}"):
-                selected_answer = option  # Update selected answer
-
+    # Panel-like layout for options
+    selected_option = st.radio("Javob variantlarini tanlang:", options, key=f"question_{selected_question_index}")
+    
     if st.button("Natijani Tekshirish", key=f"check_{selected_question_index}"):
-        check_answer(selected_question_index, selected_answer)
+        check_answer(selected_question_index, selected_option)
 
 def check_answer(selected_question_index, selected_answer):
     """
     Checks if the selected answer is correct.
     """
     global correct_answers
-    if selected_answer is None:
-        st.warning("Avval bir variantni tanlang!")
-        return
-    
     correct_answer = javoblar[selected_question_index]
     if selected_answer == correct_answer:
         st.success("To'g'ri javob!")
@@ -113,7 +97,6 @@ def main():
         
         # Load questions and shuffle
         load_questions(file_path)
-        shuffle_all_options()
         os.remove(file_path)  # Clean up temporary file
         
         # Reset test state
