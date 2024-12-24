@@ -78,12 +78,6 @@ def check_answer(selected_answer):
         correct_answers += 1
     else:
         st.error(f"Noto'g'ri javob! To'g'ri javob: {correct_answer}")
-    
-    # Move to the next question
-    if current_question_index + 1 < len(savollar):
-        st.session_state["current_question_index"] += 1
-    else:
-        st.info("Barcha savollar tugadi!")
 
 def main():
     global correct_answers
@@ -120,13 +114,12 @@ def main():
         if "selected_question_label" not in st.session_state:
             st.session_state["selected_question_label"] = question_labels[0]
         
+        # Automatically update selected question based on current index
         selected_question_label = st.selectbox(
             "Savolni tanlang:", 
             question_labels, 
-            index=st.session_state["current_question_index"],
-            key="selected_question_label"
+            index=st.session_state["current_question_index"]
         )
-        
         st.session_state["current_question_index"] = question_labels.index(selected_question_label)
         
         display_question()
