@@ -9,7 +9,6 @@ variant_b = []
 variant_c = []
 variant_d = []
 shuffled_options = []
-current_question_index = 0
 correct_answers = 0
 range_size = 25
 
@@ -53,48 +52,40 @@ def shuffle_all_options():
         random.shuffle(options)
         shuffled_options.append(options)
 
-def display_question():
+def display_question(selected_question_index):
     """
-    Displays the current question and its options.
+    Displays the selected question and its options.
     """
-    global current_question_index, shuffled_options
-    if current_question_index < 0 or current_question_index >= len(savollar):
+    if selected_question_index < 0 or selected_question_index >= len(savollar):
         st.warning("Savollar qolmadi!")
         return
     
-    st.write(f"### {savollar[current_question_index]}")
-    options = shuffled_options[current_question_index]
+    st.write(f"### {savollar[selected_question_index]}")
+    options = shuffled_options[selected_question_index]
     
-    selected_option = st.radio("Javob variantlarini tanlang:", options, key=f"question_{current_question_index}")
+    selected_option = st.radio("Javob variantlarini tanlang:", options, key=f"question_{selected_question_index}")
     
-    if st.button("Javobni tekshirish"):
-        check_answer(selected_option)
+    if st.button("Javobni tekshirish", key=f"check_{selected_question_index}"):
+        check_answer(selected_question_index, selected_option)
 
-def check_answer(selected_answer):
+def check_answer(selected_question_index, selected_answer):
     """
     Checks if the selected answer is correct.
     """
-    global current_question_index, correct_answers
-    correct_answer = javoblar[current_question_index]
+    global correct_answers
+    correct_answer = javoblar[selected_question_index]
     if selected_answer == correct_answer:
         st.success("To'g'ri javob!")
         correct_answers += 1
     else:
         st.error(f"Noto'g'ri javob! To'g'ri javob: {correct_answer}")
-    
-    # Move to the next question
-    if current_question_index + 1 < len(savollar):
-        st.session_state["current_question_index"] += 1
-    else:
-        st.info("Barcha savollar tugadi!")
 
 def main():
-    global current_question_index, correct_answers
+    global correct_answers
 
     # Initialize session state
     if "current_question_index" not in st.session_state:
         st.session_state["current_question_index"] = 0
-    current_question_index = st.session_state["current_question_index"]
 
     st.title("Savollarni Yuklash Va Test")
     
@@ -117,33 +108,22 @@ def main():
         correct_answers = 0
         st.success("Savollar yuklandi!")
     
-    # Display the current question
+    # Display the questions in intervals
     if savollar:
-        display_question()
+        total_ranges = (len(savollar) + range_size - 1) // range_size
+        range_labels = [f"{i * range_size + 1}-{min((i + 1) * range_size, len(savollar))}" for i in range(total_ranges)]
+        selected_range = st.selectbox("Savollar oralig'ini tanlang:", range_labels)
+        start_index = (range_labels.index(selected_range)) * range_size
+        end_index = min(start_index + range_size, len(savollar))
+        
+        question_labels = [f"Savol {i + 1}" for i in range(start_index, end_index)]
+        selected_question_label = st.selectbox("Savolni tanlang:", question_labels)
+        selected_question_index = start_index + question_labels.index(selected_question_label)
+        
+        display_question(selected_question_index)
     
     # Show progress
     st.write(f"To'g'ri javoblar: {correct_answers}/{len(savollar)}")
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
