@@ -1,7 +1,6 @@
 import streamlit as st
 import random
 import os
-import plotly.express as px
 
 # Global variables
 savollar = []
@@ -11,7 +10,6 @@ variant_c = []
 variant_d = []
 shuffled_options = []
 correct_answers = 0
-total_questions = 0
 
 def load_questions(file_path):
     """
@@ -55,62 +53,40 @@ def shuffle_all_options():
 
 def display_question(selected_question_index):
     """
-    Displays the selected question and its options.
+    Displays the question and its options using TextBox and RadioButton.
     """
     if selected_question_index < 0 or selected_question_index >= len(savollar):
         st.warning("Savollar qolmadi!")
         return
     
-    st.write(f"### {savollar[selected_question_index]}")
+    # Show the current question
+    st.text_area("Savol", savollar[selected_question_index], height=100, disabled=True)
+    
     options = shuffled_options[selected_question_index]
     
-    # Single radio group for all options
-    selected_option = st.radio(
-        "Javob variantlarini tanlang:",
-        options,
-        key=f"question_{selected_question_index}"
-    )
+    # Panel-like layout for options
+    selected_option = st.radio("Javob variantlarini tanlang:", options, key=f"question_{selected_question_index}")
     
-    if st.button("Javobni tekshirish", key=f"check_{selected_question_index}"):
+    # Render options in TextBoxes
+    cols = st.columns(4)
+    for i, option in enumerate(options):
+        with cols[i]:
+            st.text_input(f"Variant {chr(65+i)}:", option, disabled=True)
+
+    if st.button("Natijani Tekshirish", key=f"check_{selected_question_index}"):
         check_answer(selected_question_index, selected_option)
 
 def check_answer(selected_question_index, selected_answer):
     """
-    Checks if the selected answer is correct and moves to the next question.
+    Checks if the selected answer is correct.
     """
-    global correct_answers, total_questions
+    global correct_answers
     correct_answer = javoblar[selected_question_index]
     if selected_answer == correct_answer:
         st.success("To'g'ri javob!")
         correct_answers += 1
     else:
         st.error(f"Noto'g'ri javob! To'g'ri javob: {correct_answer}")
-    
-    # Move to the next question
-    if st.session_state["current_question_index"] + 1 < len(savollar):
-        st.session_state["current_question_index"] += 1
-    else:
-        st.info("Barcha savollar tugadi!")
-        total_questions = len(savollar)
-        show_statistics()
-
-def show_statistics():
-    """
-    Displays the statistics at the end of the test.
-    """
-    incorrect_answers = total_questions - correct_answers
-    data = {
-        "Javob turi": ["To'g'ri", "Noto'g'ri"],
-        "Soni": [correct_answers, incorrect_answers]
-    }
-    fig = px.pie(
-        data,
-        names="Javob turi",
-        values="Soni",
-        title="Test Natijalari",
-        color_discrete_map={"To'g'ri": "green", "Noto'g'ri": "red"}
-    )
-    st.plotly_chart(fig)
 
 def main():
     global correct_answers
@@ -142,7 +118,11 @@ def main():
     
     # Display the current question
     if savollar:
-        display_question(st.session_state["current_question_index"])
+        question_labels = [f"Savol {i + 1}" for i in range(len(savollar))]
+        selected_question_label = st.selectbox("Savolni tanlang:", question_labels)
+        selected_question_index = question_labels.index(selected_question_label)
+        
+        display_question(selected_question_index)
     
     # Show progress
     st.write(f"To'g'ri javoblar: {correct_answers}/{len(savollar)}")
