@@ -1,6 +1,7 @@
 import streamlit as st
 import random
 import os
+import plotly.express as px
 
 # Global variables
 savollar = []
@@ -10,7 +11,7 @@ variant_c = []
 variant_d = []
 shuffled_options = []
 correct_answers = 0
-range_size = 25
+total_questions = 0
 
 def load_questions(file_path):
     """
@@ -77,7 +78,7 @@ def check_answer(selected_question_index, selected_answer):
     """
     Checks if the selected answer is correct and moves to the next question.
     """
-    global correct_answers
+    global correct_answers, total_questions
     correct_answer = javoblar[selected_question_index]
     if selected_answer == correct_answer:
         st.success("To'g'ri javob!")
@@ -90,6 +91,26 @@ def check_answer(selected_question_index, selected_answer):
         st.session_state["current_question_index"] += 1
     else:
         st.info("Barcha savollar tugadi!")
+        total_questions = len(savollar)
+        show_statistics()
+
+def show_statistics():
+    """
+    Displays the statistics at the end of the test.
+    """
+    incorrect_answers = total_questions - correct_answers
+    data = {
+        "Javob turi": ["To'g'ri", "Noto'g'ri"],
+        "Soni": [correct_answers, incorrect_answers]
+    }
+    fig = px.pie(
+        data,
+        names="Javob turi",
+        values="Soni",
+        title="Test Natijalari",
+        color_discrete_map={"To'g'ri": "green", "Noto'g'ri": "red"}
+    )
+    st.plotly_chart(fig)
 
 def main():
     global correct_answers
