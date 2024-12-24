@@ -1,6 +1,5 @@
 import streamlit as st
 import os
-import random
 
 # Global variables
 savollar = []
@@ -8,7 +7,6 @@ javoblar = []
 variant_b = []
 variant_c = []
 variant_d = []
-shuffled_options = []
 correct_answers = 0
 
 def load_questions(file_path):
@@ -40,17 +38,6 @@ def load_questions(file_path):
                 variant_c.append(third_variant)
                 variant_d.append(fourth_variant)
 
-def shuffle_all_options():
-    """
-    Shuffles the options for each question.
-    """
-    global shuffled_options
-    shuffled_options = []
-    for i in range(len(savollar)):
-        options = [javoblar[i], variant_b[i], variant_c[i], variant_d[i]]
-        random.shuffle(options)
-        shuffled_options.append(options)
-
 def display_question():
     """
     Displays the current question and its options.
@@ -61,7 +48,14 @@ def display_question():
         return
     
     st.write(f"### {savollar[current_question_index]}")
-    options = shuffled_options[current_question_index]
+    
+    # Options in their original order
+    options = [
+        javoblar[current_question_index], 
+        variant_b[current_question_index], 
+        variant_c[current_question_index], 
+        variant_d[current_question_index]
+    ]
     
     selected_option = st.radio(
         "Javob variantlarini tanlang:", 
@@ -109,9 +103,8 @@ def main():
         with open(file_path, "wb") as f:
             f.write(uploaded_file.getbuffer())
         
-        # Load questions and shuffle
+        # Load questions
         load_questions(file_path)
-        shuffle_all_options()
         os.remove(file_path)  # Clean up temporary file
         
         # Reset test state
