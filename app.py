@@ -1,7 +1,56 @@
 import streamlit as st
 from fpdf import FPDF
 
-# Functions are unchanged
+# Function to load test from file
+def load_test_from_file(file_path):
+    with open(file_path, "r", encoding="utf-8") as file:
+        content = file.read()
+    
+    questions = []
+    question_blocks = content.strip().split("%%%%")
+    for block in question_blocks:
+        if block.strip():
+            parts = block.strip().split("++++")
+            question_text = parts[0].replace("****[1]\n", "").strip()
+            options = [part.strip() for part in parts[1:]]
+            correct_answer = options[0]  # Correct answer is always the first
+            questions.append({
+                "question": question_text,
+                "options": options,
+                "correct_answer": correct_answer
+            })
+    return questions
+
+# Function to split questions into chunks
+def split_questions(questions, chunk_size=25):
+    return [questions[i:i + chunk_size] for i in range(0, len(questions), chunk_size)]
+
+# Function to calculate the score
+def calculate_score(questions, user_answers):
+    correct_count = 0
+    for i, question in enumerate(questions):
+        if question["correct_answer"] == user_answers[i]:
+            correct_count += 1
+    return correct_count
+
+# Function to generate a PDF report
+def generate_pdf_report(questions, user_answers, score):
+    pdf = FPDF()
+    pdf.add_page()
+    pdf.set_font("Arial", size=12)
+    pdf.cell(200, 10, txt="Test Results", ln=True, align='C')
+    pdf.ln(10)
+
+    for i, question in enumerate(questions):
+        pdf.set_font("Arial", size=10)
+        pdf.multi_cell(0, 10, txt=f"{i + 1}. {question['question']}")
+        pdf.multi_cell(0, 10, txt=f"  Correct Answer: {question['correct_answer']}")
+        pdf.multi_cell(0, 10, txt=f"  Your Answer: {user_answers[i]}")
+        pdf.ln(5)
+
+    pdf.set_font("Arial", size=12)
+    pdf.cell(0, 10, txt=f"Correct answers: {score}/{len(questions)}", ln=True)
+    return pdf
 
 # Streamlit interface
 def main():
@@ -24,8 +73,8 @@ def main():
     </style>""", unsafe_allow_html=True)
     st.markdown("<h3 class='title'>Quyidagi testga javob bering:</h3>", unsafe_allow_html=True)
 
-    # Test file
-    test_file = "test_template.txt"  # Path to test file
+    # Load test file
+    test_file = "test_template.txt"
     questions = load_test_from_file(test_file)
 
     # Split questions into chunks
