@@ -2,4 +2,3 @@ streamlit
 plotly
 fpdf
 python-docx
-pywin32
