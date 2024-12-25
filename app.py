@@ -74,18 +74,20 @@ def main():
     # Javoblarni saqlash
     user_answers = {}
 
-    # Barcha radiobuttonlarni bitta panelda joylashtirish
-    for i, question in enumerate(selected_questions):
-        st.subheader(f"{i + 1}. {question['question']}")
-        user_answers[i] = st.radio(
-            label=f"Savol {i + 1}",
-            options=["Tanlanmagan"] + question["options"],
-            index=0,  # Initially "Tanlanmagan" option is selected
-            key=f"q{selected_chunk_index}_{i}"
-        )
+    # Radiobuttonlarni alohida panelda ko'rsatish
+    with st.form("Test Form"):  # Form ichida radiobuttonlar
+        for i, question in enumerate(selected_questions):
+            st.subheader(f"{i + 1}. {question['question']}")
+            user_answers[i] = st.radio(
+                label=f"Savol {i + 1}",
+                options=["Tanlanmagan"] + question["options"],
+                index=0,  # Initially "Tanlanmagan" option is selected
+                key=f"q{selected_chunk_index}_{i}"
+            )
+        submitted = st.form_submit_button("Testni yakunlash")
 
     # Javoblarni topshirish
-    if st.button("Testni yakunlash"):
+    if submitted:
         final_answers = {i: ans for i, ans in user_answers.items() if ans != "Tanlanmagan"}
         score = calculate_score(selected_questions, final_answers)
         st.success(f"Test yakunlandi! To'g'ri javoblar soni: {score}/{len(selected_questions)}")
@@ -108,6 +110,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 # import streamlit as st
