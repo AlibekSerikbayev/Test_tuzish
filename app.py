@@ -80,6 +80,15 @@ def main():
             border-radius: 10px;
             margin-bottom: 10px;
         }
+        .option {
+            background-color: #F1F8E9;
+            padding: 10px;
+            margin: 5px;
+            border: 1px solid #CDDC39;
+            border-radius: 5px;
+            font-size: 16px;
+            color: #4CAF50;
+        }
         .correct-answer {
             color: #4CAF50;
         }
@@ -110,6 +119,10 @@ def main():
         progress = 0
         for i, question in enumerate(selected_questions):
             st.markdown(f"<div class='question' style='font-size:{font_size}px;'><b>{i + 1}. {question['question']}</b></div>", unsafe_allow_html=True)
+            
+            options_html = "".join([f"<div class='option'>{option}</div>" for option in question['options']])
+            st.markdown(options_html, unsafe_allow_html=True)
+
             user_answer = st.radio(
                 "Javobingizni tanlang:",
                 question["options"],
@@ -138,7 +151,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
 
 # import streamlit as st
