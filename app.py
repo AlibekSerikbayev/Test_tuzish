@@ -3,7 +3,6 @@ import streamlit as st
 import random
 from fpdf import FPDF
 
-
 # Test shablonini yuklash funksiyasi
 def load_test_from_file(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
@@ -17,19 +16,17 @@ def load_test_from_file(file_path):
             question_text = parts[0].replace("****[1]\n", "").strip()
             options = [part.strip() for part in parts[1:]]
             correct_answer = options[0]  # To'g'ri javob doim birinchi bo'ladi
-            random.shuffle(options)  # Javoblarni chalkashtirish
+            shuffled_options = random.sample(options, len(options))  # Javoblarni chalkashtirish
             questions.append({
                 "question": question_text,
-                "options": options,
+                "options": shuffled_options,
                 "correct_answer": correct_answer
             })
     return questions
 
-
 # Savollarni bo‘limlarga ajratish
 def split_questions(questions, chunk_size=25):
     return [questions[i:i + chunk_size] for i in range(0, len(questions), chunk_size)]
-
 
 # Natijalarni hisoblash funksiyasi
 def calculate_score(questions, user_answers):
@@ -38,7 +35,6 @@ def calculate_score(questions, user_answers):
         if question["correct_answer"] == user_answers[i]:
             correct_count += 1
     return correct_count
-
 
 # Unicode shrift qo‘llab-quvvatlovchi PDF hisobotni yaratish funksiyasi
 def generate_pdf_report(questions, user_answers, score):
@@ -59,7 +55,6 @@ def generate_pdf_report(questions, user_answers, score):
     pdf.set_font("ArialUnicode", size=12)
     pdf.cell(0, 10, txt=f"To'g'ri javoblar soni: {score}/{len(questions)}", ln=True)
     return pdf
-
 
 # Streamlit interfeysi
 def main():
@@ -111,9 +106,10 @@ def main():
             pdf_data = pdf_file.read()
         st.download_button("Natijalarni PDF shaklda yuklab olish", data=pdf_data, file_name="test_results.pdf", mime="application/pdf")
 
-
 if __name__ == "__main__":
     main()
+
+
 
 
 # # file: streamlit_test_app.py
