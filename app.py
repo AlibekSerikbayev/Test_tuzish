@@ -1,6 +1,5 @@
 import streamlit as st
 from fpdf import FPDF
-import random
 
 # Test shablonini yuklash funksiyasi
 def load_test_from_file(file_path):
@@ -75,31 +74,30 @@ def main():
     # Javoblarni saqlash
     user_answers = {}
 
-    # Radiobuttonlarni bir panelda chiqarish
+    # Barcha radiobuttonlarni bitta panelda joylashtirish
     for i, question in enumerate(selected_questions):
         st.subheader(f"{i + 1}. {question['question']}")
-        user_answer = st.radio(
-            label="",
-            options=question["options"],
-            index=-1,  # Initially no option selected
+        user_answers[i] = st.radio(
+            label=f"Savol {i + 1}",
+            options=["Tanlanmagan"] + question["options"],
+            index=0,  # Initially "Tanlanmagan" option is selected
             key=f"q{selected_chunk_index}_{i}"
         )
-        if user_answer:
-            user_answers[i] = user_answer
 
     # Javoblarni topshirish
     if st.button("Testni yakunlash"):
-        score = calculate_score(selected_questions, user_answers)
+        final_answers = {i: ans for i, ans in user_answers.items() if ans != "Tanlanmagan"}
+        score = calculate_score(selected_questions, final_answers)
         st.success(f"Test yakunlandi! To'g'ri javoblar soni: {score}/{len(selected_questions)}")
         st.write("Natijalar:")
         for i, question in enumerate(selected_questions):
             st.write(f"**{i + 1}. {question['question']}**")
             st.write(f"To'g'ri javob: {question['correct_answer']}")
-            user_answer = user_answers.get(i, "Javob berilmagan")
+            user_answer = final_answers.get(i, "Javob berilmagan")
             st.write(f"Sizning javobingiz: {user_answer}")
 
         # PDF hisobotni yaratish
-        pdf = generate_pdf_report(selected_questions, user_answers, score)
+        pdf = generate_pdf_report(selected_questions, final_answers, score)
         pdf_file_path = "test_results.pdf"
         pdf.output(pdf_file_path)
         
@@ -110,7 +108,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
 
 
 # import streamlit as st
