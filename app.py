@@ -71,6 +71,7 @@ def generate_pdf_report(questions, user_answers, score):
 
 
 # Streamlit interfeysi
+# Streamlit interfeysi
 def main():
     st.markdown(
         """
@@ -92,6 +93,21 @@ def main():
             padding: 15px;
             border-radius: 10px;
             margin-bottom: 10px;
+        }
+        .rainbow-button {
+            background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
+            border: none;
+            color: white;
+            font-size: 18px;
+            font-weight: bold;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            text-align: center;
+            transition: transform 0.2s;
+        }
+        .rainbow-button:hover {
+            transform: scale(1.1);
         }
         </style>
         """,
@@ -125,9 +141,19 @@ def main():
                 key=f"q{i}"
             )
 
-        if st.button("Testni yakunlash"):
+        if st.markdown('<button class="rainbow-button">Testni yakunlash</button>', unsafe_allow_html=True):
             score = calculate_score(selected_questions, user_answers)
             st.success(f"✅ Test yakunlandi! To'g'ri javoblar soni: {score}/{len(selected_questions)}")
+
+            # Natijalarni dasturga chiqarish
+            for i, question in enumerate(selected_questions):
+                correct_answer = question["correct_answer"]
+                user_answer = user_answers.get(str(i), "")
+                if user_answer == correct_answer:
+                    st.markdown(f"✅ **{i + 1}. {question['question']}** — **To'g'ri javob!** ({user_answer})")
+                else:
+                    st.markdown(f"❌ **{i + 1}. {question['question']}** — Sizning javobingiz: **{user_answer}**, To'g'ri javob: **{correct_answer}**")
+
             pdf = generate_pdf_report(selected_questions, user_answers, score)
             pdf_file_path = "test_results.pdf"
             pdf.output(pdf_file_path)
@@ -138,8 +164,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
 
 
 
