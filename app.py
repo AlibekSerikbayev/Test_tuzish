@@ -81,6 +81,8 @@ def main():
             margin-bottom: 10px;
         }
         .option {
+            display: flex;
+            align-items: center;
             background-color: #F1F8E9;
             padding: 10px;
             margin: 5px;
@@ -89,11 +91,8 @@ def main():
             font-size: 16px;
             color: #4CAF50;
         }
-        .correct-answer {
-            color: #4CAF50;
-        }
-        .user-answer {
-            color: #FF5722;
+        .radio-button {
+            margin-right: 10px;
         }
         </style>
         """,
@@ -120,15 +119,21 @@ def main():
         for i, question in enumerate(selected_questions):
             st.markdown(f"<div class='question' style='font-size:{font_size}px;'><b>{i + 1}. {question['question']}</b></div>", unsafe_allow_html=True)
             
-            options_html = "".join([f"<div class='option'>{option}</div>" for option in question['options']])
+            selected_option = st.radio(
+                label="Javobingizni tanlang:",
+                options=question["options"],
+                key=f"q{selected_chunk_index}_{i}",
+                format_func=lambda x: x,  # Disable formatting for HTML
+                horizontal=False,
+            )
+
+            options_html = "".join([
+                f"<div class='option'><input class='radio-button' type='radio' name='q{i}' value='{option}' disabled {'checked' if option == selected_option else ''} />{option}</div>"
+                for option in question["options"]
+            ])
             st.markdown(options_html, unsafe_allow_html=True)
 
-            user_answer = st.radio(
-                "Javobingizni tanlang:",
-                question["options"],
-                key=f"q{selected_chunk_index}_{i}"
-            )
-            user_answers.append(user_answer)
+            user_answers.append(selected_option)
             progress += 1
             st.progress(progress / len(selected_questions))
 
@@ -151,6 +156,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 # import streamlit as st
