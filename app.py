@@ -1,5 +1,4 @@
 import streamlit as st
-import random
 from fpdf import FPDF
 
 # Test shablonini yuklash funksiyasi
@@ -69,13 +68,15 @@ def main():
             padding: 10px;
             margin-bottom: 15px;
         }
+        .selected {
+            background-color: #cce5ff !important;
+        }
     </style>""", unsafe_allow_html=True)
     st.markdown("<h3 class='title'>Quyidagi testga javob bering:</h3>", unsafe_allow_html=True)
 
     # Test faylini yuklash
     test_file = "test_template.txt"  # Test fayli nomi
     questions = load_test_from_file(test_file)
-    random.shuffle(questions)  # Savollarni aralashtirish
 
     # Savollarni bo‘limlarga ajratish
     chunks = split_questions(questions, chunk_size=25)
@@ -86,20 +87,24 @@ def main():
     selected_questions = chunks[selected_chunk_index]
 
     # Javoblarni saqlash
-    user_answers = []
+    user_answers = [None] * len(selected_questions)
+
+    # Font o'lchamini boshqarish
+    font_size = st.slider("Shrift o'lchamini tanlang:", min_value=10, max_value=20, value=14)
+    st.markdown(f"<style>.question {{ font-size: {font_size}px !important; }}</style>", unsafe_allow_html=True)
 
     # Har bir savolni chiqarish
-    progress = 0
     for i, question in enumerate(selected_questions):
-        st.markdown(f"<div class='question'><b>{i + 1}. {question['question']}</b></div>", unsafe_allow_html=True)
+        st.markdown(f"<div class='question' id='question-{i}'><b>{i + 1}. {question['question']}</b></div>", unsafe_allow_html=True)
         user_answer = st.radio(
             "Javobingizni tanlang:",
             question["options"],
-            key=f"q{selected_chunk_index}_{i}"  # Unique key for each question
+            key=f"q{selected_chunk_index}_{i}",
+            index=user_answers[i] if user_answers[i] is not None else -1
         )
-        user_answers.append(user_answer)
-        progress += 1
-        st.progress(progress / len(selected_questions))
+        if user_answer:
+            user_answers[i] = user_answer
+            st.markdown(f"<style>#question-{i} {{ background-color: #cce5ff; }}</style>", unsafe_allow_html=True)
 
     # Javoblarni topshirish
     if st.button("Testni yakunlash"):
@@ -123,6 +128,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
 
