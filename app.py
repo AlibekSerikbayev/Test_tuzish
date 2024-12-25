@@ -1,4 +1,3 @@
-# # file: streamlit_test_app.py
 import streamlit as st
 import random
 from fpdf import FPDF
@@ -16,10 +15,9 @@ def load_test_from_file(file_path):
             question_text = parts[0].replace("****[1]\n", "").strip()
             options = [part.strip() for part in parts[1:]]
             correct_answer = options[0]  # To'g'ri javob doim birinchi bo'ladi
-            shuffled_options = random.sample(options, len(options))  # Javoblarni chalkashtirish
             questions.append({
                 "question": question_text,
-                "options": shuffled_options,
+                "options": options,
                 "correct_answer": correct_answer
             })
     return questions
