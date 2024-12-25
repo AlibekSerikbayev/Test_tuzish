@@ -117,7 +117,7 @@ def main():
         # PDF-ni yuklab olish havolasi
         with open(pdf_file_path, "rb") as pdf_file:
             pdf_data = pdf_file.read()
-        st.download_button("📄 Natijalarni PDF shaklda yuklab olish", data=pdf_data, file_name="test_results.pdf", mime="application/pdf")
+        st.download_button("📘 Natijalarni PDF shaklda yuklab olish", data=pdf_data, file_name="test_results.pdf", mime="application/pdf")
 
 if __name__ == "__main__":
     main()
