@@ -1,0 +1,5779 @@
+﻿****[1]
+Bulutli hisoblashning asosiy qismi nima?
+++++
+ Hammasi tog'ri
+++++
+ Platforma xizmati
+++++
+ Dasturiy vosita xizmati
+++++
+ Infrastruktura xizmati
+%%%%
+****[1]
+Bulutli hisoblash nima uchun yaratilgan?
+++++
+  Ma'lumotlar bulutda yoki virtual bo'shliqda masofadan turib topiladi
+++++
+  Ma'lumotlar bazasiga kirish
+++++
+  Internetga kirish huquqi
+++++
+  Hammasi noto'g'r
+%%%%
+****[1]
+Bulutli hisoblash qaysi maqsadlar uchun ishlatiladi?
+++++
+  Xarajatlarni kamaytirish
+++++
+  Samaradorlikni oshirish
+++++
+  Tez ishlash va samaradorlik
+++++
+ Hammasi tog'ri
+%%%%
+****[1]
+Quyidagi variantlardan qaysi biri bulutli ma’lumotlar omborlariga misol hisoblanadi?
+++++
+  Google Drive
+++++
+  Windows Explorer
+++++
+  Microsoft Word
+++++
+  Adobe Photoshop
+%%%%
+****[1]
+Bulutli hisoblash qanday tushunchani o'z ichiga oladi?
+++++
+  Ma'lumotlarni faollashtirish texnologiyasi
+++++
+  Internetga kirish huquqi
+++++
+  Operatsion tizimlar
+++++
+  Hammasi noto'g'ri
+%%%%
+****[1]
+Quyidagi xizmatlardan qaysi biri bulutli hisoblashning asosiy bo'limlaridan emas?
+++++
+  Elektron pochta xizmati
+++++
+  Platforma xizmati
+++++
+  Dasturiy vosita xizmati
+++++
+  Infrastruktura xizmati
+%%%%
+****[1]
+Bulutli hisoblashning asosiy xususiyati nima?
+++++
+  Internet-mavzudagi kompyuter resurslarini taqdim etish
+++++
+  Elektron musiqa streamingi
+++++
+  Kinoteatrda onlayn kinolar
+++++
+  Elektron pochta xizmati
+%%%%
+****[1]
+Bulutli ma'lumotlarni saqlashda ishlatiladigan yagona xizmat qaysi(Ushbu variantlar orasidan)?
+++++
+  Google Drive
+++++
+  Microsoft Word
+++++
+  Adobe Photoshop
+++++
+  iTunes
+%%%%
+****[1]
+Bulutli hisoblashni boshqarishda foydalaniladigan asosiy xizmatlar qaysilardir?
+++++
+  Ma'lumotlar bazasi va serverlar
+++++
+  Windows Explorer
+++++
+  Microsoft Office dasturlari
+++++
+  Adobe Creative Suite
+%%%%
+****[1]
+Quyidagi xizmatlardan qaysi biri bulutli hisoblashning asosiy tushunchalari orasida emas?
+++++
+Virtual haqiqiylik
+++++
+Platforma xizmati
+++++
+Dasturiy vosita xizmati
+++++
+Infrastruktura xizmati
+%%%%
+****[1]
+Bulutli hisoblash nima uchun mashhur?
+++++
+Ma'lumotlarni serverlarda saqlash va masofaviy kirish
+++++
+Xavfsizlikni oshirish
+++++
+Fayllarni USB flashdiskda saqlash
+++++
+Internetdan foydalanishni bekor qilish
+%%%%
+****[1]
+Bulutli hisoblash qanday asosda ishlashni ta'minlaydi?
+++++
+Lokal kompyuterlarni ta'minlash bilan
+++++
+Masofadan foydalanuvchiga qo'shimcha dastur o'rnating
+++++
+ Internetga kirish huquqi bilan
+++++
+Elektron pochta yuborish bilan
+%%%%
+****[1]
+Bulutli hisoblashning eng muhim xususiyati qandaydir?
+++++
+Internet-mavzudagi kompyuter resurslarini taqdim etish
+++++
+Foydalanuvchilarga ma'lumotlarga kirishni ta'minlash
+++++
+Qo'llanuvchilar uchun xavfsizlikni oshirish
+++++
+Kompyuter dasturlarini yuklash imkoniyati
+%%%%
+****[1]
+Quyidagi xizmatlardan qaysi biri bulutli hisoblashning bir qismini ifodalaydi?
+++++
+Google Drive
+++++
+Windows Explorer
+++++
+Adobe Photoshop
+++++
+Microsoft Word
+%%%%
+****[1]
+Bulutli hisoblash foydalanuvchilarga qanday imkoniyatlar beradi?
+++++
+Masofadan turib ma'lumotlarga kirish
+++++
+Fayllarni kompyuteriga yuklash
+++++
+Ma'lumotlar bazasini o'chirish
+++++
+Ehtiyot bo'yicha ma'lumotlar yig'ish
+%%%%
+****[1]
+Quyidagi xizmatlardan qaysi biri bulutli hisoblashning asosiy bo'limlaridan emas?
+++++
+   Kompyuter o'yinlari
+++++
+Platforma xizmati
+++++
+Infrastruktura xizmati
+++++
+Elektron pochta xizmati
+%%%%
+****[1]
+Bulutli hisoblashning qaysi xususiyati foydalanuvchilar uchun eng muhimdir?
+++++
+Masofadan turib ma'lumotlarga kirish
+++++
+Tez ishlash
+++++
+Xavfsizlik
+++++
+Barcha ma'lumotlarni serverda saqlash
+%%%%
+****[1]
+Quyidagi xizmatlardan qaysi biri bulutli hisoblashning bir qismini ifodalaydi?
+++++
+Google Drive
+++++
+Microsoft Excel
+++++
+Adobe Illustrator
+++++
+Skype
+%%%%
+****[1]
+Bulutli hisoblash nima uchun mashhur?
+++++
+Masofadan ma'lumotlarga kirish
+++++
+Internetga kirish huquqi
+++++
+Elektron pochta yuborish
+++++
+Kompyuter o'yinlari o'ynash
+%%%%
+****[1]
+Bulutli hisoblashning boshqarishda foydalaniladigan asosiy xizmatlar qaysilardir?
+++++
+Ma'lumotlar bazasi va serverlar
+++++
+Internet brauzerlari
+++++
+Mobil ilovalar
+++++
+Microsoft Office dasturlari
+%%%%
+****[1]
+Quyidagi xizmatlardan qaysi biri bulutli hisoblashning bir qismini ifodalaydi?
+++++
+Google Drive
+++++
+Windows Explorer
+++++
+Adobe Photoshop
+++++
+Microsoft Word
+%%%%
+****[1]
+Bulutli hisoblash foydalanuvchilarga qanday imkoniyatlar beradi?
+++++
+Masofadan turib ma'lumotlarga kirish
+++++
+Fayllarni kompyuteriga yuklash
+++++
+Ma'lumotlar bazasini o'chirish
+++++
+Ehtiyot bo'yicha ma'lumotlar yig'ish
+%%%%
+****[1]
+Quyidagi xizmatlardan qaysi biri bulutli hisoblashning asosiy bo'limlaridan emas?
+++++
+Elektron pochta xizmati
+++++
+Platforma xizmati
+++++
+Kompyuter o'yinlari
+++++
+Infrastruktura xizmati
+%%%%
+****[1]
+Bulutli hisoblashning qaysi xususiyati foydalanuvchilar uchun eng muhimdir?
+++++
+Xavfsizlik
+++++
+Tez ishlash
+++++
+Masofadan turib ma'lumotlarga kirish
+++++
+Barcha ma'lumotlarni serverda saqlash
+%%%%
+****[1]
+Bulutli hisoblashning eng muhim xususiyati qandaydir?
+++++
+Internet-mavzudagi kompyuter resurslarini taqdim etish
+++++
+Foydalanuvchilarga ma'lumotlarga kirishni ta'minlash
+++++
+Qo'llanuvchilar uchun xavfsizlikni oshirish
+++++
+Kompyuter dasturlarini yuklash imkoniyati
+%%%%
+****[1]
+Bulutli hisoblash modellari qaysi xususiyatlarga ega? 
+++++
+Taqsimlangan hisoblash tizimlari uchun mos
+++++
+Katta kompaniyalar uchun maxsus
+++++
+Hamma tashkilotlar uchun mos 
+++++
+Internet bilan bog'liq foydalanuvchilar
+%%%%
+****[1]
+Bulutli hisoblash texnologiyalarining afzalliklari va kamchiliklari haqida nimalar aytilgan? 
+++++
+Shaxsiy ma'lumotlarni saqlash uchun yaxshi emas
+++++
+Har xil o'yinlarga ko'rsatuvchi 
+++++
+Ommaviy va shaxsiy foydalanish mumkin 
+++++
+Faqat internet ulanish kerak 
+%%%%
+****[1]
+Qaysi misollar bulutli hisoblash xizmatlariga misollar sifatida aks ettirilgan? 
+++++
+Amazon EC2 va Google App Engine 
+++++
+Telegram va WhatsApp 
+++++
+Microsoft Word va Excel 
+++++
+Apple va Samsung telefonlari
+%%%%
+****[1]
+Bulutli hisoblash tizimlarida foydalanish uchun qaysi shart kerak? 
+++++
+Internetga ulangan bo'lish 
+++++
+Bepul obuna 
+++++
+Kichik noqulayliklar 
+++++
+Tarmoqqa ulanish
+%%%%
+****[1]
+Bulutli hisoblash texnikasi va kamchiliklari qanday belgilandi? 
+++++
+Xavfsizlik va maxfiylik muammo
+++++
+Bizneslar uchun afzal 
+++++
+Resurslar uchun minimal talab 
+++++
+Faqat tarmoqqa ulanish 
+%%%%
+****[1]
+Bulutli texnologiyalarning asosiy maqsadi nima? 
+++++
+Minimal resurslar orqali ma'lumotlarni taqdim etish 
+++++
+Foydalanuvchilarga internet foydalanishini taqdim etish 
+++++
+Maxfiylik va xavfsizlikni ta'minlash 
+++++
+Bizneslarga xizmat ko'rsatish
+%%%%
+****[1]
+Bulutli hisoblash texnologiyalari qanday yo'lga olib kelmoqda? 
+++++
+An'anaviy o'zgarishlar 
+++++
+Odatiy xavflar 
+++++
+Internet foydalanishini oshirish 
+++++
+Yashil energiya ishlatish
+%%%%
+****[1]
+Bulutli hisoblash texnologiyalari qanday muammoni yechish uchun foydalanilmoqda? 
+++++
+Maxfiylik va xavfsizlik muammo 
+++++
+Barcha tizim resurslarini kuzatish 
+++++
+Internet provayderlarga bog'liq 
+++++
+Butunlay bulutli dunyoda foydalanish
+%%%%
+****[1]
+Bulutli hisoblash texnologiyalari qanday o'rganish uchun qanday yo'l topmoqda? 
+++++
+Foydalanuvchilarning qulayliklari uchun 
+++++
+Kichik kompaniyalar uchun 
+++++
+Internet foydalanishini oshirish 
+++++
+Ta'lim muassasalari uchun
+%%%%
+****[1]
+Bulutli hisoblash tizimlarida qaysi qiyinliklarga ega? 
+++++
+Xavfsizlik va maxfiylik talabi 
+++++
+Yashil energiya ishlatish 
+++++
+Bizneslarga xizmat ko'rsatish 
+++++
+Bepul obuna bo'lish
+%%%%
+****[1]
+Bulutli hisoblash tizimlarida foydalanishni talab qiladigan shart nima?
+++++
+Internetga ulanish 
+++++
+Bizneslar uchun afzal 
+++++
+Taqsimlangan hisoblash tizimlari 
+++++
+Katta kompaniyalar uchun maxsus
+%%%%
+****[1]
+Bulutli hisoblash tizimlarining afzalliklari qaysi bo'lib o'zlashtirilgan? 
+++++
+Minimal resurslar orqali tezkor holatda ma'lumotlarni taqdim etish 
+++++
+Ta'lim muassasalari uchun moslashish 
+++++
+Internet bilan bog'liq foydalanuvchilar 
+++++
+Odatiy xavflar
+%%%%
+****[1]
+Bulutli hisoblash texnikasi qanday rivojlanib keldi? 
+++++
+2000-yillar boshidan 
+++++
+22 yoshga 
+++++
+Faqat shaxsiy foydalanuvchilar uchun 
+++++
+Kichik kompaniyalar uchun
+%%%%
+****[1]
+Bulutli hisoblash texnologiyalari qaysi tashkilotlar uchun afzal? 
+++++
+Bizneslar uchun maxsus 
+++++
+Internet provayderlar 
+++++
+Katta kompaniyalar 
+++++
+Ta'lim muassasalari
+%%%%
+****[1]
+Bulutli hisoblash texnologiyalarining maqsadi nima? 
+++++
+Minimal resurslar orqali ma'lumotlarni taqdim etish 
+++++
+Ta'lim muassasalari uchun moslashish 
+++++
+Maxfiylik va xavfsizlikni ta'minlash 
+++++
+Bizneslarga xizmat ko'rsatish
+%%%%
+****[1]
+Bulutli hisoblash tizimlarida foydalanish uchun nimalar kerak? 
+++++
+Internetga ulanish 
+++++
+Taqsimlangan hisoblash tizimlari 
+++++
+Odatiy xavflar
+++++
+Bepul obuna
+%%%%
+****[1]
+Bulutli hisoblash tizimlarining muhim xususiyati nima? 
+++++
+Minimal resurslar orqali tezkor ma'lumotlarni taqdim etish 
+++++
+Ta'lim muassasalari uchun moslashish 
+++++
+Internet foydalanishini oshirish 
+++++
+Xavfsizlik va maxfiylik talabi
+%%%%
+****[1]
+Bulutli hisoblash texnologiyalari qanday yo'lga olib kelmoqda? 
+++++
+An'anaviy o'zgarishlar 
+++++
+Odatiy xavflar 
+++++
+Bizneslarga xizmat ko'rsatish 
+++++
+Katta kompaniyalar uchun maxsus
+%%%%
+****[1]
+Bulutli hisoblash tizimlarida qanday qiyinliklarga ega? 
+++++
+Xavfsizlik va maxfiylik talabi 
+++++
+Internetga ulanish 
+++++
+Taqsimlangan hisoblash tizimlari 
+++++
+Bizneslar uchun Afzal
+%%%%
+****[1]
+Bulutli hisoblash tizimlarida foydalanish uchun nimalar talab qilinadi? 
+++++
+Katta kompaniyalar uchun maxsus 
+++++
+Taqsimlangan hisoblash tizimlari 
+++++
+Ta'lim muassasalari uchun moslashish 
+++++
+Odatiy xavflar
+%%%%
+****[1]
+Bulutli hisoblash tizimlarining afzalliklari qaysi bo'lib o'zlashtirilgan? 
+++++
+Maxfiylik va xavfsizlikni ta'minlash 
+++++
+Internet bilan bog'liq foydalanuvchilar 
+++++
+Bizneslar uchun maxsus 
+++++
+Taqsimlangan hisoblash tizimlari
+%%%%
+****[1]
+Bulutli hisoblash texnologiyalari qanday rivojlanib keldi? 
+++++
+2000-yillar boshidan
+++++
+Odatiy xavflar 
+++++
+Ta'lim muassasalari uchun moslashish 
++++
+Taqsimlangan hisoblash tizimlari uchun moslashish 
+%%%%
+****[1]
+Bulutli hisoblash tizimlarida qanday qiyinliklarga ega? 
+++++
+Xavfsizlik va maxfiylik talabi 
+++++
+Bizneslar uchun afzal 
+++++
+Taqsimlangan hisoblash tizimlari 
+++++
+Katta kompaniyalar uchun maxsus
+%%%%
+****[1]
+Bulutli hisoblash tizimlarida foydalanish uchun nimalar talab qilinadi? 
+++++
+Internetga ulanish 
+++++
+Taqsimlangan hisoblash tizimlari 
+++++
+Kichik noqulayliklar 
+++++
+Ta'lim muassasalari uchun moslashish
+%%%%
+****[1]
+Bulutli hisoblash tizimlarining afzalliklari qaysi bo'lib o'zlashtirilgan? 
+++++
+Maxfiylik va xavfsizlikni ta'minlash
+++++
+Taqsimlangan hisoblash tizimlari 
+++++
+Internet bilan bog'liq foydalanuvchilar 
+++++
+Bizneslar uchun maxsus
+%%%%
+****[1]
+Bulutli hisoblash xizmatlari modellarining nechta asosiy turi mavjud?
+++++
+3
+++++
+2
+++++
+4
+++++
+5
+%%%%
+****[1]
+Bulutli hisoblash xizmatlari modellarining uchta asosiy turini sanab bering?
+++++
+"IaaS"“PaaS” “SaaS"
+++++
+"RaaS"“DaaS” “XaaS"
+++++
+"VaaS"“DaaS” “QaaS"
+++++
+"KaaS"“PaaS” “NaaS"
+%%%%
+****[1]
+"IaaS" kengaytmasi?
+++++
+Infrastructure as a Service
+++++
+Platforma as a Service
+++++
+Software as a Service
+++++
+User as a Service
+%%%%
+****[1]
+“PaaS” kengaytmasi?
+++++
+Platforma as a Service
+++++
+Infrastructure as a Service
+++++
+Software as a Service
+++++
+User as a Service
+%%%%
+****[1]
+ “SaaS"kengaytmasi?
+++++
+Software as a Service
+++++
+Infrastructure as a Service
+++++
+Platforma as a Service
+++++
+User as a Service
+%%%%
+****[1]
+ “Platforma as a Service” so’zni manosi?
+++++
+Xizmat sifatida platform
+++++
+Xizmat sifatida dasturiy ta'minot
+++++
+Xizmat sifatida infratuzilma
+++++
+Xizmat sifatida modelar
+%%%%
+****[1]
+“Software as a Service” so’zni manosi?
+++++
+Xizmat sifatida dasturiy ta’minot
+++++
+Xizmat sifatida platforma
+++++
+Xizmat sifatida infratuzilma
+++++
+Xizmat sifatida modelar
+%%%%
+****[1]
+ “Infrastructure as a Service” so’zni manosi?
+++++
+Xizmat sifatida infratuzilma
+++++
+Xizmat sifatida platforma
+++++
+Xizmat sifatida dasturiy ta’minot
+++++
+Xizmat sifatida modelar
+%%%%
+****[1]
+Foydalanuvchilarga serverlar, saqlash va tarmoq kabi hisoblash resurslaridan foydalanish imkonini beradi.Bu tarif bulutli hisoblash xizmatlari modellarining qaysi asosiy turi?
+++++
+Xizmat sifatida infratuzilma (IaaS)
+++++
+Xizmat sifatida platforma (PaaS)
+++++
+Xizmat sifatida dasturiy ta’minot (SaaS)
+++++
+Xizmat sifatida modelar(MaaS)
+%%%%
+****[1]
+Foydalanuvchilarga ilovalarni ishlab chiqish, sinab ko‘rish va joylashtirish uchun platformani taqdim etadi.Bu tarif bulutli hisoblash xizmatlari modellarining qaysi asosiy turi?
+++++
+Xizmat sifatida platform(PaaS)
+++++
+Xizmat sifatida dasturiy ta'minot(SaaS)
+++++
+Xizmat sifatida infratuzilma(IaaS)
+++++
+Xizmat sifatida modelar(MaaS)
+%%%%
+****[1]
+ Foydalanuvchilarga bulutda joylashgan dasturiy ilovalarga kirishni ta'minlaydi.  Bu bulutli hisoblash xizmatlari modellarining qaysi asosiy turi?
+++++
+Xizmat sifatida dasturiy ta’minot(SaaS)
+++++
+Xizmat sifatida platforma(PaaS)
+++++
+Xizmat sifatida infratuzilma(IaaS)
+++++
+Xizmat sifatida modelar(MaaS)
+%%%%
+****[1]
+
+Bulutli hisoblash, shuningdek, joylashtirish modellari asosida tasniflanishi mumkin  bular qaysilar?
+++++
+Ommaviy bulut, shaxsiy bulut , gibrid bulut.
+++++
+Oddiy bulut ,bitta bulut, shaxsiy bulut
+++++
+Gibrid bulut, dasturiy bulut,modeli bulut
+++++
+Shaxsiy bulut, dasturiy bulut, bitta bulut
+%%%%
+****[1]
+Bulutli hisoblashning bir turi bo‘lib, unda bulutli xizmat ko‘rsatuvchi provayder hisoblash resurslarini umumiy internet orqali foydalanuvchilarga taqdim etadi. bujoylashtirish modellari qaysi turi?
+++++
+Ommaviy bulut,
+++++ 
+Shaxsiy bulut 
+++++
+Gibrid bulut
+++++
+Dasturiy bulut
+%%%%
+****[1]
+Bulutli hisoblashning bir turi bo‘lib, unda hisoblash resurslari bitta tashkilotga ajratiladi.bu joylashtirish modellari qaysi turi?
+++++
+Shaxsiy bulut, 
+++++
+Ommaviy bulut ,
+++++
+Gibrid bulut.
+++++
+Dasturiy bulut
+%%%%
+****[1]
+Yagona infratuzilma yaratish uchun davlat va xususiy bulut resurslarini birlashtirgan bulutli hisoblashning bir turi. .bu joylashtirish modellari qaysi turi?
+++++
+Gibrid bulut, 
+++++
+Ommaviy bulut ,
+++++
+Shaxsiy bulut.
+++++
+Dasturiy bulut
+%%%%
+****[1]
+Cloud Computing  bu?
+++++
+Sizning mijozlaringizning ehtiyojlari va savollarini darhol bilish imkonini beradi.
+++++
+Internet orqali hisoblash xizmatlarini taqdim etish modeli.
+++++
+Android va Apple-da ham ishlatilishi mumkin bo'lgan dastur hisoblanadi.
+++++
+Google tomonidan ishlab chiqilgan onlayn fayllarni saqlash xizmati hisoblanadi.
+%%%%
+****[1]
+Bulutli hisoblash bu?
+++++
+Internet orqali hisoblash xizmatlarini taqdim etish modeli.
+++++
+Google tomonidan ishlab chiqilgan onlayn fayllarni saqlash xizmati hisoblanadi.
+++++
+Android va Apple-da ham ishlatilishi mumkin bo'lgan dastur hisoblanadi.
+++++
+Sizning mijozlaringizning ehtiyojlari va savollarini darhol bilish imkonini beradi
+%%%%
+****[1]
+Google Drive bu ?
+++++
+Google tomonidan ishlab chiqilgan onlayn fayllarni saqlash xizmati hisoblanadi.
+++++
+Android va Apple-da ham ishlatilishi mumkin bo'lgan dastur hisoblanadi.
+++++
+Sizning mijozlaringizning ehtiyojlari va savollarini darhol bilish imkonini beradi
+++++
+Microsoft komponiyasi tomonidan ishlab chiqilgan bo’lib,  u sizning kompyuteringizdan fayllarni yuklab olish imkonini beradi
+%%%%
+****[1]
+Google Drive nechinchi yilda chiqarilgan?
+++++
+2012
+++++
+2011
+++++
+2015
+++++
+1016
+%%%%
+****[1]
+Google Drive har bir mijoz o'z fayllarini saqlash uchun nechi gbayt bo'sh joy ajratadi?
+++++
+5
+++++
+6
+++++
+7
+++++
+3
+%%%%
+****[1]
+SkyDrive qaysi komponiya tomonidan ishlab chiqilgan?
+++++
+Microsoft
+++++
+Apple,
+++++
+Google
+++++
+Samsung 
+%%%%
+****[1]
+SkyDrive har bir mijoz o'z fayllarini saqlash uchun nechi gbayt bo'sh joy ajratadi?
+++++
+7
+++++
+8
+++++
+3
+++++
+5
+%%%%
+****[1]
+SkyDrive bu?
+++++
+Sizning kompyuteringizdan fayllarni yuklab olish imkonini beradi, ularni internetda saqlash (bulutda) va ularga veb-brauzer orqali kirish va foydalanish imkonini beradi.
+++++
+Google tomonidan ishlab chiqilgan onlayn fayllarni saqlash xizmati hisoblanadi.
+++++
+Android va Apple-da ham ishlatilishi mumkin bo'lgan dastur hisoblanadi.
+++++
+Sizning mijozlaringizning ehtiyojlari va savollarini darhol bilish imkonini beradi
+%%%%
+****[1]
+Dropbox  bu?
+++++
+Xizmati bulutli fayllarni joylashtirish uchun foydalaniladi
+++++
+Sizning mijozlaringizning ehtiyojlari va savollarini darhol bilish imkonini beradi
+++++
+Google tomonidan ishlab chiqilgan onlayn fayllarni saqlash xizmati hisoblanadi.
+++++
+Internet orqali hisoblash xizmatlarini taqdim etish modeli.
+%%%%
+****[1]
+Google Drive Google tomonidan 2012-yil 24-aprelda nimani oʻrniga chiqarilgan.
+++++
+Google Docs
+++++
+SkyDrive
+++++
+Dropbox
+++++
+Microsoft
+%%%%
+****[1]
+AWS  ning   asosiy  xususiyatlari  qaysi  javobda  keltirilgan
+Obyektni  saqlash  uchun  oddiy  saqlash  xizmati   (S3)
+++++    
+Servisni  hisoblash  uchun  azuri  funksiyalari  Blop,Storage    
+++++   
+Ob'ektni saqlash uchun bulutli saqlash
+++++ 
+Konteynerlarni boshqarish uchun Kubernetes Engine
+%%%%
+****[1]
+Dropbox   nechinchi  yilda  tashkil  etilgan.
+++++   
+2007-yil
+++++
+2008-yil
+++++
+2009-yil
+++++
+2005-yil
+%%%%
+****[1]
+Dropboxga  xar  kuni   nechidan ortiq  fayllar  yuklanadi.
+++++    
+2.2   mlrd
+++++   
+2.4   mlrd
+++++   
+2.3  mlrd
+++++     
+2.1   mlrd
+%%%%
+****[1]
+Dropbox  kim tomonidan  tashkil  etilgan.
+++++   
+Dryu   Xyuston   va  Arash  Firdovsi
+++++  
+Z. Fred va  Vigotiskiy
+++++
+Richerd  va  Jon
+++++
+Tomson  
+%%%%
+****[1]
+Google  bulut  tarkibiga  kiruvchini  toping.
+++++  
+Konteynerlarni boshqarish uchun Azure Kubernetes xizmati (AKS)
+++++  
+WebDAV protokoli orqali hujjatsiz kirish mavjud.
+++++ 
+Tasvirlar eskiz sifatida koʻrib chiqiladi
+++++ 
+Barcha papkalar va fayllar uchun siz kirish darajasini belgilashingiz mumkin
+%%%%
+****[1]
+Hozirgi  kunda  Dropbox   qiymati  qancha.
+++++     
+10  mlrd  dollor
+++++    
+15   mlrd  dollor
+++++    
+5  mlrd  dollor
+++++
+20  mlrd  dollor
+%%%%
+****[1] 
+Dropbox  qanchadan ortiq  foydalanuvchi  bazasi  mavjud.
+++++    
+500   mln
+++++
+600 mlrd 
+++++
+100  mln
+++++
+150  mln
+%%%%
+****[1]
+Mamlakatimizda "bulut" da ma'lumotlarni saqlash uchun mashhur yechimlardan biri  bu …  
+++++   
+Yandex  Disk
+++++
+Dropbox
+++++
+OneDrive
+++++
+Windows
+%%%%
+****[1]
+Nechinchi yilda    OneDrive  ishga  tushirildi.
+++++   
+2014-yil
+++++
+2004-yil
+++++
+2015-yil
+++++
+2007 –yil
+%%%%
+****[1]
+2014-yilda  qaysi  faoliyat  tugatiladi.
+++++   
+OneDreve
+++++   
+Yandex
+++++ 
+SkyDrive
+++++
+WebDav
+%%%%
+****[1]
+Yandex Diskdan  ro’yhatdan   o’tgandan  so’ng   qancha  gb  olinadi
+++++  
+10  gb
+++++   
+25  gb
+++++    
+12   gb
+++++
+7  gb
+%%%%
+****[1]
+OneDrive   nechi  gb  baytgacha   malumotni  bepul  saqlash  imkonini  beradi  
+++++  
+5  gb
+++++  
+ 8   gb
+++++
+13  gb
+++++   
+6   gb
+%%%%
+****[1]
+ Dryu   Xyuston   va  Arash  Firdovsi   2007-yil  nimani  yaratgan.
+++++   
+Dropbox
+++++
+Windows
+++++
+SkyDrive
+++++
+OneDrive
+%%%%
+****[1]
+Microsoft  Azure  nima 
+++++ 
+Microsoft tomonidan taqdim etilgan bulutli hisoblash platformasi
+++++  
+Amazon tomonidan taklif qilinadigan bulutli hisoblash platformasi.
+ ++++  
+Konteynerlarni boshqarish uchun Kubernetes Engine
+++++
+Android, iOS, Windows Phone, Windows, Xbox (shu jumladan, Windows 8), macOS uchun mijoz ilovalari
+%%%%
+****[1]
+Qaysi  dasturda   butun  papkalarni  bitta  arxivga  joylashtirish  mumkin
+++++   
+OneDrive
+++++
+SkyDrive
+++++
+Windows
+++++  
+Dropbox
+%%%%
+****[1]
+Dropboxda    nechidan ortiq  kantentlar  yuklangan.
+++++   
+600 mlrd
+++++   
+300   mlrd
+++++
+400  mlrd  
+++++
+200  mlrd
+%%%%
+****[1]
+Skrenshotlarni  olish…
+++++ 
+Ushbu funktsiyani faqat Yandex.Disk dasturidan olish mumkin. Skrinshot - bu sizning kompyuteringiz ekranining skrinshotidir.
+++++ 
+Xizmat sizni umumiy kirish tanlangan foydalanuvchilarni "tarmoq drayveri"
+++++
+Tasvirlar eskiz sifatida koʻrib chiqiladi, shuningdek, ularni slaydlar sifatida koʻrish imkoniyati mavjud.
+++++
+Barcha papkalar va fayllar uchun siz kirish darajasini belgilashingiz mumkin
+%%%%
+****[1]
+Fayllarni  sinxronlash  bu…
+++++  
+"Yandex.Disk" maxsus dasturini o'rnatishda kompyuteringizda bulutli saqlashning aniq nusxasi yaratiladi
+++++  
+Skrinshot - bu sizning kompyuteringiz ekranining skrinshotidir.
+++++   
+Xizmat sizni umumiy kirish tanlangan foydalanuvchilarni "tarmoq drayveri
+++++
+TJY
+%%%%
+****[1]
+600 mlrd dan  ortiq  qaysiga  kontentlar  yuklanadi
+++++  
+Drapbox
+++++
+OneDrive
+++++ 
+ A   va  B 
+++++
+Stykebox
+%%%%
+****[1]
+Azure-ning asosiy xususiyatlari  nechta.
+++++ 
+ 5ta
+++++
+7  ta
+++++
+2  ta  
+++++
+9  ta 
+%%%%
+****[1]
+Google  bulut  nimasi  bilan  mashhur  
+++++   
+ Ishlashi  kengaytirilishi  va Iqtisodiy  samaradorligi  
+++++
+TJY
+++++
+Xotirasi va ishlashi 
+++++
+Ishlash  soddaligi bilan
+%%%%
+****[1]
+Microsoft  Azure  nima ?
+++++ 
+Microsoft tomonidan taqdim etilgan bulutli hisoblash platformasi
+++++ 
+ Amazon tomonidan taklif qilinadigan bulutli hisoblash platformasi. 
+++++  
+Konteynerlarni boshqarish uchun Kubernetes Engine
+++++
+Android, iOS, Windows Phone, Windows, Xbox (shu jumladan, Windows 8), macOS uchun mijoz ilovalari
+%%%%
+****[1]
+Dropbox  kim tomonidan  tashkil  etilgan.
+++++ 
+Dryu   Xyuston   va  Arash  Firdovsi
+++++  
+Z. Fred va  Vigotiskiy
+++++  
+ Richerd  va  Jon
+++++
+Tomson  
+%%%%
+****[1]
+Fayllarni  saqlash  bu...
+++++ 
+Ushbu funktsiyani faqat Yandex.Disk dasturidan olish mumkin. hujjatlar, arxivlar, dasturlar, kitoblar, fotosuratlar, musiqa, filmlar va hk. Fayl o'lchamlari bo'yicha ba'zi cheklovlar mavjud. 
+++++  
+ Xizmat sizni umumiy kirish tanlangan foydalanuvchilarni "tarmoq drayveri
+++++ 
+Xizmat sizni umumiy kirish tanlangan foydalanuvchilarni "tarmoq drayveri
+++++
+A  va  C
+%%%%
+****[1]
+Bulutning kontseptsiyadan kundalik foydalanishgacha ko'rib chiqish va qabul qilish evolyutsiyasi nechanchi yildan beri boshlangan?
+++++
+1950-yillardan boshlanadi.
+++++
+1800-yillardan boshlanadi.
+++++
+1999-yillardan boshlanadi.
+++++
+1900
+%%%%
+****[1]
+"sun'iy intellekt" atamasini yaratgan kompyuter mutaxassisi kim?
+++++
+ Jon Makkarti
+++++
+ Bill Gets
+++++
+ Stif Jobs
+++++
+ Ilon mask
+%%%%
+****[1]
+ARPANETNI Likider nechanchi yili ishlab chiqgan?
+++++
+ 1969
+++++
+ 2000
+++++
+ 1900
+++++
+ 1999
+%%%%
+****[1]
+Blutli hisoblashning necha xil turi bor?
+++++
+ 3
+++++
+ 2
+++++
+ tjy
+++++
+ 5
+%%%%
+ 
+****[1]
+Xizmat sifatida saqlashga asoslangan bulutli xizmati turi qaysi?
+++++
+ Storage- as - a - Service ( SaaS )
+++++
+ Process-as-a-Service ( PaaS )
+++++
+ Information-as-a-service ( IaaS )
+++++
+ tjy
+%%%%
+ 
+****[1]
+Xizmat sifatida jarayonga asoslangan bulutli xizmati turi qaysi?
+++++
+ Process-as-a-Service ( PaaS )
+++++
+ Information-as-a-service ( IaaS )
+++++
+ Storage- as - a - Service ( SaaS )
+++++
+ tjy
+%%%%
+ 
+****[1]
+Ma'lumot xizmat sifatiga asoslangan bulutli xizmati turi qaysi?
+++++
+ Information-as-a-service ( IaaS )
+++++
+ Process-as-a-Service ( PaaS )
+++++
+ tjy
+++++
+ Storage- as - a - Service ( SaaS )
+%%%%
+****[1]
+Microsoft Windows Azure va Google – Google App Engine bulutli platformalarni taqdim etgan yil
+++++
+ 2008
+++++
+ 2009
+++++
+ 2020
+++++
+ 1999
+%%%%
+ 
+****[1]
+AWS nima?
+++++
+ Amazon Web Service
+++++
+ Amazon Web Saler
+++++
+ tjy
+++++
+ Amazon World Service
+%%%%
+ 
+****[1]
+Apple o'zining bulutli saqlash yechimi Apple iCloudni nechanchi  yilda e'lon qildi
+++++
+ 2011
+++++
+ 2006
+++++
+ 2000
+++++
+ tjy
+%%%%
+ 
+****[1]
+Google Drive ishga tushirildi, u barcha bulut ta'riflarini bitta xizmat ostida birlashtirdi nechanchi yilda.
+++++
+ 2012
+++++
+ 1969
+++++
+ 1999
+++++
+ 1971
+%%%%
+****[1]
+Nechanchi yilda Google Apps bulutli xizmatlarini taklif qila boshladi.
+++++
+ 2006
+++++
+ 2000
+++++
+ 1999
+++++
+ 1969
+%%%%
+****[1]
+Nechanchi yilda bulutli hisoblash kontseptsiyasi Salesforce.com saytining ishga tushirilishi bilan boshlandi.
+++++
+ 1999
+++++
+ 1969
+++++
+ 1970
+++++
+ 2000
+%%%%
+ 
+****[1]
+IBM nechanchi yilda o'zining asosiy VM/370 yoki Virtual Machine Facility/370 tizimini ishlab chiqdi
+++++
+ 1972
+++++
+ 1969
+++++
+ 2000
+++++
+ 1988
+%%%%
+ 
+****[1]
+Google drive bir ro’yxatda  o’tgan uchun qancha tekinga bo’sh joy beradi?
+++++
+ 15 Gb
+++++
+ 5 Gb
+++++
+ 10 Gb
+++++
+ tjy
+%%%%
+ 
+****[1]
+One Drive bir account uchun qancha tekinga bo’sh joy beradi?
+++++
+5Gb
+++++
+ 15 Gb
+++++
+ 10 Gb
+++++
+ Bermaydi,barchasi pullik
+%%%%
+ 
+****[1]
+One drive qaysi kompaniyaga tegishli?
+++++
+ Microsoft 
+++++
+ Google
+++++
+ Apple
+++++
+ Amazon
+%%%%
+****[1]
+ICloud qaysi kompaniyaga teegishli?
+++++
+ Apple
+++++
+Microsoft 
+++++
+ Amazon
+++++
+ Samsung
+%%%%
+ 
+****[1]
+Tarmoqqa ulangan, doimiy ishlaydigan va tarmoqning turli xizmatlarini bajaradigan kompyuter bu....
+++++
+ Server 
+++++
+ Noutbuk
+++++
+ Kompyter
+++++
+ Brouzer
+%%%%
+ 
+****[1]
+Office ilovalari bilan yaxshi Integratsiyalashgan onlayn va oflayn ishlash mumkin bo’lgan va  One drive cloudga ega bo’lgan kompaniya nomi?
+++++
+ Microsoft
+++++
+ Samsung
+++++
+ HP
+++++
+Amazon 
+%%%%
+ 
+****[1]
+ICloud bir mijoz uchun qancha bepul bo’sh joy  beradi?
+++++
+ 5Gb
+++++
+ Bermaydi
+++++
+ 15 Gb
+++++
+ 512 Gb
+%%%%
+****[1]
+Internet yoki lokal tarmoq orqali foydalanuvchiga kompyuter resurslarini va imkoniyatlarini onlayn xizmat sifatida taqdim etadigan program-aparat tizimi bu nima?
+++++
+ Bulut texnalogiyalar
+++++
+ Tarmoq tizimlari
+++++
+ Virtual texnalogiyalar
+++++
+ Texnalogiyalar
+%%%%
+ 
+****[1]
+Kompyuter infrastrukturini onlayn xizmat sifatida taqdim etish
+++++
+Infratuzilma qanday xizmat (IaaS)
+++++
+ Xizmat sifatida platforma (PaaS)
+++++
+ tjy
+++++
+ Dasturlar xizmat sifatida(SaaS)
+%%%%
+ 
+****[1]
+Veb-ilovalarni xizmat sifatida ishlab chiqish, sinovdan o‘tkazish, joylashtirish va qo‘llab-quvvatlash uchun o‘rnatilgan platforma javoblardan birin tanlang?
+++++
+ Xizmat sifatida platforma (PaaS)
+++++
+ Infratuzilma xizmat (IaaS)
+++++
+ Dasturlar xizmat sifatida(SaaS)
+++++
+ tjy
+%%%%
+ 
+****[1]
+Outlook, Hotmail yoki Yahoo! Mail kabi veb-pochta xizmatlari bu qanday bulut xizamat turiga misol bo’ladi?
+++++
+ Dasturlar xizmat sifatida(SaaS)
+++++	
+ Xizmat sifatida platforma (PaaS)
+++++
+ Infratuzilma  xizmat (IaaS)
+++++
+ tjy
+%%%%
+ ****[1]
+Microsoft Cloud platformasi qaysi xizmatlar orqali foydalanish mumkin?
+++++
+Office 365 va Azure
+++++
+GoogleApp va Dropbox
+++++
+YandexDisk
+++++
+iCloud va Amazon Web Services
+%%%%
+****[1]
+Google Cloud Platform qanday xizmatlarni taklif qiladi?
+++++
+Google Drive va Google Photos
+++++
+Office 365 va Azure
+++++
+Dropbox va YandexDisk
+++++
+Adobe Creative Cloud va iCloud
+%%%%
+****[1]
+Dropbox qanday bulutli xizmatlarni taqdim etadi?
+++++
+Ma'lumotlar bazasi yig'ilgan va bilanish
+++++
+Video muharrir va montaj
+++++
+Email xizmati
+++++
+Ta'lim platformasi
+%%%%
+****[1]
+Microsoft Azure nimani ta'minlaydi?
+++++
+Bulutli kompyutering va xizmatlar
+++++
+Shaxsiy axborotlar uchun yig'iluvlar
+++++
+Multimedia muharrir va montaj
+++++
+Virtual huquqiy yordam
+%%%%
+****[1]
+YandexDisk qaysi turdagi ma'lumotlarni saqlash uchun mo'ljallangan?
+++++
+Dokumentlar va fayllar
+++++
+Fotolar va rasmlar
+++++
+Muzika va video
+++++
+Ta'lim kurslari
+%%%%
+****[1]
+Office 365 nimani ta'minlaydi?
+++++
+Online xizmatlar va dasturlar
+++++
+Fotolar va rasmlar
+++++
+Virtual kommunikatsiyalar
+++++
+Shaxsiy axborotlar uchun yig'iluvlar
+%%%%
+****[1]
+GoogleApp qanday xizmatlarni taqdim etadi?
+++++
+Elektron pochta va dokumentlar
+++++
+Bulutli kompyutering va xizmatlar
+++++
+Muzika va video strimingi
+++++
+Fotolar va rasmlar
+%%%%
+****[1]
+Dropbox foydalanuvchilariga nimani taklif qiladi?
+++++
+Onlayn ma'lumotlar bazasi
+++++
+Bulutli kompyutering va xizmatlar
+++++
+Shaxsiy axborotlar uchun yig'iluvlar
+++++
+Virtual huquqiy yordam
+%%%%
+****[1]
+Microsoft Cloud platformalari qanday ishlaydi?
+++++
+Biznes tashkilotlarining barcha murojaatlarini integratsiya qilish
+++++
+Internet xizmatlari taqdim etish
+++++
+Kompyuterning qurilmagan muloqotlari
+++++
+Shaxsiy ma'lumotlar uchun xavfsizlik
+%%%%
+****[1]
+Google Cloud Platform qaysi texnologiyalarni o'z ichiga oladi?
+++++
+Machine learning va artificial intelligence
+++++
+Blockchain va cryptocurrency
+++++
+Virtual reality va augmented reality
+++++
+3D printing va nanotechnology
+%%%%
+****[1]
+Dropbox qanday ushbu xizmatlarni ta'minlaydi?
+++++
+Cloud storage va file synchronization
+++++
+Social networking va blogging
+++++
+E-commerce va online shopping
+++++
+Video streaming va gaming
+%%%%
+****[1]
+Microsoft Azure qanday sohada ishlatiladi?
+++++
+Biznes analitikasi va reporting
+++++
+Musiqa va multimedia
+++++
+Shaxsiy muloqotlar va online mijoz xizmatlari
+++++
+Transport va logistika
+%%%%
+****[1]
+YandexDisk foydalanuvchilarga qanday imkoniyatlar beradi?
+++++
+Onlayn ma'lumotlar bazasi va fayl o'zgartirish
+++++
+Multimediyalarni tarqatish va ulashish
+++++
+Shaxsiy axborotlar uchun yig'iluvlar
+++++
+Biznes muharrir va montaj
+%%%%
+****[1]
+GoogleApp xizmatlarini kimlar ishlatishi mumkin?
+++++
+Universitetlar va o'quv markazlari
+++++
+Ixtisoslashtirilmagan foydalanuvchilar
+++++
+Faqat korxonalar
+++++
+Shaxsiy va korxonalar
+%%%%
+****[1]
+Microsoft Cloud platformasi qanday xavfsizlikni ta'minlaydi?
+++++
+Data encryption va identity management
+++++
+Video surveillance va access control
+++++
+Network segmentation va intrusion detection
+++++
+Biometric authentication va physical security
+%%%%
+****[1]
+Google Cloud Platform qanday ma'lumotlarni saqlab qoladi?
+++++
+Encrypted databases va secure servers
+++++
+Blockchain ledger va decentralized storage
+++++
+Quantum computing va genetic algorithms
+++++
+Artificial intelligence va neural networks
+%%%%
+****[1]
+Dropbox qanday muhitni integratsiya qiladi?
+++++
+Collaboration tools va project management systems
+++++
+Social media platforms va online forums
+++++
+Online gaming networks va virtual reality environments
+++++
+GPS tracking va geolocation services
+%%%%
+****[1]
+Microsoft Azure qanday ma'lumotlarni saqlash va o'qish uchun ishlatiladi?
+++++
+Data lakes va data warehouses
+++++
+Video surveillance va access control
+++++
+Virtual reality va augmented reality
+++++
+Smart contracts va distributed ledgers
+%%%%
+****[1]
+YandexDisk qanday ma'lumotlarni o'z ichiga oladi?
+++++
+Encrypted databases va secure servers
+++++
+Quantum computing va genetic algorithms
+++++
+Artificial intelligence va neural networks
+++++
+Video surveillance va access control
+%%%%
+****[1]
+GoogleApp platformasi qanday xizmatlarni o'z ichiga oladi?
+++++
+Email hosting va productivity suites
+++++
+Cloud storage va file synchronization
+++++
+Social networking va microblogging
+++++
+Online shopping va e-commerce
+%%%%
+****[1]
+Microsoft Cloud platformalari qanday tashkilotlarga qulayliklar ta'minlaydi?
+++++
+Kichik va o'rta miqyosdagi bizneslar uchun
+++++
+Yuridik va huquqiy shaxslar uchun
+++++
+Xususiy va korxonaviy sohalar uchun
+++++
+Ta'lim markazlari va universitetlar uchun
+%%%%
+
+****[1]
+Google Cloud Platform qanday xizmatlar orqali innovatsiyalarni o'rnatishga yordam beradi?
+++++
+Machine learning va artificial intelligence
+++++
+Virtual reality va augmented reality
+++++
+Quantum computing va blockchain technology
+++++
+3D printing va nanotechnology
+%%%%
+****[1]
+Dropbox foydalanuvchilariga qanday muvofiq imkoniyatlar beradi?
+++++
+File sharing va collaboration tools
+++++
+Social networking va microblogging
+++++
+Online gaming va virtual reality
+++++
+Online shopping va e-commerce
+%%%%
+****[1]
+Microsoft Azure qanday qurilmagan muloqotlarni ta'minlaydi?
+++++
+Internet of Things (IoT) va smart devices
+++++
+Social media platforms va blogging
+++++
+Video streaming va gaming
+++++
+GPS tracking va geolocation services
+%%%%
+****[1]
+YandexDisk qaysi xizmatlarni o'z ichiga oladi?
+++++
+Cloud storage va file synchronization
+++++
+Online shopping va e-commerce
+++++
+Social networking va microblogging
+++++
+Video streaming va gaming
+%%%%
+****[1]
+Reklama maydonini sotib olish jarayonini tezlashtirish va yagona interfeys qulayligi nima?
+++++
+Talab tomonidagi platformalar (DSP)
+++++
+Ta'minot tomoni platformasi
+++++
+Ma'lumotlarni boshqarish platformasi
+++++
+Mijozlar uchun ma'lumot platformasi
+%%%%
+****[1]
+Katta hajmli ma’lumotlar atamasi qachon dunyoga kelgan?
+++++
+2008yilda
+++++
+2007yilda
+++++
+2006yilda
+++++
+2005yilda
+%%%%
+****[1]
+Juda kata hajmdagi bir jinsli bo’lmagan va tez tushadigan raqamli ma’lumotlar bu?
+++++
+Big data
+++++
+Small data
+++++
+O’rta ma’lumotlar
+++++
+To’g’ri javob yo’q
+%%%%
+****[1]
+Malumotlar analitakasini nechta asosiy jarayoni mavjud?
+++++
+4
+++++
+3
+++++
+2
+++++
+1
+%%%%
+****[1]
+Malumotlarni to’plash bu ?
+++++
+Malumotlarni yagona joyga jam qilish va moslashtirish
+++++
+Xizmatlarni o’zgaruvchan qilish
+++++
+Tahlil qilingan malumotlarni ko’rsatish
+++++
+Ma’lumotlarni qo’llash
+%%%%
+****[1]
+Ma’lumotlarni tahlil qilish bu?
+++++
+Ma’lumotlar analitikasi algoritmlarini qo’llabquvvatlash
+++++
+Juda kata hajmdagi bir jinsli malumotlar
+++++
+Ma’lumotlarni o’zgartirish 
+++++
+Ma’lumotlarini to’plash
+%%%%
+****[1]
+Ma'lumotlar analitikasining asosiy maqsadi nima?
+++++
+Ma'lumotlarni to'plash
+++++
+Ma'lumotlarni qo'llash va o'rganish
+++++
+Ma'lumotlarni ko'rsatish
+++++
+Ma'lumotlarni tahlil qilish va prognostika
+%%%%
+****[1]
+Ma'lumotlar analitikasi qaysi texnikalar bilan amalga oshiriladi?
+++++
+Statistik
+++++
+Mashina o'rganish
+++++
+Barcha yuqoridagi
+++++
+Diqqat qaratmalar
+%%%%
+****[1]
+Mashina o'rganish nima uchun ishlatiladi?
+++++
+Natijalarni tushuntirish
+++++
+Ma'lumotlarni tahlil qilish
+++++
+Prognostika va bashoratlar ishlanishi
+++++
+Barcha yuqoridagi
+%%%%
+****[1]
+Ma'lumotlar analitikasi qanday jarayonlarga yordam beradi?
+++++
+Ma'lumotlarni qo'llash va o'rganish
+++++
+Agar yoki noto'g'ri javobni tanlang
+++++
+Prognostika va bashoratlar ishlanishi
+++++
+To’g’ri javob yo’q
+%%%%
+****[1]
+Ma'lumotlar analitikasi jarayoni qanday boshlanadi?
+++++
+Ma'lumotlarni to'plash
+++++
+Ma'lumotlarni ko'rsatish
+++++
+Ma'lumotlarni tahlil qilish
+++++
+Ma'lumotlarni tark etish
+%%%%
+****[1]
+Katta ma'lumotlar analitikasi qanday platformalardan foydalanadi?
+++++
+Excel va PowerPoint
+++++
+Ma'lumotlar bazasi va analitik dasturlar
+++++
+Telegram va WhatsApp
+++++
+Hamma javob togri
+%%%%
+****[1]
+Katta ma'lumotlar analitikasi nima uchun kerak?
+++++
+Natijalarni bashorat qilish uchun
+++++
+Ma'lumotlarni yordam berish uchun
+++++
+Ishlab chiqarishni oshirish uchun
+++++
+Togri javob yoq
+%%%%
+****[1]
+Statistik qanday maqsadlar uchun ishlatiladi?
+++++
+Ma'lumotlarni to'plash
+++++
+Ma'lumotlarni tahlil qilish
+++++
+Natijalarni bashorat qilish
+++++
+Hamma javob togri
+%%%%
+****[1]
+Ma'lumotlar analitikasi tahlil qilishda qanday metodlardan foydalaniladi?
+++++
+Statistik va mashina o'rganish
+++++
+Matematika va fizika
+++++
+Informatika va axborot texnologiyalari
+++++
+Togri javob yoq
+%%%%
+****[1]
+Katta ma'lumotlar analitikasi kompaniyalar uchun nima qiladi?
+++++
+Sotuvlar va marketing strategiyalarini optimallashtiradi
+++++
+Xodimlar ish faoliyatlarini kuzatib boradi
+++++
+Ma'lumotlar bazasini tuzish
+++++
+Barcha yuqoridagilar
+%%%%
+****[1]
+Ma'lumotlar analitikasi qaysi sohalar uchun muhimdir?
+++++
+Tadbirkorlik va biznes
+++++
+Tibbiyot va ta'lim
+++++
+Siyosat va jamiyat
+++++
+Hamma javob togri
+%%%%
+****[1]
+Ma'lumotlar analitikasi nima uchun muhimdir?
+++++
+Ish faoliyatini rivojlantirish
+++++
+Natijalarni prognostik qilish
+++++
+Malumotlarni bazasini tuzish
+++++
+Togri javob yoq
+%%%%
+****[1]
+Ma'lumotlar analitikasi tahlilida nima qilib ishlaydi?
+++++
+Ma'lumotlarni tahlil qilish algoritmlarini yaratadi
+++++
+Ma'lumotlarni statistik analiz qiladi
+++++
+Ma'lumotlar bazasini yaratadi
+++++
+Togri javob yoq
+%%%%
+****[1]
+Ma'lumotlar analitikasi tarkibi qanday bo'lishi mumkin?
+++++
+Kiritilgan ma'lumotlar, tahlil qilingan ma'lumotlar, tushuntirilgan ma'lumotlar
+++++
+Ma'lumotlar bazasi, dasturlar, statistik analiz
+++++
+Ma'lumotlar, mashina o'rganish algoritmlari, bashoratlar
+++++
+Hamma javob togri
+%%%%
+****[1]
+Ma'lumotlar analitikasi jarayoni nima bilan boshlanadi?
+++++
+Ma'lumotlarni tahlil qilish
+++++
+Ma'lumotlarni ko'rsatish
+++++
+Ma'lumotlarni to'plash
+++++
+Yuqoridagi hech qaysi biri to’grimas
+%%%%
+****[1]
+Prognostik modellar nima uchun ishlatiladi?
+++++
+Sotuvlar va marketing strategiyalarini optimallashtirish
+++++
+Xodimlar ish faoliyatlarini kuzatib boorish
+++++
+Natijalarni prognostik qilish
+++++
+Barcha javoblar togri
+%%%%
+****[1]
+Ma'lumotlar analitikasi bilan nima qilinadi?
+++++
+Ma'lumotlarni qo'llash va o'rganish
+++++
+Juda kata hajmdagi bir jinsli bo’lmagan va tez tushadigan raqamli ma’lumotlar bu
+++++
+Ma'lumotlarni boshqarish platformasi
+++++
+Mijozlar uchun ma'lumot platformasi
+%%%%
+ ****[1]
+Nechanchi yilda Drop box ommaga e'lon qilingan
+++++
+2009yilda
+++++
+2008yilda
+++++
+2007yilda
+++++
+2006yilda
+%%%%
+****[1]
+Hisobga yozilayotganda Drop Box qancha joy beradi?
+++++
+2Gb
+++++
+5Gb
+++++
+3Gb
+++++
+1Gb
+%%%%
+****[1]
+Uchta "V" nima uchun juda muhimdir?
+++++
+Volume, Velocity, Variety
+++++
+Visualizatsiya, Validatsiya, Vaqt 
+++++
+Velosiped, Vokal, Vayron
+++++
+Vokzal, Ventilyatsiya, Vosita
+%%%%
+****[1]
+Big Data texnologiyalari qaysi maqsadlarga xizmat qiladi? 
+++++
+Ma'lumotlarni to'plash, saqlash, va tahlil qilish uchun
+++++
+Faqatgina kichik ma'lumotlarni saqlash uchun
+++++
+Tezlikni oshirish uchun
+++++
+Ma'lumotlarni yuritish uchun
+%%%%
+****[1]
+Mashina o'rganish (Machine Learning) nima uchun foydalaniladi? 
+++++
+Ma'lumotlarni tahlil qilish va tasniflash uchun
+++++
+Ma'lumotlarni bekor qilish uchun
+++++
+Ma'lumotlarni to'plash uchun
+++++
+Ma'lumotlarni ushlab turish uchun
+%%%%
+****[1]
+Katta ma'lumotlarni tahlil qilish usullari qaysi bo'lib yoritilgan? 
+++++
+Noma'lum ma'lumotlarni o'rganish, Mashina o'rganish, Tahlil yordamida ma'lumotlar visualizatsiyasi
+++++
+Ma'lumotlar o'rganish, Xavfsizlik, Yig'ish 
+++++
+Qo'shimcha ma'lumotlar, Internet of Things, Statistik analiz
+++++
+ Uchta "V", Mashina o'rganish, Blokcheyn
+%%%%
+****[1]
+Big Data bilan texnologiyalarning iloji bor tarkibi qaysi? 
+++++
+Kamera, Sensorlar, Telefonlar
+++++
+Ma'lumotlar tahlili, Xavfsizlik, Dasturlash tillari 
+++++
+Qo'shimcha ma'lumotlar, Tezkor fayllar, Videolar 
+++++
+Xo'jalik ma'lumotlari, Internet of Things, Matematika
+%%%%
+****[1]
+Blokcheyn texnologiyasi qanday maqsadga xizmat qiladi? 
+++++
+Xavfsizlik va integritetni ta'minlash uchun
+++++
+Ma'lumotlarni saqlash uchun
+++++
+Ma'lumotlarni qo'llab-quvvatlash uchun 
+++++
+Tezlikni oshirish uchun
+%%%%
+****[1]
+Ma'lumotlar tahlili uchun eng muhim bo'lgan narsa qandaydir? 
+++++
+Mashina o'rganish
+++++
+Statistik analiz
+++++
+Variativlik
+++++
+Volume
+%%%%
+****[1]
+Ma'lumotlarni to'plashda qanday prinsipga e'tibor qilinishi kerak? 
+++++
+Velocity, Volume, Variety
+++++
+Bolalar, Viloyatlash, Variativlik 
+++++
+Tahlil, Xavfsizlik, Yig'ish
+++++
+Noma'lum, Nihoyat, Nol
+%%%%
+****[1]
+“Velocity" ma'lumotlar bilan ishlashning nimaga qiziqishi kerak? 
+++++
+Ma'lumotlarni tezkor yig'ish, saqlash, va tahlil qilish uchun
+++++
+Ma'lumotlarni bekor qilish 
+++++
+Ma'lumotlarni yig'ish
+++++
+Ma'lumotlarni saqlash
+%%%%
+****[1]
+Big Data tahlil qilish usullari qaysi maqsadlarga xizmat qiladi? 
+
+++++
+Ma'lumotlarni tahlil qilish va aniqlash 
+++++
+Ma'lumotlarni bekor qilish
+++++
+Ma'lumotlarni yig'ish
+++++
+Ma'lumotlarni saqlash
+%%%%
+****[1]
+"Variety" prinsipi nima uchun muhimdir? 
+++++
+Har xil formatda bo'lgan ma'lumotlarni birlashtirish uchun
+++++
+Ma'lumotlar yig'ilishi uchun
+++++
+Xavfsizlik uchun
+++++
+Tezkor yig'ish uchun
+%%%%
+****[1]
+Mashina o'rganish qaysi jarayonda ishlaydi? 
+++++
+Ma'lumotlarni tahlil qilishda
+++++
+Ma'lumotlarni to'plashda
+++++
+Ma'lumotlarni qo'llashda 
+++++
+Ma'lumotlarni saqlashda
+%%%%
+****[1]
+Blokcheyn texnologiyasi qanday foydalaniladi? 
+++++
+Ma'lumotlarni qo'llab-quvvatlashda
+++++
+Ma'lumotlarni saqlashda
+++++
+Ma'lumotlarni tahlil qilishda
+++++
+Ma'lumotlarni o'zgartirishda
+%%%%
+****[1]
+Big Data bilan texnologiyalarning iloji bor tarkibi qaysi? 
+++++
+Ma'lumotlar tahlili, Sensorlar, Internet of Things 
+
+++++
+Tezkor telefonlar, Xavfsizlik, Kamera
+++++
+Xo'jalik ma'lumotlari, Dasturlash tillari, Videolar 
+++++
+Qo'shimcha ma'lumotlar, Yig'ish, Matematika
+%%%%
+****[1]
+Big Data texnologiyalari va tendensiyalari nima uchun yana muhim
+++++
+Qulaylik va tezkorlik
+++++
+Sifat va sonlar
+++++
+Mavzular va maslahatlar
+++++
+Barcha variantlar to'g'ri
+%%%%
+****[1]
+Value (qimmat) prinsipi nima uchun muhimdir? 
+++++
+Ma'lumotlarni tezkor saqlash
+++++
+Ma'lumotlarni o'zgartirish
+++++
+Ma'lumotlarni ko'rish
+++++
+Ma'lumotlarni baholash
+%%%%
+****[1]
+Katta ma'lumotlarni tahlil qilishda mashhur usullardan biri nima? 
+++++
+Klassifikatorlar va kategoriyalar
+++++
+Internet of Things (IoT)
+++++
+Qo'shimcha matematika 
+++++
+Real-zamonda ma'lumotlar
+%%%%
+****[1]
+Blokcheyn texnologiyasi nima uchun foydalaniladi? 
+++++
+Ma'lumotlarni xavfsizligini ta'minlash 
+++++
+Ma'lumotlarni tezkor saqlash 
+++++
+Ma'lumotlarni ko'rish
+++++
+Ma'lumotlarni birlashtirish
+%%%%
+****[1]
+Volume (miqdar) prinsipi nima uchun muhimdir? 
+++++
+Ma'lumotlarni yig'ish
+++++
+Ma'lumotlarni ko'rish
+++++
+Ma'lumotlarni o'zgartirish
+++++
+Ma'lumotlarni bog'lash
+%%%%
+****[1]
+Mashina o'rganish algoritmlari qaysi jarayonlarda foydalaniladi? 
+++++
+Ma'lumotlarni tahlil qilish
+++++
+Ma'lumotlarni saqlash
+++++
+Ma'lumotlarni yig'ish
+++++
+Ma'lumotlarni to'plash
+%%%%
+****[1]
+Variety (variativlik) prinsipi nima uchun muhimdir? 
+++++
+Har xil formatdagi ma'lumotlarni birlashtirish
+++++
+Ma'lumotlarni saqlash
+++++
+Ma'lumotlarni yig'ish
+++++
+Ma'lumotlarni tahlil qilish
+%%%%
+****[1]
+Velocity (tezkorlik) prinsipi nima uchun muhimdir? 
+++++
+Ma'lumotlarni tahlil qilish
+++++
+Ma'lumotlarni saqlash
+++++
+Ma'lumotlarni yig'ish
+++++
+Ma'lumotlarni tezkor yig'ish
+%%%%
+****[1]
+Value (qimmat) prinsipi nima uchun muhimdir? 
+++++
+Ma'lumotlarni baholash
+++++
+Ma'lumotlarni tezkor saqlash
+++++
+Ma'lumotlarni o'zgartirish
+++++
+Ma'lumotlarni ko'rish
+%%%%
+****[1]
+Katta ma'lumotlarni tahlil qilishda qanday usullar mashhur? 
+++++
+Statistik tahlil
+++++
+Matematik jarayonlar
+++++
+Intuitiv topish
+++++
+Qo'shimcha matematika
+%%%%
+****[1]
+Big Data texnologiyalari va tendensiyalari nima uchun muhimdir?
+++++
+Barcha ma'lumotlarni qo'llab-quvvatlash 
+++++
+Real-zamonda ma'lumotlar
+++++
+Qulaylik va soxtalik
+++++
+Har xil formatdagi ma'lumotlar
+%%%%
+****[1]
+Virtual rеallik-
+++++
+bu sun’iy hosil qilinadigan axborot muhiti bo‘lib, u atrofmuhitning odatiy usuldagi tasavvur 
+++++
+Inson faoliyatining barcha jabhalari, jumladan, ta’lim tizimida intеrnеtni jamiyatni taraqqiy ettirishning yеtakchi omillaridan biri 
+++++
+balki bir qator vazifalar shakllantirilgan, ijrochilar bilan ta'minlangan, 
+++++
+resurslar (mehnat, moddiy, moliyaviy) taqsimlangan va mas'uliyat yuklangan aktidir. 
+%%%%
+****[1]
+«Virtuallik» atamasi qaysi so’zdan olingan-
+++++
+lotincha «virtualis» so‘zidan 
+++++
+Yunoncha “virtual”
+++++
+Inglizcha “atrof-muhit”
+++++
+Inglizcha “muhit”
+%%%%
+****[1]
+Virtuallik bu—
+++++
+<<muayyan bir sharoitlarda sodir bo‘ladigan yoki ro‘y bеrishi mumkin bo‘lgan», yoki mavjud bo‘lmagan, lеkin amalga oshish ehtimoli mavjud bo‘lgan jarayon kabi ma’nolarni anglatadi. 
+++++
+turli tеxnik vositalar asosida hosil qilinadigan axborotlar bilan almashtirishga qaratiladi. 
+++++
+Intеrnеt tizimi bilan bog‘liq axborot-kommunikatsiya tеxnologiyalari 
+++++
+Tizim
+%%%%
+****[1]
+Virtuallik tushunchasi qaysi sohada qo’llaniladi
+++++
+mеtеorologiya
+++++
+menirologiya
+++++
+virtualogiya
+++++
+strategik qarorlar
+%%%%
+****[1]
+Virtual jarayonlarning bosh sababchisi--
+ ++++
+rеal mavjud obyеktlarning o‘zaro hamjihatlikdagi harakati hisoblanadi. 
+++++
+ishonch (vaziyat va unda yuzaga keladigan sabab-oqibat bog'liqliklari ma'lum bo'lganda deterministik qarorlar);
+++++
+uning yoki ularning ehtimoli ma'lum va agar bunday holatlar tez-tez sodir bo'lsa, hisoblanishi mumkin);
+++++
+noaniqlik (strategik qarorlar, agar qaror qabul qiluvchi ushbu nuqtalardan hech birini bilmasa).
+%%%%
+****[1]
+virtual reallik sohasini AQShda shiddat bilan rivojlanayotgan sohalar qatoriga qo‘shgan  olim-
+++++
+Jorj Bill Huffingon Pos 
+++++
+Reni
+++++
+Robert
+++++
+Stixin2
+%%%%
+****[1]
+Nechinchi yilda Kickstarter platformasida Oculus startapi virtual reallik garniturasini ishlab chiqarish uchun mablag‘ yig‘ishni boshlab yubordi 
+++++
+2012
+++++
+2000
+++++
+2001
+++++
+2002
+%%%%
+****[1]
+Nechinchi yilda virtual reallik garniturasi Oculus Rift CV1 sotuvga chiqariladi. 
+++++
+2015
+++++
+2012
+++++
+2000
+++++
+2010
+%%%%
+****[1]
+Virtual reallik yechimlari qo‘llanilishi mumkin bo‘lgan sohalar nechta: 
+++++
+8 ta
+++++
+5ta 
+++++
+4 ta
+++++
+6 ta
+%%%%
+****[1]
+Virtual reallik formatida ishlangan filmlarning bozori hozirda nechchi mlrd dollarga teng
+ ++++
+44
+++++
+35
+++++
+70
+++++
+55
+%%%%
+****[1]
+Fayl yuklash Google Draveda qanday amalga oshiriladi
+++++
+File upload
+++++
+Folder upload
+++++
+Google sheets
+++++
+File Slides
+%%%%
+****[1]
+Google Draveda umumiy ulanishni yaratish qanday amalga oshiriladi
+++++
+Kliklagandan so'ng Share, Bosing Ulashish imkoniyatiga ega bo'ling Yuqori o'ng burchakdagi ulanish tugmasi.
+++++
+elektron pochta manzilini kiriting va ruxsatnomalarini tahrirlash uchun pastga tushirishdan boshlab tanlovni tanlang
+++++
+hujjatingizga kim murojaat qilishi, ularning ruxsat sozlamalari va koʻproq odamlarni taklif qilish yoki boshqalarni olib tashlash tanlovi
+++++
+Fayl keyin bosing Share sizning ulanish havolangizni olish uchun.
+%%%%
+****[1]
+Google Draveda Elektron pochta manzili orqali ulashing qanday amalga oshiriladi
+++++
+elektron pochta manzilini kiriting va ruxsatnomalarini tahrirlash uchun pastga tushirishdan boshlab tanlovni tanlang
+++++
+Kliklagandan so'ng Share, Bosing Ulashish imkoniyatiga ega bo'ling Yuqori o'ng burchakdagi ulanish tugmasi.
+++++
+hujjatingizga kim murojaat qilishi, ularning ruxsat sozlamalari va koʻproq odamlarni taklif qilish yoki boshqalarni olib tashlash tanlovi
+++++
+Fayl keyin bosing Share sizning ulanish havolangizni olish uchun.
+%%%%
+****[1]
+Google Draveda Kengaytirilgan almashish variantlarini tanlash qanday amalga oshiriladi
+++++
+hujjatingizga kim murojaat qilishi, ularning ruxsat sozlamalari va koʻproq odamlarni taklif qilish yoki boshqalarni olib tashlash tanlovi
+++++
+elektron pochta manzilini kiriting va ruxsatnomalarini tahrirlash uchun pastga tushirishdan boshlab tanlovni tanlang
+++++
+Kliklagandan so'ng Share, Bosing Ulashish imkoniyatiga ega bo'ling Yuqori o'ng burchakdagi ulanish tugmasi.
+++++
+Fayl keyin bosing Share sizning ulanish havolangizni olish uchun.
+%%%%
+****[1]
+ Google Draveda Hujjatingizni har kim tahrir qilishi mumkin u qanday amalga oshiriladi
+++++
+Fayl keyin bosing Share sizning ulanish havolangizni olish uchun.
+++++
+hujjatingizga kim murojaat qilishi, ularning ruxsat sozlamalari va koʻproq odamlarni taklif qilish yoki boshqalarni olib tashlash tanlovi
+++++
+elektron pochta manzilini kiriting va ruxsatnomalarini tahrirlash uchun pastga tushirishdan boshlab tanlovni tanlang
+++++
+Kliklagandan so'ng Share, Bosing Ulashish imkoniyatiga ega bo'ling Yuqori o'ng burchakdagi ulanish tugmasi.
+%%%%
+****[1]
+ Google Draveda ovoz bilan yozish qaysi menyu orqali amlga oshiriladi
+++++
+Tools
+++++
+View
+++++
+Table
+++++
+Insert
+%%%%
+****[1]
+ …..-Google Docsda siz bergan kontentni skanerlaydi
+++++
+Explore
+++++
+Dictionary
+++++
+Editor
+++++
+Script
+%%%%
+****[1]
+…..- google Docsda qaysi bo’limda Sahifalarni o'zgartiradi
+++++
+View
+++++
+Tools
+++++
+Table
+++++
+Insert
+%%%%
+****[1]
+ …..-google Docsda qaysi bo’limda Imlo tekshiruvini amalga oshirish mumkin
+++++
+Tools
+++++
+View
+++++
+Table
+++++
+Insert
+%%%%
+****[1]
+ Google Keep nima uchun kerak?
+++++
+kontekstual tadqiqotlar va siz keltirmoqchi bo'lgan havolalarni to'plash uchun
+++++
+Bashorat qilinadigan belgi muhim, ammo noyob shriftlardan foydalanish
+++++
+sizga elektron imzolarni oddiy va xavfsiz tarzda yig'ishga yordam beradi
+++++
+Kontentingizni boshqa tilga oson tarjima qilish uchun
+%%%%
+****[1]
+ Ekstensis shriftlari nima uchun kerak?
+++++
+Bashorat qilinadigan belgi muhim, ammo noyob shriftlardan foydalanish
+++++ 
+kontekstual tadqiqotlar va siz keltirmoqchi bo'lgan havolalarni to'plash uchun
+++++
+sizga elektron imzolarni oddiy va xavfsiz tarzda yig'ishga yordam beradi
+++++
+Kontentingizni boshqa tilga oson tarjima qilish uchun
+%%%%
+****[1]
+ HelloSign nima uchun kerak?
+++++
+sizga elektron imzolarni oddiy va xavfsiz tarzda yig'ishga yordam beradi
+++++
+Bashorat qilinadigan belgi muhim, ammo noyob shriftlardan foydalanish
+++++ 
+kontekstual tadqiqotlar va siz keltirmoqchi bo'lgan havolalarni to'plash uchun
+++++
+Kontentingizni boshqa tilga oson tarjima qilish uchun
+%%%%
+****[1]
+Lucidchart nima uchun kerak?
+++++
+maxsus diagrammalarni qo'shish imkonini beradi
+++++
+Bashorat qilinadigan belgi muhim, ammo noyob shriftlardan foydalanish
+++++ 
+kontekstual tadqiqotlar va siz keltirmoqchi bo'lgan havolalarni to'plash uchun
+++++
+Kontentingizni boshqa tilga oson tarjima qilish uchun
+%%%%
+****[1]
+EasyBib bu nima uchun ishlatiladi?
+++++
+Garvard uslubidagi 7,000 dan ortiq uslublarni o'z ichiga olgan avtomatik bibliografiya generatori maxsus diagrammalarni qo'shish imkonini beradi
+++++
+Bashorat qilinadigan belgi muhim, ammo noyob shriftlar
+++++ 
+kontekstual tadqiqotlar va siz keltirmoqchi bo'lgan havolalarni to'plash uchun ishlatiladi
+++++
+Kontentingizni boshqa tilga oson tarjima qilish uchun ishlatiladi
+%%%%
+****[1]
+Google Sheets- …….
+++++
+bu har qanday turdagi diagramma, ro'yxat, reja yoki elektron jadval yaratish
+++++
+Bashorat qilinadigan belgi muhim, ammo noyob shriftlardan foydalanish
+++++ 
+kontekstual tadqiqotlar va siz keltirmoqchi bo'lgan havolalarni to'plash uchun
+++++
+Kontentingizni boshqa tilga oson tarjima qilish uchun
+%%%%
+****[1]
+Display texnologiyalarida HD formatning pixsel o'lchami?
+++++
+1280 x 720
+++++
+1920 x 1080
+++++
+2560 x 1440
+++++
+3840 x 2160
+%%%%
+****[1]
+Display texnologiyalarida FULLHD formatning pixsel o'lchami?
+++++
+1920 x 1080
+++++
+1280 x 720
+++++
+2560 x 1440
+++++
+3840 x 2160
+%%%%
+****[1]
+Display texnologiyalarida QHD formatning pixsel o'lchami?
+++++
+2560 x 1440
+++++
+1280 x 720
+++++
+1920 x 1080
+++++
+3840 x 2160
+%%%%
+****[1]
+Display texnologiyalarida UHD formatning pixsel o'lchami?
+++++
+3840 x 2160
+++++
+1280 x 720
+++++
+1920 x 1080
+++++
+2560 x 1440
+%%%%
+****[1]
+Display texnologiyalarida qanday o'lcham formatlar mavjud?
+++++
+HD, FULLHD, QHD, UHD va hakazo
+++++
+faqat FULLHD va HD
+++++
+2K va 4K
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+Display texnologiyalarida eng kichik o'lcham formatlar qanday?
+++++
+SD
+++++
+HD
+++++
+FULLHD
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+HD ning kengaytmasi?
+++++
+High-definition
+++++
+High-defiance
+++++
+High-deface
+++++
+High-defect
+%%%%
+****[1]
+FULLHD ning kengaytmasi?
+++++
+FULL High-definition
+++++
+FULL High-defiance
+++++
+FULL High-deface
+++++
+FULL High-defect
+%%%%
+****[1]
+QHD ning kengaytmasi?
+++++
+Quad High-definition
+++++
+Quad High-defiance
+++++
+Quad High-deface
+++++
+Quad High-defect
+%%%%
+****[1]
+UHD ning kengaytmasi?
+++++
+ULTRA High-definition
+++++
+ULTRA High-defiance
+++++
+ULTRA High-deface
+++++
+ULTRA High-defect
+%%%%
+****[1]
+.... - 720p display o'lchamiga ega.
+++++
+HD
+++++
+FULLHD
+++++
+QHD
+++++
+UHD
+%%%%
+****[1]
+.... - 1080p display o'lchamiga ega.
+++++
+FULLHD
+++++
+HD
+++++
+QHD
+++++
+UHD
+%%%%
+****[1]
+.... - 1440p display o'lchamiga ega.
+++++
+QHD
+++++
+HD
+++++
+FULLHD
+++++
+UHD
+%%%%
+****[1]
+.... - 2160p display o'lchamiga ega.
+++++
+UHD
+++++
+HD
+++++
+FULLHD
+++++
+QHD
+%%%%
+****[1]
+VideoKarta yoki Videoxotira qaysi kompaniyalarda ishlab chiqariladi?
+++++
+NVIDIA va AMD
+++++
+INTEL va AMD
+++++
+DIMENCity va Snapdragon
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+Nvidia videokartalarini ko'rsating?
+++++
+GT720,GTX1650 va RTX3060
+++++
+REDRAGON 700
+++++
+GT720,REDRAGON 90
+++++
+to'g'ri javob yo'q
+%%%%
+****[1] 
+Virtual reallik (VR) nima?
+++++
+Elektron qurilmalar orqali yaratilgan real dunyo
+++++
+Kompyuter grafikasi yordamida yaratilgan virtual dunyo
+++++
+Sayohat agentligi tomonidan taqdim etilgan virtual turlar
+++++
+Noutbuk yoki planshet orqali onlayn o'ynash uchun platforma
+%%%%
+****[1] 
+VR texnologiyasining ishlab chiqarilish jarayoni qanday?
+++++
+Xususiy xatolar orqali yaratiladi
+
+++++
+Kompyuter grafikasi va sensorlar yordamida yaratiladi
+++++
+Ko'p o'rtacha yashirinchi buyumlar orqali yaratiladi
+++++
+Harbiy qurilmalar va yordamchilar yordamida yaratiladi
+%%%%
+****[1] 
+VR texnologiyasi qanday ishlaydi?
+++++
+Mikrofonlar yordamida
+++++
+Elektron kutubxona orqali
+++++
+3D ko'rinishda kompyuter grafikasi va sensorlar yordamida 
+++++
+Birinchi shaxs dastlabki tajribasini izlay oladi
+
+%%%%
+****[1] 
+VR asboblaridan biri qaysi javoblardan?
+++++
+Dron
+++++
+Robot
+++++
+Sensorlar va Oculus Rift
+++++
+Smartfon
+%%%%
+****[1] 
+Oculus Rift va HTC Vive arasidagi farq qanday?
+++++
+Kompaniyalarning yaratuvchilari
+++++
+Funksiyalar va mahsulotning narxi
+++++
+Ranglar va shakllar
+++++
+Ishlab chiqarish muddati va xizmat ko'rsatish shartlari
+%%%%
+****[1]
+ PlayStation VR texnologiyasi qanday ishlaydi?
+++++
+PlayStation o'yin konsolelari bilan bog'liq
+++++
+Telefon va planshetlar orqali
+++++
+Harbiy qurilmalar yordamida
+++++
+Internet orqali yoki VR tashqi diskning yordamida
+
+%%%%
+****[1] 
+VR-sport qanday ishlaydi?
+++++
+Real yozuvni hisobga olish uchun sport tadbirlarini tasvirlaydi
+++++
+Virtual dunyo orqali sport o'yinlari o'ynash
+++++
+Sport niyatlari haqida muhokama qiladi
+++++
+Sport tadbirlari to'g'risida o'quv materiallarini ko'rsatadi
+%%%%
+****[1] 
+VR-diniy tadbirlar va sayohatlar qanday ishlatiladi?
+++++
+Virtual mazharlar orqali
+++++
+Online platformalar orqali
+++++
+shaxarlarga sayohatlar tashkil qilinadi
+++++
+Ziyorat tadbirlari orqali
+%%%%
+****[1]
+Virtual haqiqat (VR)  bu-…?
+++++
+Bu real vaqt rejimida atrof-muhit va real ob'ektlarni simulyatsiya qilish imkonini beruvchi texnologiya.
+++++
+Virtual dunyo orqali sport o'yinlari o'ynashga aytiladi.
+++++
+Ishlab chiqarish muddati va xizmat ko'rsatish shartlari tushuniladi.
+++++
+Kompyuter grafikasi va sensorlar tushuniladi.
+%%%%
+****[1] 
+Bugungi kunda bozorda turli xil VR qurilmalari mavjud. Eng mashhurlaridan ba'zilari?
+++++
+Oculus Rift, HTC Vive, Sony PlayStation VR
+++++
+Rist Sony
+++++
+Oculas HTS, Station VR
+++++
+HTC Vive, Station VR
+%%%%
+****[1] 
+VR texnologiyasining asosiy komponenti qandaydir?
+++++
+ Ko'rsatgichlar
+++++
+Sensorlar
+++++
+Kompyuterla
+++++
+Barchasi
+%%%%
+****[1] 
+VR texnologiyasi nimaga yordam beradi?
+++++
+ Shaxsning o'zini boshqa bir dunyoda his qilish
+++++
+O'zingizni o'z ichida yashash
+++++
+Interaktiv o'yinlar o'ynash
+++++
+Barchasi
+%%%%
+****[1] 
+Ichki tarzdagi VR ko'rsatgichlar qanday ishlaydi?
+++++
+Ichki tarzdagi VR ko'rsatgichlar qanday ishlaydi?
+++++
+Kamera va sensorlar yordamida
+++++
+Ko'zlashtiruvchi burun qismidan foydalanib
+++++
+Barchasi
+%%%%
+****[1] 
+Tashqi tarzdagi VR ko'rsatgichlar qanday ishlaydi?
+++++
+Virtual obyektlarni real dunyoga qo'yish orqali
+++++
+Shaxsning o'zini boshqa bir dunyoda his qilish uchun
+++++
+O'zingizni o'z ichida yashash uchun
+++++
+Barchasi
+%%%%
+****[1] 
+VR texnologiyasi qaysi sohalarda foydalaniladi?
+++++
+ O'yinlar va multimediya
+++++
+Tadqiqot va ta'lim
+++++
+Sog'liqni saqlash sohasi
+++++
+Barchasi
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasi nechanchi yili Boeing Tomom Kodelom tadqiqotchisi
+(Tom Caudell) tomonidan ilgari surilgan?
+++++
+1990 - yilda
+++++
+1978 - yilda
+++++
+1987 - yilda
+++++
+1866 - yilda
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasini tadqiqotchi .... 1997-yilda uni shunday
+tizim deb belgiladi:
+1) virtual va realni birlashtiradi;
+2) real vaqtda oʻzaro taʼsir qiladi;
+3) 3D formatida ishlaydi. 
+++++
+Ronald Azuma
+++++
+Estarod Azuma
+++++
+Ronald Estarod
+++++
+Tom Caudell 
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasi 1990 - yilda qaysi shahar tadqiqotchisi
+(Tom Caudell) tomonidan ilgari surilgan?
+++++
+Boeing Tomom Kodelom
+++++
+Angliya
+++++
+Boeing Komot Kodelom
+++++
+Frelan Komot Kodelom
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasi 1990 - yilda Boeing Tomom Kodelom tadqiqotchisi
+.... tomonidan ilgari surilgan?
+++++
+Tom Caudell
+++++
+Caudell Sam
+++++
+Tomy Tomom
+++++
+Boeing Kodelom
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasini tadqiqotchi Ronald Azuma nechanchi yilda uni shunday
+tizim deb belgiladi:
+1) virtual va realni birlashtiradi;
+2) real vaqtda oʻzaro taʼsir qiladi;
+3) 3D formatida ishlaydi. 
+++++
+1997-yilda
+++++
+1998-yilda
+++++
+1990-yilda
+++++
+2000-yilda
+%%%%
+****[1]
+Qanday atama 1990 - yilda Boeing Tomom Kodelom tadqiqotchisi
+Tom Caudell tomonidan ilgari surilgan?
+++++
+Kengaytirilgan haqiqat
+++++
+Kengaytirilgan adolat
+++++
+Kengaytirilgan tizim
+++++
+Kengaytirilgan shahar
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasini tadqiqotchi Ronald Azuma 1997-yilda uni shunday
+tizim deb belgiladi:
+1) virtual va realni birlashtiradi;
+2) real vaqtda oʻzaro taʼsir qiladi;
+3) ... 
+tizimning 3-qismini toping?
+++++
+3D formatida ishlaydi. 
+++++
+3D formatida tahlillaydi.
+++++
+3D formatida joylaydi.
+++++
+3D formatida saralaydi.
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasini tadqiqotchi Ronald Azuma 1997-yilda uni shunday
+tizim deb belgiladi:
+1) virtual va realni birlashtiradi;
+2) ...
+3) 3D formatida ishlaydi. 
+tizimning 2-qismini toping?
+++++
+real vaqtda oʻzaro taʼsir qiladi;
+++++
+real vaqtda oʻzaro birlashadi;
+++++
+real vaqtda oʻzaro shakllanadi;
+++++
+real vaqtda birma-bir taʼsir qiladi;
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasini tadqiqotchi Ronald Azuma 1997-yilda uni shunday
+tizim deb belgiladi:
+1) ...
+2) real vaqtda oʻzaro taʼsir qiladi;
+3) 3D formatida ishlaydi. 
+tizimning 1-qismini toping?
+++++
+virtual va realni birlashtiradi;
+++++
+virtual va realni uzoqlashtiradi;
+++++
+virtual va realni haqiqiylashtiradi;
+++++
+virtual va realni ajratadi;
+%%%%
+****[1]
+AR (ing. Augmented reality – to‘ldirilgan voqelik) bu?
+++++
+har qanday qurilma ekrani orqali har qanday raqamli ma’lumot (rasm, video, matn, grafka va h. k.)ni proeksiyalash. 
+++++
+bir xil qurilma ekrani orqali rasm va videolarni proeksiyalash. 
+++++
+har qanday qurilma ekrani orqali matn ko'rinishidagi ma’lumotni proeksiyalash.
+++++
+har qanday qurilma ekrani orqali grafik ko'rinishidagi ma’lumotni proeksiyalash.
+%%%%
+****[1]
+AR ingliz tili nima deyiladi?
+++++
+Augmented reality – to‘ldirilgan voqelik
+++++
+Augmented random – to‘ldirilgan taxminlik
+++++
+Argument reality – argument voqelik
+++++
+Autor reality – muallif voqelik
+%%%%
+****[1]
+AR texnologiyasini joriy etish orqali ishlab chiqarish vaqtini nechi foizga qisqartirish mumkin boʻldi.
+++++
+25
+++++
+15
+++++
+50
+++++
+100
+%%%%
+****[1]
+AR texnologiyasini joriy etish orqali xatolarni nechi foizga qisqartirish mumkin boʻldi.
+++++
+50
+++++
+15
+++++
+25
+++++
+100
+%%%%
+****[1]
+... - bu mexanik bo‘lib, unda siz kamerani jismoniy asl nusxaga qaratganingizda kengaytirilgan haqiqatdagi ob'ekt paydo bo‘ladi.
+++++
+Marker snapping
+++++
+Snap to plane
+++++
+Geolokatsiyaga oʻtish
+++++
+Portallar
+%%%%
+****[1]
+... - bu to‘ldirilgan reallikdagi ob'ekt kosmosda paydo bo‘ladigan, skanerlash natijasida qurilma tomonidan tanlangan ma'lum bir nuqtaga bog'langan mexanik
+++++
+Snap to plane
+++++
+Geolokatsiyaga oʻtish
+++++
+Marker snapping
+++++
+Portallar
+%%%%
+****[1]
+... - bu mexanik bo‘lib, unda bo‘sh joy kengaytirilgan haqiqatda 360 ° rejimida paydo bo‘ladi
+++++
+Portallar
+++++
+Geolokatsiyaga oʻtish
+++++
+Marker snapping
+++++
+Snap to plane
+%%%%
+****[1]
+... - bu haqiqiy ob'ekt kengaytirilgan haqiqatda joylashtirilgan mexanik .
+++++
+Haqiqiy belgilar integratsiyasi
+++++
+Geolokatsiyaga oʻtish
+++++
+Marker snapping
+++++
+Snap to plane
+%%%%
+****[1]
+... - bu bir nechta qurilmalarning birgalikdagi faoliyati rejimi. O‘yinlarda, kvestlarda, ommaviy taqdimotlarda va dizaynerlar va muhandislar o‘rtasidagi hamkorlikda foydalaniladi.
+++++
+Multiplayer
+++++
+Geolokatsiyaga oʻtish
+++++
+Marker snapping
+++++
+Snap to plane
+%%%%
+****[1]
+... - Internet maydonida AR tarkibini ko‘rish.
+++++
+Web AR
+++++
+Geolokatsiyaga oʻtish
+++++
+Marker snapping
+++++
+Snap to plane
+%%%%
+****[1]
+Web AR nechi xil ko‘rinishi mavjud?
+++++
+ikki xil
+++++
+uch xil
+++++
+to'rt xil
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+Web AR necha xil ko‘rinishi mavjud ularni toping?
+++++
+Brauzerda ko‘rish va Ilovani to‘g‘ridan-to‘g‘ri qurilmaga yuklab olish 
+++++
+Brauzerda yuklash 
+++++
+Ilovani to‘g‘ridan-to‘g‘ri qurilmaga yuklab olish 
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+To‘ldirilgan reallik (AR) nima?
+++++
+Virtual va real dunyolarni birlashtiradigan texnologiya.
+++++
+Faqat virtual ob'ektlarni real dunyoga kiritadigan dastur
+++++
+Real ob'ektlarni virtual dunyoga kiritadigan texnologiya
+++++
+Real va virtual dunyolar o‘rtasida aloqa yo‘q.
+%%%%
+****[1]
+AR texnologiyasining asosiy maqsadi nima?
+++++
+Ob'ekt va belgilarni real dunyoda chiqarish
+++++
+ Har qanday manzilni aniqlash
+++++
+ Kengaytirilgan haqiqatdan tashqari dunyo ko‘rinishini yaratish.
+++++
+Real dunyoda fotosuratlar olish
+%%%%
+****[1]
+AR kontentini ko‘rsatishda qanday mexanikalar qo'llaniladi?
+++++
+Geolokatsiyaga o‘tish.
+++++
+O'zaro ta'sir.
+++++
+Jismoniy ob'ektlar.
+++++
+Barchasi to‘g‘ri.
+%%%%
+****[1]
+AR qurilmalari qanday turlarga bo'linadi?
+++++ 
+Barchasi to'g'ri.
+++++
+Smart glasses va smart lenslar.
+++++
+AR headsetlar.
+++++
+Mobil qurilmalar.
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasi nechanchi yili Boeing Tomom Kodelom tadqiqotchisi
+(Tom Caudell) tomonidan ilgari surilgan?
+++++
+1990 - yilda
+++++
+1978 - yilda
+++++
+1987 - yilda
+++++
+1866 - yilda
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasini tadqiqotchi .... 1997-yilda uni shunday
+tizim deb belgiladi:
+1) virtual va realni birlashtiradi;
+2) real vaqtda oʻzaro taʼsir qiladi;
+3) 3D formatida ishlaydi. 
+++++
+Ronald Azuma
+++++
+Estarod Azuma
+++++
+Ronald Estarod
+++++
+Tom Caudell 
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasi 1990 - yilda qaysi shahar tadqiqotchisi
+(Tom Caudell) tomonidan ilgari surilgan?
+++++
+Boeing Tomom Kodelom
+++++
+Angliya
+++++
+Boeing Komot Kodelom
+++++
+Frelan Komot Kodelom
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasi 1990 - yilda Boeing Tomom Kodelom tadqiqotchisi
+.... tomonidan ilgari surilgan?
+++++
+Tom Caudell
+++++
+Caudell Sam
+++++
+Tomy Tomom
+++++
+Boeing Kodelom
+%%%%
+****[1]
+“Kengaytirilgan haqiqat” atamasini tadqiqotchi Ronald Azuma nechanchi yilda uni shunday
+tizim deb belgiladi:
+1) virtual va realni birlashtiradi;
+2) real vaqtda oʻzaro taʼsir qiladi;
+3) 3D formatida ishlaydi. 
+++++
+1997-yilda
+++++
+1998-yilda
+++++
+1990-yilda
+++++
+2000-yilda
+%%%%
+****[1]
+Qanday atama 1990 - yilda Boeing Tomom Kodelom tadqiqotchisi
+Tom Caudell tomonidan ilgari surilgan?
+++++
+Kengaytirilgan haqiqat
+++++
+Kengaytirilgan adolat
+++++
+Kengaytirilgan tizim
+++++
+Kengaytirilgan shahar
+%%%%
+****[1]
+ “Kengaytirilgan haqiqat” atamasini tadqiqotchi Ronald Azuma 1997-yilda uni shunday
+tizim deb belgiladi:
+1) ...
+2) real vaqtda oʻzaro taʼsir qiladi;
+3) 3D formatida ishlaydi. 
+tizimning 1-qismini toping?
+++++
+virtual va realni birlashtiradi;
+++++
+virtual va realni uzoqlashtiradi;
+++++
+virtual va realni haqiqiylashtiradi;
+++++
+virtual va realni ajratadi;
+%%%%
+****[1]
+AR (ing. Augmented reality – to‘ldirilgan voqelik) bu?
+++++
+har qanday qurilma ekrani orqali har qanday raqamli ma’lumot (rasm, video, matn, grafka va h. k.)ni proeksiyalash. 
+++++
+bir xil qurilma ekrani orqali rasm va videolarni proeksiyalash. 
+++++
+har qanday qurilma ekrani orqali matn ko'rinishidagi ma’lumotni proeksiyalash.
+++++
+har qanday qurilma ekrani orqali grafik ko'rinishidagi ma’lumotni proeksiyalash.
+%%%%
+****[1]
+AR ingliz tili nima deyiladi?
+++++
+Augmented reality – to‘ldirilgan voqelik
+++++
+Augmented random – to‘ldirilgan taxminlik
+++++
+Argument reality – argument voqelik
+++++
+Autor reality – muallif voqelik
+%%%%
+****[1]
+... – har qanday qurilma ekrani orqali har qanday raqamli ma’lumot (rasm, video, matn, grafka va h. k.)ni proeksiyalash. 
+++++
+har qanday qurilma ekrani orqali har qanday raqamli ma’lumot (rasm, video, matn, grafka va h. k.)ni proeksiyalash. 
+++++
+bir xil qurilma ekrani orqali rasm va videolarni proeksiyalash. 
+++++
+har qanday qurilma ekrani orqali matn ko'rinishidagi ma’lumotni proeksiyalash.
+++++
+har qanday qurilma ekrani orqali grafik ko'rinishidagi ma’lumotni proeksiyalash.
+%%%%
+****[1]
+.... – maxsus tarzda kodlangan, kvadrat ko‘rinishida tasvirlangan ma’lumot.
+++++
+QR-kod  (ingl. Quick Response – tezkor javob)
+++++
+AR (ing. Augmented reality – to‘ldirilgan voqelik)
+++++
+GPS (ing. Global Positioning System – global joylashishni aniqlash tizimi)
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+Quick Response nima?
+++++
+tezkor javob
+++++
+to‘ldirilgan voqelik
+++++
+global joylashishni aniqlash tizimi
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+Quick Response tarifi?
+++++
+maxsus tarzda kodlangan, kvadrat ko‘rinishida tasvirlangan ma’lumot. 
+++++
+har qanday qurilma ekrani orqali har qanday raqamli ma’lumot (rasm, video, matn, grafka va h. k.)ni proeksiyalash. 
+++++
+dunyo bo‘ylab masofa, vaqt va joylashishni belgilaydigan sun’iy yo‘ldosh navigatsiya tizimi
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+.... – dunyo bo‘ylab masofa, vaqt va joylashishni belgilaydigan sun’iy yo‘ldosh navigatsiya tizimi. 
+++++
+GPS
+++++
+QR-kod
+++++
+AR
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+Global Positioning System nima?
+++++
+global joylashishni aniqlash tizimi
+++++
+tezkor javob
+++++
+to‘ldirilgan voqelik
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+Global Positioning System Tarifi?
+++++
+dunyo bo‘ylab masofa, vaqt va joylashishni belgilaydigan sun’iy yo‘ldosh navigatsiya tizimi.
+++++
+maxsus tarzda kodlangan, kvadrat ko‘rinishida tasvirlangan ma’lumot. 
+++++
+har qanday qurilma ekrani orqali har qanday raqamli ma’lumot (rasm, video, matn, grafka va h. k.)ni proeksiyalash. 
+++++
+to'g'ri javob yo'q
+%%%%
+****[1]
+To‘ldirilgan voqelik texnologiyasi?
+++++
+bu atrofdagi haqiqiy dunyo obyektlari ustida interfaol raqamli elementlar joylashtirilgan voqelikdir
+++++
+bu atrofdagi haqiqiy dunyo obyektlari ustida boshlang'ich raqamli elementlar joylashtirilgan voqelikdir
+++++
+bu atrofdagi haqiqiy dunyo obyektlari ustida interfaol sonli kublarning joylashtirilgan voqelikdir
+++++
+bu atrofdagi haqiqiy dunyo obyektlari ustida boshlang'ich sonli kublarning joylashtirilgan voqelikdir
+%%%%
+****[1]
+VRD nechinchi yilning oxirlarida vizual tasvirlarni yaratishning zamonaviy texnologiyasi sifatida paydo bo‘ldi.
+++++
+1990-yillarning
+++++
+1995-yillarning
+++++
+1994-yillarning
+++++
+1992-yillarning
+%%%%
+****[1]
+VRD kengaytmasi?
+++++
+VirtualRetinaDispley(VRD) 
+++++
+VirtualReplayDispley(VRD)
+++++
+VirtualRetinaDetect(VRD)
+++++ 
+VirtualRetinaDelete(VRD) 
+%%%%
+****[1]
+Google kartasi yoki Suniy yo'ldosh kartasidan foydalanishda Ba'zan qanday kenglikdagi ekrandan foydalanishgan?
+++++
+55
+++++
+66
+++++
+77
+++++
+99
+%%%%
+****[3]
+Bulutli hisoblash nima?
+++++
+Bulutli hisoblash saqlash, serverlar, ma'lumotlar bazasi, tarmoq va  boshqalar kabi xizmatlarni taqdim etishni anglatadi
+++++
+bulutli hisoblash ma'lumotlar bazasida ma'lumotlarni saqlashni anglatadi
+ bulutli hisoblash dastur yaratish uchun ishlatiladigan vositadir
+++++
+hammasi noto’g’ri
+%%%%
+
+****[3]
+Bulutli hisoblashning otasi kim?
+++++
+J.C. R. Licklider
+++++
+Edgar Frank Codd
+++++
+Sharon B. Codd
+      ++++
+Charlz Baxman
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri bulutli server turi emas?
+++++
+ Birlashtirilgan bulutli serverlar
+++++
+ommaviy bulutli serverlar
+++++
+xususiy bulutli serverlar
+++++
+maxsus bulutli serverlar
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri bulutli hisoblashning xususiyatlari?
+++++
+Hammasi to‘g‘ri
+++++
+mavjudligi
+++++
+katta tarmoqqa kirish
+++++
+xavfsizlik
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri bulutli hisoblash xizmatining bir turi?
+++++ 
+Xizmat sifatida dasturiy ta'minot (SaaS)
+++++
+dasturiy ta'minot sifatida xizmat ko'rsatish (SaaS)
+++++
+dasturiy ta'minot va a-Server (SaaS)
+++++
+dasturiy ta'minot-A-Server (SaaS)
+%%%%
+****[3]
+Quyidagilardan qaysi biri bulutli hisoblashni qo'llaydi?
+++++
+Google g Suite
+++++
+adobe
+++++
+paypal
+++++
+yuqoridagi barchasi
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri bulutga misol?
+++++
+yuqoridagilarning barchasi
+++++
+Dropbox
+++++
+Cisco Web-ex
+++++
+Amazon veb-xizmatlari (AVS)
+%%%%
+
+****[3]
+Virtualizatsiya qilingan resurslardan foydalangan holda tarqatilgan tarmoqda ishlaydigan dasturlar va xizmatlar quyidagicha tanilgan
+++++
+Bulutli hisoblash
+++++
+parallel hisoblash
+++++
+yumshoq hisoblash
+++++
+tarqatilgan hisoblash
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri PaaS bulut xizmatiga misol?
+++++
+yuqoridagilarning barchasi 
+++++
+Heroku
+++++
+AWS elastik loviya poyasi
+++++
+Windows Azure
+ %%%% 
+
+****[3]
+Quyidagilardan qaysi biri IaaS bulut xizmatiga misol?
+++++
+yuqoridagi barchasi 
+++++
+DigitalOcean
+++++
+Linode
+++++
+Rackspace
+%%%% 
+
+****[3]
+Quyidagilardan qaysi biri bulutli hisoblash haqida to'g'ri bayonot?
+++++   
+Bulutli hisoblash resurslarni birlashtirish va almashish orqali tezislar tizimlari
+++++
+bulutli hisoblash internetdan boshqa narsa emas
+     ++++    
+     bulut so'zidan foydalanish ikkita muhim tushunchaga murojaat qiladi
+ aytilganlarning barchasi
+     ++++
+     hammasi to‘g‘ri
+     %%%%
+
+****[3]
+Quyidagi me'moriy standartlardan qaysi biri bulutli hisoblash sanoati bilan ishlaydi?
+++++
+xizmatga yo'naltirilgan arxitektura
+++++
+veb-dastur tizimlari
+++++
+standartlashtirilgan veb-xizmatlar
+++++
+    hammasi to‘g‘ri
+    %%%%
+
+  ****[3]
+Quyidagilardan qaysi biri bulutli hisoblash haqida noto'g'ri bayonot?
+++++
+xususiy bulut bir xil darajadagi virtualizatsiyadan  foydalanmaydi
+++++
+ma'lumotlar markazi o'rtacha yuk ostida ishlaydi
+++++
+xususiy bulut bulutli hisoblash provayderi erisha oladigan resurslarni
+birlashtirmaydi
+  ++++
+  abstraktsiya bulutli hisoblashning asosiy foydasini beradi: umumiy, hamma joyda kirish
+%%%%
+
+  ****[3]
+Bulutli hisoblash quyidagilardan qaysi birini talab qiladi?
+++++
+hammasi to’g’ri 
+++++
+identifikatsiya autentifikatsiya qilinishi 
+++++
+autentifikatsiya portativ bo'lishi 
+++++
+siz identifikatorni o'rnatasiz
+%%%%
+  
+****[3]
+Bulutli hisoblash-bu jismoniy resurslarni birlashtirish va ularni qanday resurs sifatida taklif qilishni o'z ichiga olgan tushuncha?
+++++
+virtual
+++++
+Bulut
+++++
+Haqiqiy
+++++
+hammasi noto’g’ri 
+%%%%
+
+****[3]
+Amazon tomonidan taqdim etilgan bulutli platforma quyidagilardan qaysi biri?
+++++
+  AVS
+  ++++
+ cloudera
+  ++++
+ azure
+++++
+hammasi to’g’ri 
+%%%%
+
+****[3]
+Bulutli hisoblash kapital xarajatlarni qaysi xarajatlarga o'tkazadi?
+  ++++
+  operatsiya
+++++
+  mahalliy
+++++
+  xizmat
+++++
+  hammasi noto’g’ri 
+  %%%%
+
+****[3]
+Quyidagilardan qaysi biri cloud Commons-da Real vaqtda bulutga asoslangan asosiy xizmatlarning ishlashini nazorat qiladi?
+ ++++
+CloudSensor
+++++ 
+bulutli soat 
+++++ 
+cloudMetrics
+++++ 
+hammasi noto’g’ri 
+%%%%
+
+****[3]
+Quyidagi modellardan qaysi biri bulutli hisoblash platformasida kirishingiz mumkin bo'lgan xizmatdan iborat?
+ ++++ 
+ xizmat 
+ ++++ 
+ joylashtirish
+ ++++  
+dastur
+++++ 
+hammasi to’g’ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri bulutli hisoblashda eng muhim tashvish sohasi hisoblanadi?
+++++ 
+Xavfsizlik
+++++
+o'lchovlili
+++++
+Saqlash
+++++
+hammasi to’g’ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri eng nozik va cheklovchi bulutli xizmat modeli?
+++++
+PaaSS
+++++
+IaaS
+++++
+SaaS
+++++
+CaaS
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri bulutli hisoblash xususiyati emas?
+++++
+hammasi to’g’ri
+++++
+virtualizatsia
+++++
+kompozisiya
+++++
+masshtablilik
+%%%%
+
+****[3]
+Bulutli hisoblashni rejalashtirishda nechta bosqich mavjud?
+++++
+3
+++++
+1
+++++
+5
+++++
+6
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri SaaS bulut xizmatiga misol?
++++
+hammasi to’g’ri
+++++
+Googleworkspace
+++++
+Dropbox
+++++
+Salesforce
+%%%%
+
+
+****[3]
+Quyidagi xizmat modellaridan qaysi birida apparat bulutda virtualizatsiya qilinadi?
+++++
+IaaS
+++++
+NaaS
+++++
+PaaS
+++++
+CaaS
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri Virtual mashinani konvertatsiya qilish buluti?
+++++
+aytilganlarning hech biri
+++++
+Amazon bulutli soati
+++++
+AbiCloud
+++++
+BMC bulutli hisoblash tashabbusi
+%%%%
+
+****[3]
+Rezervasyon tizimida tranzaksiyalarni to‘ldirishni ta’minlaydigan dastur bunga misolidir__
+++++
+bulutga xizmat ko‘rsatish
+++++
+bulutning yorilishi
+++++
+bulutni ta’minlash
+++++
+aytilganlarning barchasi
+%%%%
+
+****[3]
+To‘g‘ri javobni ko‘rsating.
+++++
+hammasi to‘g‘ri
+++++
+"bulut" so‘zidan foydalanish ikkita muhim tushunchaga ishora qiladi
+++++
+resurslarni birlashtirish va almashish orqali bulutli hisoblash tizimlari, abstraktlar
+++++
+bulutli hisoblash Internetdan boshqa narsa emas
+%%%%
+
+****[3]
+________ bulut infratuzilmasining joylashuvi va boshqaruvini bildiradi.
+++++
+Joylashtirish
+++++
+Xizmat
+++++
+Ilova
+++++
+Ko‘rsatilganlardan hech biri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri joylashtirish modeli hisoblanadi?
+++++
+hammasi to‘g‘ri
+++++
+davlat
+++++
+xususiy
+++++
+duragay
+%%%%
+
+****[3]
+Noto‘g‘ri gapni ko‘rsating.
+++++
+hammasi to‘g‘ri
+++++
+Cloud Computing ikki xil modellar to‘plamiga ega
+++++
+Amazon o‘zining qidiruv tizimiga xizmat ko‘rsatish uchun butun dunyo bo‘ylab ma’lumotlar markazlari tarmog‘ini qurdi.
+++++
+Azure .NET Framework ilovalarini Internet orqali ishlashga imkon beradi
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri eng mashhur xizmat modeli hisoblanadi? 
+++++
+hammasi to‘g‘ri
+++++
+SaaS 
+++++
+IaaS 
+++++
+PaaS 
+%%%%
+
+****[3]
+ __________ modeli dastlab resurslarni birlashtirish uchun virtualizatsiyadan foydalanish uchun bulutni talab qilmagan.
+   ++++
+   NIST
+   ++++
+   NEFT
+   ++++
+   NIT
+   ++++
+   hammasi to‘g‘ri
+   %%%%
+
+****[3]
+ _______ modeli bulutli tarmoqni to‘rt o‘lchovli omillarga asoslanib toifalarga ajratishga harakat qiladi.
+ ++++
+ cloud Cube
+ ++++
+ Cloud Square
+ ++++
+ Cloud Service
+ ++++
+ hammasi to‘g‘ri
+ %%%%
+
+****[3]
+Cloud Cube modelida nechta turdagi o‘lchamlar mavjud?
+ ++++
+ 4
+ ++++
+ 1
+ ++++
+ 2
+ ++++
+ 3
+%%%%
+
+****[3]
+Quyidagi o‘lchovlardan qaysi biri tashkilot chegaralari bilan bog‘liq? 
+++++
+Ma’lumotlarning jismoniy joylashuvi 
+++++
+Egalik
+++++
+Xavfsizlik chegarasi
+++++
+Ko‘rsatilganlarning barchasi
+%%%%
+
+****[3]
+Cloud Cube modelida qancha turdagi xavfsizlik chegarasi qiymatlari mavjud? 
+++++
+1
+ ++++
+2 
+++++
+3 
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+To‘g‘ri gapni ko‘rsating.
+ ++++
+Joylashtirish modeli bulutning maqsadini va bulutning qanday joylashishi xususiyatini belgilaydi.
+ ++++
+ Xizmat modeli bulutning maqsadini va bulut qanday joylashishi xarakterini belgilaydi
+ ++++
+ Bulut kvadrat modeli shuni ko‘rsatishi kerak. Tarmoq chegarasining tarmoqning xavfsizlik devori degan an’anaviy tushunchasi endi bulutli hisoblashda qo‘llanilmaydi 
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri Cloud Cube Modelining egalik o‘lchami bilan ta’minlangan?
+++++
+P
+++++
+Mulkiy
+++++
+mulkdor 
+++++
+aytilganlarning hammasi 
+%%%%
+
+****[3]
+__________ - bu operatsiya xavfsizlik chegarasi yoki tarmoq xavfsizlik devori ichida yoki tashqarisida ekanligining o‘lchovidir. 
+++++
+hammasi to‘g‘ri
+++++
+Per
+++++
+P 
+++++
+Old
+%%%%
+
+****[3]
+Noto‘g‘ri gapni ko‘rsating.
+++++
+hammasi to‘g‘ri
+++++
+Ommaviy bulutni ta’sis tashkilot(lar)i yoki uchinchi tomon boshqarishi mumkin 
+++++
+Jamoa buluti ta’sis tashkilot(lar)i yoki uchinchi tomon tomonidan boshqarilishi mumkin 
+++++
+Shaxsiy bulutlar yoqilgan yoki o‘chirilgan bo‘lishi mumkin -binolar 
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri Cloud tomonidan taqdim etiladigan xizmatga tegishli? 
+++++
+manba
+++++
+Egalik
+++++
+Ishonchlilik 
+++++
+AaaS 
+%%%%
+
+****[3]
+________ o‘lchami sakkizta mumkin bo‘lgan bulut shakllarida ikki xil holatga mos keladi. 
+++++
+hammasi to‘g‘ri
+++++
+Ma’lumotlarning jismoniy joylashuvi 
+++++
+Egalik 
+++++
+Xavfsizlik chegarasi 
+%%%%
+
+****[3]
+________ bulutli infratuzilmasi tashkilotning eksklyuziv foydalanishi uchun ishlatiladi. 
+davlat 
+++++
+xususiy 
+++++
+jamoa 
+++++
+aytilganlarning barchasi 
+%%%%
+
+****[3]
+__________ bulut - bulut umumiy vazifa yoki maqsadga xizmat qilish uchun tashkil etilgan bulut.
+++++
+Jamoa 
+++++
+davlat 
+++++
+xususiy 
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Gibrid bulut bir nechta bulutlarni birlashtiradi, bu bulutlar o‘zlarining noyob identifikatorlarini saqlab qoladilar, lekin birlik sifatida birlashadilar.
+++++
+gibrid 
+++++
+Davlat 
+++++
+Xususiy 
+++++
+Jamoa 
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri bulutli xizmatlarni sotuvchi tashkilotga tegishli? 
+ ++++
+ jamoa 
+ ++++
+Davlat 
+ ++++
+ Xususiy 
+ ++++
+ Gibrid 
+%%%%
+
+****[3]
+Noto‘g‘ri gapni ko‘rsating.
+++++
+Joylashtirish modelida turli xil bulut turlari infratuzilmani joylashtirish usulining ifodasidir. 
+++++
+Ilovadan tortib infratuzilmagacha bo‘lgan hamma narsa sotuvchining javobgarligidir 
+ ++++
+AaaS virtual mashinalar, operatsion tizimlar, ilovalar, xizmatlar, ishlanmalar bilan ta’minlaydi. ramkalar, tranzaktsiyalar va nazorat tuzilmalari 
+++++
+ko‘rsatilganlarning barchasi 
+%%%%
+
+****[3]
+_______ virtual mashinalar, virtual xotira, virtual infratuzilma va boshqa apparat aktivlari bilan ta’minlaydi.
+++++
+IaaS 
+++++
+SaaS 
+++++
+PaaS 
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri rivojlanish asoslari va boshqaruv tuzilmalarini ta’minlaydi? 
+++++
+PaaS 
+++++
+IaaS 
+++++
+SaaS 
+++++
+Hammasi to‘g‘ri
+%%%%
+
+****[3]
+Noto‘g‘ri gapni ko‘rsating. 
+++++
+XaaS yoki “xizmat sifatidagi har qanday narsa” ITni faqat gibrid bulut orqali Xizmat sifatida yetkazib berishdir. 
+++++
+PaaS xizmati IaaS modeliga integratsiya funksiyalari, o‘rta dastur va boshqa orkestr va xoreografiya xizmatlarini qo‘shadi 
+++++
+ Xizmat sifatida monitoring ( MaaS) sizning IT infratuzilmangiz va ilovalaringiz monitoringini bulutga asoslangan xizmat ko‘rsatuvchi provayderga autsorsing qiladi
+++++
+Yuqorida aytilganlarning hech biri 
+%%%%
+
+****[3]
+_______ - bu ilovalar, boshqaruv va foydalanuvchi interfeysi bilan to‘liq operatsion muhit. 
+++++
+SaaS 
+++++
+IaaS 
+++++
+PaaS
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Cloud-da asosan xizmat ko‘rsatish modelining nechta turi mavjud? 
+++++
+3
+++++
+1
+++++
+2 
+++++
+4 
+%%%%
+
+****[3]
+Uch xil xizmat modeli birgalikda bulutli hisoblashning _____ modeli sifatida tanilgan. 
+++++
+SPI
+++++
+SIP
+++++
+CPI
+++++
+Hammasi to‘g‘ri
+%%%%
+
+****[3]
+CaaS xizmat sifatida _____________ ni anglatadi. 
+++++
+Muloqot 
+++++
+Muvofiqlik 
+++++
+Kompyuter 
+++++
+Jamiyat 
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri IaaS provayderi hisoblanadi? 
+++++
+EC2 
+++++
+EC1 
+++++
+EC10 
+++++
+gibrid 
+%%%%
+
+****[3]
+Noto'g'ri gapni ko'rsating.
+++++
+Abstraktsiya bulutli hisoblashning asosiy afzalliklarini ta'minlaydi: umumiy, hamma joyda foydalanish
+++++
+Virtualizatsiya jismoniy resursga mantiqiy nom beradi va so'ngra so'rov yuborilganda ushbu jismoniy resursga ko'rsatgich beradi.
+++++
+Barcha bulutli hisoblash ilovalari o'z resurslarini birlashtiradi foydalanuvchilarning talabiga binoan tayinlanishi mumkin bo'lgan hovuzlar
+++++
+ko'rsatilganlarning barchasi
+%%%%
+
+****[3]
+Quyidagi virtualizatsiya turlaridan qaysi biri bulutli hisoblashlarga ham xosdir?
+++++
+hammasi to‘g‘ri
+++++
+Saqlash
+++++
+Ilova
+++++
+CPU
+  %%%%
+
+****[3]
+Resurslarga xizmat ko'rsatish so'rovlarini taqsimlash uchun foydalaniladigan texnologiya _____________
+++++
+Yuklarni muvozanatlash
+++++
+yukni bajarish
+++++
+yuklarni rejalashtirish
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+To‘g‘ri gapni ko‘rsating.
+++++
+hammasi to‘g‘ri
+++++
+Mijoz istalgan joydan bulut xizmatiga kirishni soʻrashi mumkin
+++++
+Bulutda bir nechta dastur namunalari mavjud va soʻrovlarni shartlar asosida namunaga yoʻnaltiradi
+++++
+Kompyuterlar har bir mashinaga ish yuki tayinlangan holda virtual mashinalar toʻplamiga boʻlinishi mumkin.
+%%%%
+
+****[3]
+Quyidagi dasturiy ta'minotlardan qaysi biri yuklarni muvozanatlashni amalga oshirish uchun ishlatilishi mumkin?
+++++
+apache mod_proxy_balancer
+++++
+Apache mod_balancer
+++++
+F6 ning BigIP
+++++
+Hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagi tarmoq resurslaridan qaysi biri yuklama balanslanishi mumkin?
+++++
+Hammasi to‘gri
+++++
+intellektual kalitlar orqali ulanishlar
+++++
+DNS
+++++
+saqlash resurslari
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri murakkabroq yuk balanslagich hisoblanadi?
+++++
+Ish yuki menejerlari
+++++
+ish maydoni menejerlari
+++++
+rackserve menejerlari
+++++
+barcha qayd etilganlar
+%%%%
+
+****[3]
+ ______ - bu xavfsizlik devori yoki marshrutizator o'rtasida joylashgan server bo'lgan yuk balansi va dastur serverining kombinatsiyasi.
+++++
+ADC
+++++
+ABC
+++++
+ACD
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Noto'g'ri gapni ko'rsating.
+++++
+turli xil Google ilovalarining bir nechta nusxalari turli xostlarda ishlamoqda
+++++
+Yuklash balansi mantiqiy manzilni jismoniy manzilga solish orqali tizimlar va resurslarni virtualizatsiya qiladi
+++++
+Google apparat virtualizatsiyasidan foydalanadi
+++++
+Hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri tizim virtual mashinasining boshqa nomi?
+++++
+Apparat virtual mashinasi
+++++
+dasturiy virtual mashina
+++++
+real mashina
+ ++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri virtual mashinalarga tizim resurslariga kirishni ta'minlaydi?
+++++
+VMM
++++
+VMC
+++++
+VNM
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+To‘g‘ri gapni ko‘rsating.
+ ++++
+   hammasi to‘gri 
+++++
+  Virtual mashina - bu virtual mashina ishlayotgan
+jismoniy kompyuterdan ajratilgan kompyuter
+++++
+Virtual mashinalar har biri o'z operatsion tizimiga ega bo'lgan bir nechta mashina nusxalarini ishga tushirish imkoniyatini beradi
+++++
+Virtual mashina texnologiyalarining salbiy tomoni Resurslarning bilvosita yo'naltirilganligi ma'lum darajada qo'shimcha xarajatlar mavjudligini bildiradi 
+ %%%%
+
+****[3]
+Tip ______ VM da ishlaydigan operatsion tizim to'liq virtualizatsiya hisoblanadi.
+ ++++
+ 1
+++++
+ 2
+++++
+ 3
+ hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri 1-toifa gipervizor hisoblanadi?
+++++
+lynxSecure 
+++++
+Wind River Simics
+++++
+Virtual Server 2005 R2
+++++
+KVM
+%%%%
+
+****[3]
+ Quyidagilardan qaysi biri 2-tur VM hisoblanadi?
+++++
+Xen
+++++
+VirtualLogix VLX
+++++
+VMware ESX
+++++
+LynxSecure
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri Windows Server uchun xost operatsion tizimi bo'ladi?
+++++
+microsoft Hyper-V
+++++
+VirtualLogix VLX
+++++
+Xen
+++++
+Barcha qayd etilganlar
+%%%%
+
+****[3]
+Noto'g'ri gapni ko'rsating.
+++++
+barcha protsessorlar virtual mashinalarni qo'llab-quvvatlaydi
+++++
+Ba'zi gipervizorlar operatsion tizim orqali o'rnatiladi va ular 2-toifa yoki joylashtirilgan VM deb nomlanadi
+++++
+2-toifa VMda tizim odatda ishlatadigan qurilmalarga taqlid qiluvchi dasturiy interfeys yaratiladi. o'zaro ta'sir qilish
+++++
+Aytilganlarning barchasi
+%%%%
+
+****[3]
+Quyidagi virtualizatsiya turlaridan qaysi biri Microsoft Hyper-V kabi gipervisorda uchraydi?
+++++
+Paravirtualizatsiya
+++++
+to'liq virtualizatsiya
+++++
+emulyatsiya
+++++
+aytilganlarning hech biri
+%%%%
+
+****[3]
+ _______ yilda virtual mashina apparatni simulyatsiya qiladi, shuning uchun u asosiy tizim uskunasidan mustaqil bo'lishi mumkin.
+++++
+To'liq virtualizatsiya
+++++
+paravirtualizatsiya
+++++
+emulyatsiya
+++++
+aytilganlarning hech biri
+%%%%
+
+****[3]
+ Noto'g'ri gapni ko'rsating.
+ ++++
+To'liq virtualizatsiya xost operatsion tizimi mehmon operatsion tizimi uchun virtual mashina interfeysini ta'minlashini va mehmonning ushbu xost VM orqali apparat vositalariga kirishini talab qiladi 
+++++
+to'liq virtualizatsiya tizimlaridagi mehmon operatsion tizimlari odatda boshqa virtualizatsiya sxemalariga qaraganda tezroq
+++++
+jarayon Buyruq jarayonni boshlaganda virtual mashina instantatsiya qiladi
+++++
+hammasi to‘g‘ri
+ %%%%
+
+****[3]
+ ____________ sxemada VM 1-turdagi gipervisor sifatida to'g'ridan-to'g'ri apparatga o'rnatiladi.
+ paravirtualizatsiya
+++++
+ to'liq virtualizatsiya
+++++
+emulyatsiya
+++++
+aytilganlarning hech biri
+%%%%
+
+****[3]
+Quyidagi operatsion tizimlardan qaysi biri operatsion tizim virtualizatsiyasini qo'llab-quvvatlaydi?
+++++
+sun Solaris
+++++
+Windows NT
+++++
+Windows XP
+Muvofiqlik
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri serverlarni tayinlanadigan pulga jamlovchi xizmatdir?
+ ++++
+vMware vCompute
+++++
+VMware vStorage
+++++
+VMware vNetwork
+++++
+Ilova xizmatlari
+%%%%
+
+****[3]
+ _________ - virtual tarmoq interfeyslarini yaratuvchi va boshqaruvchi xizmat.
+++++
+vMware vNetwork
+++++
+VMware vCompute
+++++
+Hammasi to‘g‘ri
+++++
+Ilova xizmatlari
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri virtual mashinaning bir vaqtning o‘zida ikki yoki undan ortiq jismoniy protsessorlarda ishlashiga imkon beradi?
+++++
+ Virtual SMP
+++++
+Taqsimlangan resurslarni rejalashtiruvchi
+++++
+Network taqsimlangan kaliti
+++++
+Storage VMotion
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri 2010 yilda eng yaxshi 5 bulutli ilovalardan biri edi?
+ bulutli zahira nusxasi
+++++
+hammasi to‘gri
+++++
+veb-ilovalar
+++++
+ biznes ilovalari
+++++
+%%%%
+
+****[3]
+To‘g‘ri gapni ko‘rsating.
+++++
+ Maʼlumotlar markazlari umumiy tizim kechikishini optimallashtirish uchun o'rnatilgan
+++++
+Google buluti butun dunyo boʻylab 10 ga yaqin maʼlumotlar markazlarini oʻz ichiga oladi
+++++
+ Flipkart.com infratuzilmasi egiluvchan talabni qoʻllab-quvvatlash uchun qurilgan boʻlib, tizim eng yuqori trafikni sigʻdira oladi
+++++
+ Barcha qayd etilganlar
+%%%%
+
+****[3]
+Quyidagi afzalliklardan qaysi biri ko'p ijarachilardan foydalanishni qo'llab-quvvatlaydigan tizimda birlashtirilgan resurslarni yaratish bilan bog'liq?
+++++
+Talab bo'yicha o'z-o'ziga xizmat ko'rsatish
+++++
+Keng tarmoqqa kirish
+++++
+Resurslarni birlashtirish
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+ _____ - bu sizning sotuvchingizdan shartnoma asosida olishingiz mumkin bo'lgan narsadir.
+++++
+ QoS
+++++
+PoS
+++++
+ 
+SoS
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Noto'g'ri gapni ko'rsating.
+++++
+Internet dunyodagi jami quvvatning qariyb 1 foizini iste'mol qiladi
+++++
+Bulutli hisoblashning xarajat afzalliklari yangi dasturiy ta'minot ishlab chiqaruvchilariga samaradorlik uchun ilovalar yaratish imkonini berdi
+++++
+mijoz bulutli xizmat ko'rsatuvchi provayder xodimlari bilan o'zaro aloqada bo'lmasdan kompyuter resurslarini taqdim etishi mumkin
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Barcha bulutli hisoblash ilovalari WAN ulanishiga xos bo'lgan o'ziga xos _______ dan aziyat chekadi.
+++++
+Kechikish
+++++
+tarqalish
+++++
+shovqin
+++++
+hammasi to‘g‘ri
+  %%%%
+
+     ****[3]
+ Quyidagilardan qaysi biri bulutli hisoblashning eng muhim sohasi hisoblanadi?
+++++
+xavfsizlik
+++++
+Saqlash
+++++
+Masshtablilik
+++++
+Hammasi to‘g‘ri
+   %%%%
+
+****[3]
+Hukumat harakatlariga qaramay, bulutli provayder sizning _____ ni saqlab qolishiga ishona olmaysiz.
+ ++++
+maxfiylik
+++++
+masshtablilik
+++++
+ishonchlilik
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagi arxitektura standartlaridan qaysi biri bulutli hisoblash sanoati bilan ishlaydi?
+++++
+xizmatga yo’naltirilgan arhitektura
+++++
+standartlashtirilgan veb-xizmatlar
+++++
+veb-ilovalar ramkalari
+++++
+hammasi to‘g‘ri
+++++
+%%%%
+
+****[3]
+To‘g‘ri gapni ko‘rsating.
+++++
+Ishlash jurnallari rejalashtirish maqsadlarida hamma foydalanishi kerak bo'lgan asosiy ma'lumotlar manbaidir.
+++++
+Veb-saytdagi sahifalarni ko'rishlar yoki sekundiga tranzaksiyalar amalga oshiriladi
+++++
+Ma'lumotlar bazasi serverida bajarilgan tranzaksiyalar, soniyada urishlar bilan o'lchanadi
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagi buyruqlardan qaysi biri Linuxda CPU faolligi darajasini ko'rsatish uchun ishlatiladi?
+ ++++
+sar
+++++
+sep
+++++
+sav
+++++
+hammasi to‘g‘ri
+  %%%%
+
+****[3]
+  Quyidagi vositalardan qaysi biri protsessor yuki kabi resurslardan vaqtga bog'liq ishlash ma'lumotlarini oladi?
+++++
+RRDTool
+++++
+RBTool
+++++
+Perfmon
+++++
+Qayd etilganlarning hech biri
+%%%%
+
+****[3]
+Noto'g'ri gapni ko'rsating.
+ ++++
+ Umumiy ish yuki bulutdagi bitta server nusxasi tomonidan xizmat qilishi mumkin
+ ++++
+ Ishlash jurnallari unumdorlikni o‘lchashning yagona manbaidir
+ ++++
+ Joylashtiriladigan resurslar miqdori jalb qilingan veb-serverlarning tavsifiga, ulardan potentsial foydalanish tezligiga bog‘liq. , va boshqa omillar
+ ++++
+  hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagi vositalardan qaysi biri LAMP da Web sayt monitoringi xizmati uchun ishlatiladi?
+++++
+Alertra
+++++
+Kaktuslar
+++++
+To'plangan
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri Ochiq manbali taqsimlangan monitoring tizimi sifatida ishlatiladi?
+++++
+Ganglia 
+++++
+Dstat
+++++
+GraphClick
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri uchinchi tomonning tijorat veb-saytlari ishlashi monitori emas?
+++++
+Munin.
+++++
+Asosiy ma’ruza
+++++
+Gomes
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[3]
+Quyidagilardan qaysi biri ochiq manba, ham tijorat versiyasi sifatida mavjud?
+++++
+ZenOSS
+++++ 
+Zabbix
+++++ 
+SiteUpTime
+++++ 
+hammasi to‘g‘ri
+ %%%%
+
+****[3]
+ Quyidagi testlardan qaysi biri joriy tizimim qo'llab-quvvatlaydigan maksimal yukga javob berishga intiladi?
+++++
+Yuklach
+++++
+ Xavfsizlik
+++++
+ Navigatsiya
+++++
+hammasi to‘g‘ri
+%%%%
+ 
+****[3]
+Quyidagi xizmat ko'rsatuvchi provayderlardan qaysi biri o'rnatilgan xavfsizlikning eng kam miqdorini ta'minlaydi?
+++++
+IaaS
+++++
+ SaaS
+++++
+ PaaS
+++++
+hammasi to‘g‘ri 
+%%%%
+
+****[2]
+To‘g‘ri gapni ko‘rsating.
+++++
+ hammasi to‘gri
+++++
+ Har xil turdagi bulutli hisoblash xizmati modellari turli darajadagi xavfsizlik xizmatlarini taqdim etadi
+++++
+ Mahalliy tizimlaringizni bulutli modelga moslashtirish 
+++++
+ Xavfsizlik maqsadida ma'lumotlar shifrlangan formatda uzatilishi va saqlanishi kerak
+%%%%
+
+****[2]
+Xizmat ko‘rsatish darajasi bo‘yicha kelishuvlarda quyidagi xizmatlardan qaysi biri kelishilishi kerak?
+ ++++
+ro'yxatga olish
+++++
+ audit
+++++
+ me'yoriy hujjatlarga muvofiqlik
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Noto'g'ri gapni ko'rsating.
+++++
+bulutli hisoblashlar mavjud emas. Internet ilovalari bilan bog'liq zaifliklar             ++++
+Mijozlarni umumiy bulutli xotiraga toʻgʻridan-toʻgʻri kirishdan ajratish uchun siz proksi-server va brokerlik xizmatlaridan foydalanishingiz mumkin
+++++
+Har qanday tarqatilgan ilova mahalliy tarmoqqa yaqin joylashgan ilovaga qaraganda ancha katta hujum yuzasiga ega
+++++
+Hammasi to‘g‘ri
+%%%%
+
+****[2]
+Bulutli hisoblashning qaysi sohasi o‘ziga xos muammoli hisoblanadi?
+++++
+ammasi to‘g‘ri
+++++
+Audit
+++++
+Ma'lumotlar yaxlitligi
+++++
+Qonuniy muvofiqlik uchun e-Discovery
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri CSA ning operatsion sohasi hisoblanadi?
+++++
+Masshtablilik
+++++
+Portativlik va o'zaro ishlash
+++++
+Moslashuvchanlik
+++++
+Ko'rsatilganlardan hech biri
+ %%%%
+
+****[2]
+Quyidagilardan qaysi biri CSA tomonidan bulutli hisoblashning muhim elementi hisoblanadi?
+++++
+Ko'p ijaraga olish
+++++
+Identifikatsiya va kirishni boshqarish
+++++
+Virtualizatsiya
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri veb unumdorligini boshqarish va yukni tekshirish uchun ishlatiladi?
+++++
+hammasi to‘g‘ri
+++++
+VMware Hyperic
+ ++++
+Webmetrics
+ ++++
+ Univa UD
+ %%%%
+
+****[2]
+Quyidagilardan qaysi biri gibrid multi-bulutlar uchun amaliy va infratuzilmani boshqarish dasturi hisoblanadi?
+   ++++
+   Univa UD 
+   ++++
+   VMware Hyperic
+   ++++
+  Webmetrics
+  ++++
+  Tapinsystems
+  %%%%
+
+****[2]
+ Quyidagi bayroqlardan qaysi biri faylning zahira nusxasini yaratish kerakmi yoki yo‘qligini aniqlash uchun zahiraviy dastur tomonidan qo‘llaniladi?
+   ++++
+  arxiv biti
+  ++++
+  passiv bit
+  ++++
+ faol bit
+ ++++
+ aytilganlarning hammasi
+ %%%%
+
+****[2]
+To‘g‘ri gapni ko‘rsating.
+Faol tizimning zaxira nusxasini yaratish uchun siz barcha ilovalarni to'xtatishingiz kerak bo'lishi mumkin.
+++++
+Faol tizimning bosqichma-bosqich zaxira nusxasini yaratish uchun siz barcha ilovalarni to'xtatishingiz kerak bo'lishi mumkin
+  ++++
+Differentsial zaxira tizimga havola qilingan narsalarni bajarishga imkon beradi.          ++++
+yalang'och metall restavratsiya sifatida
+++++
+Barcha qayd etilganlar
+%%%%
+
+****[2]
+Quyidagi zaxira nusxalaridan qaysi biri saqlash nuqtai nazaridan tezroq va samaraliroq?
+++++
+O'sish
+++++
+Vaqt nuqtasi
+++++
+Deltaning teskari zaxira nusxasi
+++++
+Ko'rsatilganlarning barchasi
+%%%%
+
+****[2]
+Quyidagi zaxiralardan qaysi biri avval to‘liq zaxira nusxasini yaratadi, so‘ngra vaqti-vaqti bilan to‘liq nusxani jonli versiya bilan sinxronlashtiradi?
+   ++++
+  delta teskari zahira nusxasi
+  ++++
+  Uzluksiz ma'lumotlarni himoya qilish
+  ++++
+  Faylni ochish
+  ++++
+  Ko'rsatilganlardan hech biri
+  %%%%
+
+ ****[2]
+Noto'g'ri gapni ko'rsating.
+++++
+Differensial zahira nusxasi to'liq tizim zahirasi bilan bog'liq 
+++++
+Masshtabni kengaytirish uchun xizmat saqlangan ma'lumotlarning qo'shimcha saqlash tizimlarini qamrab olishiga imkon berishi kerak
+++++
+Ma'lumotlarning zaxira nusxasi yaratiladi va keyin tez-tez o'zgarishlar zaxira nusxasini yaratishga o'zgartiriladi, bu qo'shimcha zaxira deb ataladi
+++++
+aytib o'tilganlarning hech biri
+%%%%
+
+ ****[2]
+Quyidagi zaxiralardan qaysi biri Apple Time Machine tomonidan qo'llaniladi?
+ Delta teskari zahira nusxasini yaratish
+ ++++
+ Doimiy ma'lumotlarni himoya qilish
+ ++++
+ Fayl zahirasini ochish
+ ++++
+ Ko'zgularni aks ettirish
+ %%%%
+
+****[2]
+Quyidagi zaxiralardan qaysi biri joriy ma'lumotlaringiz yoki diskingizning klonlangan nusxasini yaratadi?
+++++
+Uzluksiz ma'lumotlarni himoya qilish
+++++
+Faylni ochish
+++++
+Delta teskari zahira nusxasi
+++++
+Ko'rsatilganlardan hech biri
+%%%%
+
+****[2]
+Quyidagi zaxira tizimlaridan qaysi biri qimmat va SQL Server kabi ma'lum bir dastur uchun juda moslashtirilgan?
+++++
+faylni ochish
+++++
+Uzluksiz ma'lumotlarni himoya qilish
+++++
+Delta teskari zahira nusxasi
+++++
+Ma'lumotlar arxivi
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri qonuniy rioya qilish yoki uzoq muddatli tarixiy ma'lumotlarni taqdim etish uchun foydalidir?
+ ++++
+ ma'lumotlar arxivi
+ ++++
+ Uzluksiz ma'lumotlarni himoya qilish
+ ++++
+ faylni ochish
+ ++++
+ Delta teskari zahira nusxasi
+ %%%%
+
+
+****[2]
+Foydalanilmayotgan ma'lumotlarning saqlanish uchun uchinchi darajali uzoq muddatli saqlashga ko'chirilishini belgilash uchun quyidagilardan qaysi biri qo'llaniladi?
+++++
+Arxivlash 
+++++
+takrorlash
+++++
+masshtablash
+hammasi to‘g‘ri
+%%%%
+
+Quyidagi mobil platformalardan qaysi biri yuz minglab uchinchi tomon ilovalarini qo'llab-quvvatlaydi?
+++++
+iPhone
+++++
+Symbian
+++++
+Windows Mobile Phone
+++++
+hammasi to‘g‘ri
+%%%%
+
+ ****[2]
+Noto'g'ri gapni ko'rsating.
+++++
+juda kam sonli smartfonlar veb-xizmatlarini iste'mol qiladigan mahalliy ilovalar bilan ta'minlangan 
+++++
+Bulutli xizmatlar uyali telefon texnologiyasiga katta ta'sir ko'rsatmoqda va aksincha
+++++
+Mobil ilovalar ishlab chiquvchilari o'z ilovalarini bulutda joylashtirmoqda va bir qator xosting xizmatlari taqdim etadi. buni qo'llab-quvvatlash
+++++
+hammasi to‘g‘ri
+%%%%
+
+   ****[2]
+Quyidagi qaysi hisoblash texnikasida mobil qurilma taqdimot platformasi yoki displey vazifasini bajaradi?
+++++
+Mobil 
+++++
+Yumshoq
+++++
+JVS
+++++
+hammasi to‘g‘ri
+%%%%
+
+ ****[2]
+Quyidagi ilovalardan qaysi biri telefonda lokal ravishda qayta ishlanadi?
+  ++++
+  hammasi to‘g‘ri 
+  ++++
+  Google Earth
+  ++++
+ Google Maps
+ ++++
+ Google Voice
+ %%%%
+
+****[2]
+ Noto'g'ri gapni ko'rsating.
+++++
+Bulut uchun ilovani ishlab chiqayotganingizda, sizga bir nechta turdagi dasturchi kerak bo'ladi va keyin barcha ulangan telefonlar ushbu ilovadan foydalanishi mumkin
+++++
+Bulut uchun ilovani ishlab chiqqaningizda, faqat bitta dasturchi va keyin barcha ulangan telefonlar kerak bo'ladi
+++++
+Video mazmunini siqib chiqaradigan kodek blokga yo‘naltirilgan harakat-kompensatsiya sxemasidan foydalanadi
+++++
+Hammasi to‘g‘ri
+%%%%
+
+ ****[2]
+
+Mobile Lite — __________ bulut xizmatining kengaytmasi.
+++++
+Salesforce.com
+++++
+Google.com
+++++
+aol.com
+++++
+hammasi to‘g‘ri
+ %%%%
+
+****[2]
+________ Brew mobil platformasiga Opera Mini 5 va Opera Mobile 10 brauzerlarini qo‘shish rejalashtirilgan.
+++++
+Qualcomm 
+++++
+Snapdragon
+++++
+To'rtburchak
+++++
+hammasi to‘g‘ri
+ %%%%
+
+****[2]
+Quyidagilardan qaysi biri bulutdagi smartfonning asosiy xususiyatlari hisoblanadi?
+++++
+smartfonda taniqli operatsion tizim mavjud
+++++
+Smartfon video qo'ng'iroqlar yoki konferentsiya kabi qo'ng'iroq qilishning ilg'or        
+funksiyalarini taklif qiladi
+++++
+Smartfon sensorli ekran bilan birga keladi
+hammasi to‘g‘ri
+%%%%
+
+ ****[2]
+Smartfonni bajarishdan bulutda ishlaydigan virtual mashinaga o'tishda quyidagi omillardan qaysi birini hisobga olish kerak?
+++++
+tarmoq o'tkazish qobiliyati
+++++
+Xotira
+++++
+Qayta ishlash quvvati
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+
+Quyidagilardan qaysi biri internet-kompyuterlar uchun mobil platforma bo'lib xizmat qilish uchun qurilgan?
+++++
+Android 
+++++
+Windows Phone
+++++
+Symbian
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri qurilmaga xos bo'lgan veb-sayt ma'lumotlarini nashr qilish uchun surish mexanizmi hisoblanadi?
+++++
+WAP
+++++
+GPRS
+++++
+GAP
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Noto'g'ri gapni ko'rsating.
+++++
+Mobil qurilmalar statsionar tizimlarga qaraganda veb-xizmatlarni iste'mol qilishda kamroq tarmoq trafigini ishlatadi
+++++
+Mobil qurilmalar veb-xizmatlar uchun ba'zi qiyinchiliklarni keltirib chiqaradi
+++++
+Ko'pgina xizmat protokollari veb-saytlarni mobil qurilmalarda yaxshi ko'rinishi uchun zarur 
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri xabarlarni yuborish xizmatining ko‘rinishi hisoblanadi?
+ ++++
+ SMS 
+ ++++
+ FMS
+ ++++
+ RMS
+ ++++
+ hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri iOS yoki BlackBerry OS kabi tizimga eng mashhur ochiq tizim muqobil hisoblanadi?
+++++
+Android OS
+++++
+Symbian
+++++
+Solaris
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+To‘g‘ri gapni ko‘rsating.
+++++
+hammasi to‘g‘ri
+++++
+Veb-xizmatdan foydalanish uchun qurilma ushbu xizmat haqida bilishi va unga kirish uchun nou-xauga ega bo'lishi shart emas
+++++
+Mobil qurilmalar qurilma va uning foydalanuvchisi holati haqida aniq ma'lumotlarni uzatishi mumkin
+++++
+Pull xizmatlari muhim mexanizmdir. elektron pochtada va nashr etishning ayrim shakllarida
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri mobil Web ilovalarni ishlab chiqishni ancha oson va kuchliroq qildi?
+++++
+Veb-xizmatlar
+++++
+Bulutli hisoblash
+++++
+IM
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagi funksiyalardan qaysi biri mobil ilova uchun ochiq tizimda yuqori darajada ta'kidlangan?
+++++
+yaxlitlik
+++++
+masshtablilik
+++++
+o'zaro ishlash qobiliyati
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Bulutda mobil ilovalar bilan ishlashda quyidagi omillardan qaysi biri e'tiborga olinishi kerak?
+++++
+hammasi to‘g‘ri 
+++++
+interfeys orqali navigatsiyaning turli usullari
+++++
+ulanish orqali sekin uzatish
+++++
+o'zgaruvchan ekran o'lchamlari va ruxsati
+%%%%
+
+****[2]
+ Quyidagilardan qaysi biri sotuvchilar tomonidan o‘zaro hamkorlik muammosiga yondashishning eng keng tarqalgan usuli hisoblanadi?
+++++
+turli qurilmalar uchun veb-sayt ichida alohida saytlar yaratish
+++++
+turli qurilmalar uchun kengaytiriladigan veb-saytlar yaratish
+++++
+turli qurilmalar uchun ishonchli veb-saytlar yaratish
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagi repozitoriylardan qaysi biri Mobil veb-tashabbusining Qurilma tavsifi bo‘yicha ishchi guruhi tomonidan mobil o‘zaro hamkorlik uchun yaratilgan?
+++++
+Qurilma tavsifi
+++++
+Qurilmaning atributlari
+++++
+Tarqalgan tavsif
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri sinxronizatsiyani amalga oshirish uchun eng ko'p qo'llaniladigan standart hisoblanadi?
+++++
+SyncML
+++++
+SMIL
+++++
+SML
+++++
+hammasi to‘g‘ri
+%%%%
+
+ ****[2]
+Noto'g'ri gapni ko'rsating.
+++++
+hammasi noto‘gri 
+Ma'lumotlarni sinxronlash mobil qurilmalar uchun muhim veb-xizmatdir
+++++
+Kontaktlar, taqvim va qurilmalardagi ma'lumotlar ko'pincha bir nechta tizimlar  ++++
+o'rtasida sinxronlashtirilishi kerak
+++++
+SyncML SyncML serveri yordamida yoki muqobil ravishda SyncML  ++++
+++++
+joylashtirilgan xizmat sifatida amalga oshiriladi
+%%%%
+
+****[2]
+Quyidagi ma'lumotlar turlaridan qaysi biri SyncML bilan sinxronlashtirilishi mumkin?
+++++
+hammasi to‘g‘ri
+++++
+Fayllar
+++++
+Yodnomalar
+++++
+Vazifalar
+%%%
+
+ ****[2]
+Quyidagi xizmatlardan qaysi biri SMS shlyuziga misol bo‘la oladi?
+++++
+SMSC shlyuziga to'g'ridan-to'g'ri
+++++
+Microsoft Live
+++++
+Y-Mail xizmati
+++++
+hammasi to‘g‘ri
+ %%%%
+
+****[2]
+To‘g‘ri gapni ko‘rsating.
+++++
+Ish stolidan mobilga sinxronlash ilovasi Windows Mobile Device Center mobil mijozga ish stoli bilan sinxronlash imkonini beradi
+++++
+CnML protokoli yirik mobil dasturiy ta'minot va apparat ta'minotchilarining bir qator mahsulotlari
+++++
+Desktop ActiveSync tomonidan qo'llab-quvvatlanmaydi. ba'zi uchinchi tomon pochta serverlari
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri xabaringizga tovushlar, rasmlar, piktogrammalar va hatto formatlangan matnni biriktirish imkonini beradi?
+++++
+EMS
+++++
+SMS
+++++
+MMS
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri o'z transportida WAP va SMS kombinatsiyasidan foydalanadi?
+++++
+MMS
+++++
+EMS
+++++
+SMS
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagi protokollardan qaysi biri so'rov/javob mexanizmiga asoslangan tranzaksiya monitoringi xizmati uchun qo'llaniladi?
+++++
+WTP
+++++
+WTLS
+++++
+WDP
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+ Quyidagi ochiq kalitli shifrlash usullaridan qaysi biri TLS bilan bir xil maqsadda ishlatiladi?
+++++
+WTLS
+++++
+WTP
+++++
+WDP
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri ishonchsiz ma'lumotlarni tashish ma'lumotlar formatlashni ta'minlaydi?
+++++
+WDP 
+++++
+WTP
+++++
+WTLS
+++++
+WAE
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri mobil aloqa xizmatlarini ishlab chiqaruvchilar va iste'molchilari uchun yaratilgan yuqori darajadagi o'ziga xos domen hisoblanadi?
+++++
+MOB
+ ++++
+.MOBI
+ ++++
+ CELL
+ ++++
+ hammasi to‘g‘ri
+ %%%%
+
+ ****[2]
+Noto'g'ri gapni ko'rsating.
+ ++++
+ Bulutli hisoblash uyali telefon ilovalari va veb-xizmatlarini ishga tushirish va ma'lumotlarni masofadan turib saqlash imkoniyatini taqdim etadi 
+ ++++
+ Mobil telefonlar funksiyali telefonlar va smartfonlarga bo'linadi
+ ++++
+ Bulutning mobil qurilmalarga ta'siri ularni qalinroq qiladi (sifatid mijoz
+ ++++
+ hammasi to‘g‘ri
+ %%%%
+
+ ****[2]
+Quyidagi domenlardan qaysi biri mobil qurilmalarda to‘g‘ri ko‘rsatuvchi saytlarni yaratish uchun ishlatiladi?
+  ++++
+  Mobil yuqori darajali domen
+  ++++
+  mobil o'rta darajali domen
+  ++++
+  mobil past darajali domen
+ ++++
+ hammasi to‘g‘ri
+ %%%%
+
+ ****[2]
+Quyidagi vositalardan qaysi biri veb-saytlarni tahlil qiladi va ularni dotMobi tomonidan baholaydi?
+   ++++
+  Tayyor mobi
+  ++++
+  Mobiga qo'ng'iroq qiling
+  ++++
+  Push mobi
+ ++++
+ hammasi to‘g‘ri
+ %%%%
+
+****[2]
+To‘g‘ri gapni ko‘rsating.
+++++
+Mobil veb-xizmatlar - bu Internetga ulanish orqali ilovalar va xizmatlar o'rtasida ma'lumotlar uzatiladigan xizmatlardir
+++++
+Mobil Internet ko'plab raqobatdosh operatsion tizimlar va xususiy qurilmalarga bo'lingan
+++++
+Mobil qurilmalarda kengaytiriladigan xotiraning yo'qligi klassik misoldir. of vendor lock-in
+++++
+hammasi to‘g‘ri
+ %%%%
+
+****[2]
+ Quyidagi mexanizmlardan qaysi biri mobil Internetda kontent mosligi uchun mos keladi?
+++++
+mazmun muzokarasi
+++++
+mazmun tavsifi
+++++
+mazmun atributi
+++++
+qayd etilganlarning hech biri
+ %%%%
+
+ ****[2]
+Quyidagi guruhlardan qaysi biri mobil tarmoqlarda standartlarni targ'ib qilishga qaratilgan?
+++++
+OMTP
+++++
+OTP
+++++
+MTP
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+ Quyidagi ishlab chiqaruvchilardan qaysi biri DAKning bir qismi bo'lib, mobil ilovalar bozorini ilgari surdi?
+++++
+hammasi to‘g‘ri 
+++++
+Motorola
+++++
+Nokia
+++++
+Sony Ericsson
+ %%%%
+
+****[2]
+Quyidagi ramkalardan qaysi biri OMTP tomonidan mobil interfeys va quyi tizimlarni yaratish uchun ishlatiladi?
+ hammasi to‘g‘ri 
+++++
+XACML
+++++
+XLST
+++++
+XAM
+%%%%
+ 
+****[2]Quyidagi qaysi standart mobil API JavaScript API to‘plamiga asoslangan?
+  ++++
+  GSMA OneAPI
+  ++++
+  CDMA API
+  ++++
+  DesAPI
+ ++++
+ hammasi to‘g‘ri
+ %%%%
+
+****[2]
+Quyidagi mexanizmlardan qaysi biri bulutli xizmatlarga kirish uchun Cloud API tomonidan mavjud?
+   ++++
+   Autentifikatsiya
+   ++++
+   Abstraktsiya
+   ++++
+   Replikatsiya
+  ++++
+  hammasi to‘g‘ri
+  %%%%
+
+ ****[2]
+To‘g‘ri gapni ko‘rsating.
+++++
+hammasi to‘g‘ri
+++++
+Bulut provayderining Cloud API xususiyati ilovani bulutga ko‘chirish qobiliyatiga ta’sir qiladi
+++++
+Bulutli API’lar bulut ichida va bulut bilan ma’lumot almashinadigan funksiyalar uchun amaliy dasturlash interfeysi
+++++
+Har bir bulut sotuvchisining o‘ziga xos API’si bor.
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri asosiy bulut sotuvchilari API’larini umumlashtirishga asoslangan platformalararo API hisoblanadi?
+  ++++
+  hammasi to‘g‘ri
+  ++++
+  Deltacloud
+  ++++
+  Simple Cloud API
+  ++++
+  Design Cloud
+  %%%%
+
+****[2]
+Boshqariladigan bulutli xotiradan foydalanadigan ilovalar Xizmat veb-xizmati sifatida __________ hisoblanadi.
+  ++++
+  Infratuzilma
+  ++++
+  Platforma
+  ++++
+  Xizmat
+  ++++
+  hammasi to‘g‘ri
+  %%%%
+
+ ****[2]
+Noto'g'ri gapni ko'rsating.
+++++
+hammasi to‘g‘ri
+++++
+Ba'zi API'lar ikkalasi ham SOAP va REST sifatida ochiladi
+++++
+Ko'pgina API'lar SOAP sifatida ochiladi
+++++
+Bir nechta API'lar REST sifatida ochiladi
+%%%%
+
+****[2]
+ Quyidagilardan qaysi biri dasturchiga o'z API-larini taqdim etadi?
+++++
+VMWare vCloud
+++++
+Racksapce bulutli serverlari
+++++
+RimuHosting
+++++
+Racksapce bulutli serverlari
+%%%%
+
+****[2]
+Quyidagi xotiralardan qaysi biri foydalanuvchiga foydalanishga tayyor disk sifatida taqdim etiladi?
+++++
+boshqarilmaydigan 
+++++
+Boshqariladigan
+++++
+Mavjud emas
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagi bulutli xotiradan qaysi biri xom virtuallashtirilgan diskni ta'minlashni o'z ichiga oladi?
+++++
+boshqariladigan
+++++
+Boshqarilmaydigan
+++++
+Mavjud emas
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagi saqlash variantlaridan qaysi biri boshqariladigan saqlash uchun mavjud?
+   ++++
+   Hammasi to‘g‘ri
+  ++++
+  formatlash
+  ++++
+  qismlarga bo'lish
+  ++++
+ ma'lumotlarni ko'paytirish
+ %%%%
+
+****[2]
+Quyidagi bulutli xotiradan qaysi biri fayl almashish dasturi tomonidan iste'mol qilinadi?
+++++
+boshqarilmaydigan
+++++
+Boshqariladigan
+++++
+Mavjud emas
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Ilovalar ramkalari IDE yordamida ________ joylashtirilgan ilovalarni yaratish vositalarini taqdim etadi.
+++++
+PaaS
+++++
+SaaS
+++++
+CaaS
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+To‘g‘ri gapni ko‘rsating.
+++++
+Drupal yirik veb-saytlarda qo'llaniladi va katta hajmdagi ma'lumotlarni tartibga soladi
+++++
+Fourspace ko'pincha bloglar vositalari bilan bog'lanadi
+++++
+FourSquare fotosuratlar bilan ishlaydi, boshqa ijtimoiy vositalardan  
+++++
+o'rtacha foydalanuvchilar tomonidan veb-saytlarni yaratishga imkon beradi.
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri axborotni boshqarish va tashkil etish tushunchasiga asoslanadi?
+++++
+CMS
+++++
+DMS
+++++
+MIS
+++++
+hammasi to‘g‘ri
+%%%%
+
+ ****[2]
+Quyidagi muhitlardan qaysi biri WorkXpressni eng yaxshi tavsiflaydi?
+++++
+5GL
+++++
+3GL
+++++
+4GL
+ ++++
+hammasi to‘g‘ri
+%%%%
+
+ ****[2]
+SOA ning umumiy xususiyatlari bilan bog'liq noto'g'ri bayonotni ko'rsating.
+++++
+Ular ma'lumotlar bilan ishlashni taqdimotdan ajratib turadi (foydalanuvchi interfeysi)
+++++
+Ular biznes qoidalari, mantiq va harakatlarni birlashtirishni qo'llab-quvvatlaydi
+Ilovalarni o'rash va joylashtirishni qo'llab-quvvatlaydi
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagi modul funksiyalaridan qaysi biri Drupal CMS tomonidan taqdim etilgan?
+++++
+hammasi to‘g‘ri 
+++++
+Trafikni boshqarish
+++++
+OpenID autentifikatsiyasi
+++++
+Foydalanuvchi interfeysini yaratish vositalari
+%%%% 
+
+****[2]
+Quyidagi dasturlash tillaridan qaysi biri cheklovlar va kiritilgan ma’lumotlarga ta’sir qilish orqali muammolarni hal qiladi?
+++++
+5GL 
+++++
+3GL
+++++
+4GL
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+___________ PaaS ilovalarini yetkazib berish platformasi bir nechta turli IaaS ishlab chiqaruvchilarida ishlaydigan SOA ilovalarini yaratadi.
+++++
+Eccentex AppBase
+++++
+AppOne
+++++
+Ez Publish
+++++
+hammasi to‘g‘ri
+%%%%
+
+ ****[2]
+Quyidagi AppBase vositalaridan qaysi biri tizimdagi turli obyektlarga kirish huquqini belgilash imkonini beradi?
+++++
+xavfsizlik rollarini boshqarish
+++++
+Boshqaruv paneli dizayneri
+++++
+Hisobot tuzuvchisi
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+Quyidagilardan qaysi birini mahsuldorlik dasturi deb atash mumkin?
+++++
+hammasi to‘g‘ri
+++++
+DBMS
+++++
+Word protsessorlari
+ ++++
+ Taqdimot dasturlari
+ %%%%
+
+****[2]
+ To‘g‘ri gapni ko‘rsating.
+++++
+hammasi to‘g‘ri 
+++++
+Bulutli saqlashni boshqarish ma'lumotlarni saqlash interfeysi orqali tarmoqdan tashqari boshqaruv tizimlari tomonidan amalga oshiriladi
+++++
+O'tish diapazoni saqlash tarmog'ida bo'lmagan boshqaruv konsoliga ishora qiladi
+++++
+tarmoqdan tashqarida eng ko'p. ko'pincha brauzer ichidagi Ethernet tarmog'ida
+ %%%%
+
+****[2]
+Quyidagilardan qaysi birini tez-tez ishlatiladigan ikkilamchi toifali ilovalar deb belgilash mumkin?
+++++
+HTML muharrirlari
+++++
+Shaxsiy ma'lumotlar menejerlari
+++++
+Rejalashtiruvchi
+++++
+hammasi to‘g‘ri
+%%%%
+ 
+ ****[2]
+ Quyidagilardan qaysi biri mahsuldorlik dasturiga xosdir?
+++++
+hammasi to‘g‘ri
+++++
+Ma'lumotlar almashinuvi standartlari
+++++
+Foydalanuvchiga qaratilgan
+++++
+Statik xususiyatlar
+%%%%
+
+****[2]
+ Noto'g'ri gapni ko'rsating.
+++++
+hammasi to‘g‘ri
+++++
+CDMI konteyneri eksport qilinishi va keyin bulutdagi Virtual Mashinalar tomonidan virtual disk sifatida ishlatilishi mumkin
+++++
+CDMI va OCCI o‘zaro ishlash uchun mo‘ljallangan
+++++
+Bulut infratuzilmasini boshqarish konsoli eksport qilingan CDMI konteynerlarini virtual mashinaga biriktirish uchun ishlatilishi mumkin. kerakli
+%%%%
+
+****[2]
+Quyidagilardan qaysi biri onlayn ofis to'plamining kamchiliklari hisoblanadi?
+++++
+hujjatlarga kirish uchun internet aloqasi talab qilinadi
+++++
+Foydalanuvchilar uchun odatda arzonroq xarajatlar
+++++
+Platforma mustaqilligi
+++++
+Xizmat xarajatlarini kamaytirish
+%%%%
+
+ ****[2]
+   Quyidagi imtiyozlardan qaysi biri bulutli hisoblash ofis paketi tomonidan taqdim etiladi?
+++++
+Hujjat almashishni osonlashtirish
+++++
+xavfsizroq
+++++
+To'liq nazorat qilish yo'q
+++++
+hammasi to‘g‘ri
+%%%%
+
+****[2]
+ Quyidagilardan qaysi biri Saqlash uchun ikkinchi darajali bulut atributi emas?
+  ++++
+  til va mahalliy til
+  ++++
+ aloqador bo'lmagan
+  ++++
+ SQL-ni qo'llab-quvvatlash
+ ++++
+ replikatsiya
+ %%%%
+
+****[2]
+ Quyidagi stsenariylardan qaysi birini bulutning portlashi deb atash mumkin?
+  ++++
+  Ilovaning bir qismi mahalliy tizimda, bir qismi bulutda
+  ++++
+  Ilovaning to‘liq qismi mahalliy tizimda
+  ++++
+  Ilovaning to‘liq qismi mahalliy tizimda
+  ++++
+  Ko‘rsatilganlardan hech biri
+  %%%%
+
+**** [2]
+ Quyidagilardan qaysi biri birinchi darajali bulutli xizmat atributiga kirmaydi?
+++++
+hammasi noto‘g‘ri 
+++++
+Ilovalar
+++++
+Infratuzilma
+++++
+Asosiy xizmatlar
+%%%%
+
+****[2]
+Rezervatsiya tizimida tranzaksiyalarni to'ldirishni ta'minlaydigan ilova ____________ misol bo'la oladi ?
+++++
+bulutni portlatish
+++++
+bulutga xizmat ko'rsatish
+++++
+bulutni ta'minlash
+++++
+hammasi to‘g‘ri
+%%%%
+
+ ****[2]
+ Quyidagilardan qaysi biri ikkinchi darajali bulut atributiga kirmaydi?
+++++
+Ma'lumotlar bazasi
+++++
+Ilovalar
+++++
+Infratuzilma
+++++
+Saqlash
+%%%%
+
+****[2]
+Onedrive bulutli hizmati foydalanish uchun bepul qancha joy beradi?
+         ++++
+       5
+         ++++
+       15
+         ++++
+       8
+        ++++
+      10
+       %%%%         
+         
+****[2]
+ICloud bulutli hizmati foydalanish uchun bepul qancha joy beradi?
+          ++++
+         5
+          ++++
+        15
+          ++++
+         8
+          ++++
+        10
+%%%%
+ 
+****[2]         
+Googledrive bulutli hizmati foydalanish uchun bepul qancha joy beradi?
+         ++++
+  	15
+++++
+5
+++++
+         8
+ 	 ++++
+10
+         %%%%
+
+  ****[2]
+Dropbox bulutli hizmati foydalanish uchun bepul qancha joy beradi?
+ ++++
+2
+  ++++
+5
+ ++++
+8
+  ++++
+10
+%%%%
+
+  ****[2]
+ICloud bulutli hizmati qaysi kompaniyaga tegishli ?
+++++
+Apple
+++++
+Google
+++++
+Microsoft
+++++
+Yandex
+ %%%%
+
+****[2]
+Yandex disk bulutli hizmati foydalanish uchun bepul qancha joy beradi?
+  ++++
+ 5
+ ++++
+15
+  ++++
+8
+  ++++
+10
+  %%%%
+
+  ****[2]
+Amazon bulutli hizmati foydalanish uchun bepul qancha joy beradi?
+++++
+5
+++++
+15
+++++
+8
+ ++++
+ 10
+
+   ****[2]
+ Microsoft kompaniyasining bulutli hizmati qaysi?
+++++
+One drive
+++++
+Google drive
+++++
+Yandeks drive
+++++
+Amazon drive
+%%%%
+
+****[2]
+Google kompaniyasining bulutli hizmati qaysi?
+++++
+Google drive
+++++
+One drive
+++++
+Yandeks drive
+++++
+Amazon drive
+%%%%
+
+****[2]
+Yandeks kompaniyasining bulutli hizmati qaysi?
+++++
+Yandeks drive
+++++
+Google drive
+++++
+One drive
+++++
+Amazon drive
+%%%%
+
+****[2]
+ Amazon kompaniyasining bulutli hizmati qaysi?
+ ++++
+ Amazon drive
+ ++++
+ Google drive
+ ++++
+ One drive
+ ++++
+ Yandeks drive
+ %%%%
+****[2]
+Quyidagilardan qaysi biri ikkinchi darajali bulut atributiga kirmaydi?
+++++
+Ma'lumotlar bazasi
+++++
+Ilovalar
+++++
+Infratuzilma
+++++
+Saqlash
+%%%%
+
+
+
+
+ 
+
+
+
+
+
+
