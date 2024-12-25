@@ -44,19 +44,18 @@ def calculate_score(questions, user_answers):
 def generate_pdf_report(questions, user_answers, score):
     pdf = FPDF()
     pdf.add_page()
-    pdf.add_font("ArialUnicode", "", "arial.ttf", uni=True)  # Unicode shrift
-    pdf.set_font("ArialUnicode", size=12)
+    pdf.set_font("Arial", size=12)  # Standart Arial shrift
     pdf.cell(200, 10, txt="Test Natijalari", ln=True, align='C')
     pdf.ln(10)
 
     for i, question in enumerate(questions):
-        pdf.set_font("ArialUnicode", size=10)
+        pdf.set_font("Arial", size=10)
         pdf.multi_cell(0, 10, txt=f"{i + 1}. {question['question']}")
         pdf.multi_cell(0, 10, txt=f"  To'g'ri javob: {question['correct_answer']}")
         pdf.multi_cell(0, 10, txt=f"  Sizning javobingiz: {user_answers[i]}")
         pdf.ln(5)
 
-    pdf.set_font("ArialUnicode", size=12)
+    pdf.set_font("Arial", size=12)
     pdf.cell(0, 10, txt=f"To'g'ri javoblar soni: {score}/{len(questions)}", ln=True)
     return pdf
 
