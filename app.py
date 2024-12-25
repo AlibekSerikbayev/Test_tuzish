@@ -345,7 +345,7 @@ def main():
     selected_questions = chunks[selected_chunk_index]
 
     # Savollar yozuvi o‘lchamini tanlash uchun slider
-    font_size = st.slider("Shrift o‘lchamini tanlang:", min_value=12, max_value=24, value=16)
+    font_size = st.slider("Shrift o‘lchamini tanlang:", min_value=12, max_value=44, value=16)
 
     # Javoblarni saqlash
     user_answers = []
