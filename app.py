@@ -165,8 +165,8 @@
 #     main()
 
 
-
 import streamlit as st
+from fpdf import FPDF
 from docx import Document
 
 # DOCX shablonni yuklash funksiyasi
@@ -192,6 +192,10 @@ def load_test_from_docx(file_path):
             })
     return questions
 
+# Savollarni bo‘limlarga ajratish
+def split_questions(questions, chunk_size=25):
+    return [questions[i:i + chunk_size] for i in range(0, len(questions), chunk_size)]
+
 # Natijalarni hisoblash funksiyasi
 def calculate_score(questions, user_answers):
     correct_count = 0
@@ -202,50 +206,75 @@ def calculate_score(questions, user_answers):
 
 # Streamlit interfeysi
 def main():
-    st.title("📘 Streamlit Test Tizimi")
-    st.subheader("Quyidagi testga javob bering:")
+    st.markdown(
+        """
+        <style>
+        .main-title {
+            color: #4CAF50;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            font-size: 2.5em;
+        }
+        .subtitle {
+            color: #FF5722;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 1.5em;
+        }
+        .question {
+            background-color: #E0F7FA;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 10px;
+        }
+        .radio-label {
+            background-color: #F0F4C3;
+            padding: 10px;
+            border-radius: 5px;
+            margin-bottom: 5px;
+            border: 1px solid #CDDC39;
+        }
+        </style>
+        """,
+        unsafe_allow_html=True,
+    )
+
+    st.markdown("<h1 class='main-title'>📘 Streamlit Test Tizimi</h1>", unsafe_allow_html=True)
+    st.markdown("<h3 class='subtitle'>Quyidagi testga javob bering:</h3>", unsafe_allow_html=True)
 
     uploaded_file = st.file_uploader("Shablonni yuklang (DOCX format):", type=["docx"])
     
     if uploaded_file:
         questions = load_test_from_docx(uploaded_file)
+        chunks = split_questions(questions, chunk_size=25)
+        chunk_titles = [f"Savollar {i * 25 + 1}-{(i + 1) * 25}" for i in range(len(chunks))]
+        
+        selected_chunk_index = st.selectbox("Savollar bo‘limini tanlang:", options=range(len(chunks)), format_func=lambda x: chunk_titles[x])
+        selected_questions = chunks[selected_chunk_index]
+
+        font_size = st.slider("Shrift o‘lchamini tanlang:", min_value=12, max_value=44, value=16)
+
         user_answers = {}
 
-        for i, question in enumerate(questions):
-            with st.container():
-                st.markdown(
-                    f"""
-                    <div style="
-                        background-color: #F0F4C3;
-                        padding: 15px;
-                        border-radius: 10px;
-                        margin-bottom: 10px;">
-                        <b>{i + 1}. {question['question']}</b>
-                    </div>
-                    """,
-                    unsafe_allow_html=True,
-                )
+        for i, question in enumerate(selected_questions):
+            st.markdown(f"<div class='question' style='font-size:{font_size}px;'><b>{i + 1}. {question['question']}</b></div>", unsafe_allow_html=True)
+            
+            options_html = ""
+            for option in question["options"]:
+                options_html += f"<label class='radio-label'>{option}</label>"
 
-                # Streamlit radio element
-                user_answers[str(i)] = st.radio(
-                    label=f"{i + 1}-savolga javobni tanlang:",
-                    options=question["options"],
-                    key=f"q{i}"
-                )
+            st.markdown(options_html, unsafe_allow_html=True)
+
+            # Streamlit radio elementi
+            user_answers[str(i)] = st.radio(
+                label=f"Javobingizni tanlang:",
+                options=question["options"],
+                key=f"q{i}"
+            )
 
         if st.button("Testni yakunlash"):
-            score = calculate_score(questions, user_answers)
-            st.success(f"✅ Test yakunlandi! To'g'ri javoblar soni: {score}/{len(questions)}")
-
-            # Natijalarni dasturga chiqarish
-            for i, question in enumerate(questions):
-                correct_answer = question["correct_answer"]
-                user_answer = user_answers.get(str(i), "")
-                if user_answer == correct_answer:
-                    st.markdown(f"✅ **{i + 1}. {question['question']}** — **To'g'ri javob!** ({user_answer})")
-                else:
-                    st.markdown(f"❌ **{i + 1}. {question['question']}** — Sizning javobingiz: **{user_answer}**, To'g'ri javob: **{correct_answer}**")
+            score = calculate_score(selected_questions, user_answers)
+            st.success(f"✅ Test yakunlandi! To'g'ri javoblar soni: {score}/{len(selected_questions)}")
 
 if __name__ == "__main__":
     main()
-
