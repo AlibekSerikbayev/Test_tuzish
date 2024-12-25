@@ -70,7 +70,7 @@ def main():
     st.markdown("<h3 class='title'>Quyidagi testga javob bering:</h3>", unsafe_allow_html=True)
 
     # Test faylini yuklash
-    uploaded_file = st.file_uploader("Shablonni yuklang (DOCX format):", type=["docx,doc"])
+    uploaded_file = st.file_uploader("Shablonni yuklang (DOCX format):", type=["docx","doc"])
     
     if uploaded_file:
         questions = load_test_from_docx(uploaded_file)
