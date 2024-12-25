@@ -165,8 +165,6 @@
 #     main()
 
 
-
-
 import streamlit as st
 from fpdf import FPDF
 from docx import Document
@@ -198,35 +196,51 @@ def load_test_from_docx(file_path):
 def split_questions(questions, chunk_size=25):
     return [questions[i:i + chunk_size] for i in range(0, len(questions), chunk_size)]
 
+# Natijalarni hisoblash funksiyasi
+def calculate_score(questions, user_answers):
+    correct_count = 0
+    for i, question in enumerate(questions):
+        if question["correct_answer"] == user_answers.get(str(i), ""):
+            correct_count += 1
+    return correct_count
+
 # Streamlit interfeysi
 def main():
     st.markdown(
         """
         <style>
+        .main-title {
+            color: #4CAF50;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            font-size: 2.5em;
+        }
+        .subtitle {
+            color: #FF5722;
+            text-align: center;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 1.5em;
+        }
         .question {
             background-color: #E0F7FA;
             padding: 15px;
             border-radius: 10px;
             margin-bottom: 10px;
         }
-        .option {
-            background-color: #FFF3E0;
-            border-radius: 8px;
+        .radio-label {
+            background-color: #F0F4C3;
             padding: 10px;
+            border-radius: 5px;
             margin-bottom: 5px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        .option:hover {
-            background-color: #FFD54F;
+            border: 1px solid #CDDC39;
         }
         </style>
         """,
         unsafe_allow_html=True,
     )
 
-    st.title("📘 Streamlit Test Tizimi")
-    st.subheader("Quyidagi testga javob bering:")
+    st.markdown("<h1 class='main-title'>📘 Streamlit Test Tizimi</h1>", unsafe_allow_html=True)
+    st.markdown("<h3 class='subtitle'>Quyidagi testga javob bering:</h3>", unsafe_allow_html=True)
 
     uploaded_file = st.file_uploader("Shablonni yuklang (DOCX format):", type=["docx"])
     
@@ -238,20 +252,29 @@ def main():
         selected_chunk_index = st.selectbox("Savollar bo‘limini tanlang:", options=range(len(chunks)), format_func=lambda x: chunk_titles[x])
         selected_questions = chunks[selected_chunk_index]
 
+        font_size = st.slider("Shrift o‘lchamini tanlang:", min_value=12, max_value=44, value=16)
+
         user_answers = {}
 
         for i, question in enumerate(selected_questions):
-            st.markdown(f"<div class='question'><b>{i + 1}. {question['question']}</b></div>", unsafe_allow_html=True)
-
-            # Variantlarni ko'rsatish uchun HTML ishlatish
+            st.markdown(f"<div class='question' style='font-size:{font_size}px;'><b>{i + 1}. {question['question']}</b></div>", unsafe_allow_html=True)
+            
+            options_html = ""
             for option in question["options"]:
-                option_html = f"""
-                <div class="option">
-                    <input type="radio" id="{option}" name="q{i}" value="{option}" style="margin-right: 10px;">
-                    <label for="{option}">{option}</label>
-                </div>
-                """
-                st.markdown(option_html, unsafe_allow_html=True)
+                options_html += f"<label class='radio-label'>{option}</label>"
+
+            st.markdown(options_html, unsafe_allow_html=True)
+
+            # Streamlit radio elementi
+            user_answers[str(i)] = st.radio(
+                label=f"Javobingizni tanlang:",
+                options=question["options"],
+                key=f"q{i}"
+            )
+
+        if st.button("Testni yakunlash"):
+            score = calculate_score(selected_questions, user_answers)
+            st.success(f"✅ Test yakunlandi! To'g'ri javoblar soni: {score}/{len(selected_questions)}")
 
 if __name__ == "__main__":
     main()
