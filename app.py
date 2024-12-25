@@ -49,13 +49,26 @@ def generate_pdf_report(questions, user_answers, score):
     for i, question in enumerate(questions):
         pdf.set_font("ArialUnicode", size=10)
         pdf.multi_cell(0, 10, txt=f"{i + 1}. {question['question']}")
-        pdf.multi_cell(0, 10, txt=f"  To'g'ri javob: {question['correct_answer']}")
-        pdf.multi_cell(0, 10, txt=f"  Sizning javobingiz: {user_answers.get(str(i), '')}")
+
+        # Javoblarni rang bilan ko‘rsatish
+        correct_answer = question["correct_answer"]
+        user_answer = user_answers.get(str(i), "")
+        if user_answer == correct_answer:
+            pdf.set_text_color(0, 128, 0)  # Yashil rang
+            status = "✅ To'g'ri javob"
+        else:
+            pdf.set_text_color(255, 0, 0)  # Qizil rang
+            status = "❌ Noto'g'ri javob"
+
+        pdf.multi_cell(0, 10, txt=f"  Sizning javobingiz: {user_answer} ({status})")
+        pdf.set_text_color(0, 0, 0)  # Rangni qayta qora qilib o'rnatamiz
+        pdf.multi_cell(0, 10, txt=f"  To'g'ri javob: {correct_answer}")
         pdf.ln(5)
 
     pdf.set_font("ArialUnicode", size=12)
     pdf.cell(0, 10, txt=f"To'g'ri javoblar soni: {score}/{len(questions)}", ln=True)
     return pdf
+
 
 # Streamlit interfeysi
 def main():
