@@ -1,7 +1,8 @@
-# file: streamlit_test_app.py
+# # file: streamlit_test_app.py
 import streamlit as st
 import random
 from fpdf import FPDF
+
 
 # Test shablonini yuklash funksiyasi
 def load_test_from_file(file_path):
@@ -24,9 +25,11 @@ def load_test_from_file(file_path):
             })
     return questions
 
+
 # Savollarni bo‘limlarga ajratish
 def split_questions(questions, chunk_size=25):
     return [questions[i:i + chunk_size] for i in range(0, len(questions), chunk_size)]
+
 
 # Natijalarni hisoblash funksiyasi
 def calculate_score(questions, user_answers):
@@ -36,24 +39,27 @@ def calculate_score(questions, user_answers):
             correct_count += 1
     return correct_count
 
-# PDF hisobotni yaratish funksiyasi
+
+# Unicode shrift qo‘llab-quvvatlovchi PDF hisobotni yaratish funksiyasi
 def generate_pdf_report(questions, user_answers, score):
     pdf = FPDF()
     pdf.add_page()
-    pdf.set_font("Arial", size=12)
+    pdf.add_font("ArialUnicode", "", "arial.ttf", uni=True)  # Unicode shrift
+    pdf.set_font("ArialUnicode", size=12)
     pdf.cell(200, 10, txt="Test Natijalari", ln=True, align='C')
     pdf.ln(10)
 
     for i, question in enumerate(questions):
-        pdf.set_font("Arial", size=10)
-        pdf.cell(0, 10, txt=f"{i + 1}. {question['question']}", ln=True)
-        pdf.cell(0, 10, txt=f"  To'g'ri javob: {question['correct_answer']}", ln=True)
-        pdf.cell(0, 10, txt=f"  Sizning javobingiz: {user_answers[i]}", ln=True)
+        pdf.set_font("ArialUnicode", size=10)
+        pdf.multi_cell(0, 10, txt=f"{i + 1}. {question['question']}")
+        pdf.multi_cell(0, 10, txt=f"  To'g'ri javob: {question['correct_answer']}")
+        pdf.multi_cell(0, 10, txt=f"  Sizning javobingiz: {user_answers[i]}")
         pdf.ln(5)
 
-    pdf.set_font("Arial", size=12)
+    pdf.set_font("ArialUnicode", size=12)
     pdf.cell(0, 10, txt=f"To'g'ri javoblar soni: {score}/{len(questions)}", ln=True)
     return pdf
+
 
 # Streamlit interfeysi
 def main():
@@ -104,6 +110,7 @@ def main():
         with open(pdf_file_path, "rb") as pdf_file:
             pdf_data = pdf_file.read()
         st.download_button("Natijalarni PDF shaklda yuklab olish", data=pdf_data, file_name="test_results.pdf", mime="application/pdf")
+
 
 if __name__ == "__main__":
     main()
