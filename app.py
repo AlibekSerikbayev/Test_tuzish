@@ -1,8 +1,7 @@
 import streamlit as st
-from fpdf import FPDF
 from docx import Document
 
-# DOCX shablonni yuklash funksiyasi
+# Savollarni yuklash funksiyasi
 def load_test_from_docx(file_path):
     doc = Document(file_path)
     content = []
@@ -15,7 +14,7 @@ def load_test_from_docx(file_path):
     for block in question_blocks:
         if block.strip():
             parts = block.strip().split("++++")
-            question_text = parts[0].replace("****[1]\n", "").strip()
+            question_text = parts[0].strip()
             options = [part.strip() for part in parts[1:]]
             correct_answer = options[0]
             questions.append({
@@ -25,129 +24,209 @@ def load_test_from_docx(file_path):
             })
     return questions
 
-# Savollarni bo‘limlarga ajratish
-def split_questions(questions, chunk_size=25):
-    return [questions[i:i + chunk_size] for i in range(0, len(questions), chunk_size)]
-
-# Natijalarni hisoblash funksiyasi
-def calculate_score(questions, user_answers):
-    correct_count = 0
-    for i, question in enumerate(questions):
-        if question["correct_answer"] == user_answers.get(str(i), ""):
-            correct_count += 1
-    return correct_count
-
-# Unicode shrift qo‘llab-quvvatlovchi PDF hisobotni yaratish funksiyasi
-def generate_pdf_report(questions, user_answers, score):
-    pdf = FPDF()
-    pdf.add_page()
-    pdf.add_font("ArialUnicode", "", "ARIAL.TTF", uni=True)
-    pdf.set_font("ArialUnicode", size=12)
-    pdf.cell(200, 10, txt="Test Natijalari", ln=True, align='C')
-    pdf.ln(10)
-
-    for i, question in enumerate(questions):
-        pdf.set_font("ArialUnicode", size=10)
-        pdf.multi_cell(0, 10, txt=f"{i + 1}. {question['question']}")
-        pdf.multi_cell(0, 10, txt=f"  To'g'ri javob: {question['correct_answer']}")
-        pdf.multi_cell(0, 10, txt=f"  Sizning javobingiz: {user_answers.get(str(i), '')}")
-        pdf.ln(5)
-
-    pdf.set_font("ArialUnicode", size=12)
-    pdf.cell(0, 10, txt=f"To'g'ri javoblar soni: {score}/{len(questions)}", ln=True)
-    return pdf
-
 # Streamlit interfeysi
 def main():
-    st.markdown(
-        """
-        <style>
-        .main-title {
-            color: #4CAF50;
-            text-align: center;
-            font-family: 'Arial', sans-serif;
-            font-size: 2.5em;
-        }
-        .subtitle {
-            color: #FF5722;
-            text-align: center;
-            font-family: 'Courier New', Courier, monospace;
-            font-size: 1.5em;
-        }
-        .question {
-            background-color: #E0F7FA;
-            padding: 15px;
-            border-radius: 10px;
-            margin-bottom: 10px;
-        }
-        .option {
-            display: flex;
-            align-items: center;
-            background-color: #F1F8E9;
-            padding: 10px;
-            margin: 5px;
-            border: 1px solid #CDDC39;
-            border-radius: 5px;
-            font-size: 16px;
-            color: #4CAF50;
-            cursor: pointer;
-        }
-        .option input {
-            margin-right: 10px;
-        }
-        </style>
-        """,
-        unsafe_allow_html=True,
-    )
-
-    st.markdown("<h1 class='main-title'>📘 Streamlit Test Tizimi</h1>", unsafe_allow_html=True)
-    st.markdown("<h3 class='subtitle'>Quyidagi testga javob bering:</h3>", unsafe_allow_html=True)
-
-    uploaded_file = st.file_uploader("Shablonni yuklang (DOCX format):", type=["docx"])
+    st.title("📘 Streamlit Test Tizimi")
+    uploaded_file = st.file_uploader("Test shablonni yuklang (DOCX format):", type=["docx"])
     
     if uploaded_file:
         questions = load_test_from_docx(uploaded_file)
-        chunks = split_questions(questions, chunk_size=25)
-        chunk_titles = [f"Savollar {i * 25 + 1}-{(i + 1) * 25}" for i in range(len(chunks))]
         
-        selected_chunk_index = st.selectbox("Savollar bo‘limini tanlang:", options=range(len(chunks)), format_func=lambda x: chunk_titles[x])
-        selected_questions = chunks[selected_chunk_index]
-
-        font_size = st.slider("Shrift o‘lchamini tanlang:", min_value=12, max_value=44, value=16)
-
+        # Foydalanuvchi javoblari
         user_answers = {}
-
-        for i, question in enumerate(selected_questions):
-            st.markdown(f"<div class='question' style='font-size:{font_size}px;'><b>{i + 1}. {question['question']}</b></div>", unsafe_allow_html=True)
+        
+        for i, question in enumerate(questions):
+            st.markdown(f"### {i + 1}. {question['question']}")
             
-            options_html = "".join([
-                f"""
-                <div class='option'>
-                    <input type='radio' id='q{i}_{j}' name='q{i}' value='{option}' onchange="fetch('/api/submit', {{
-                        method: 'POST',
-                        body: JSON.stringify({{'question_id': {i}, 'answer': '{option}'}})
-                    }})">
-                    <label for='q{i}_{j}'>{option}</label>
+            # Variantlarni HTML formatida chiqish
+            html_code = """
+            <div>
+            """
+            for j, option in enumerate(question["options"]):
+                html_code += f"""
+                <div style='margin-bottom: 10px;'>
+                    <input type="radio" id="q{i}_{j}" name="q{i}" value="{option}" onchange="setAnswer({i}, '{option}')">
+                    <label for="q{i}_{j}">{option}</label>
                 </div>
                 """
-                for j, option in enumerate(question["options"])
-            ])
-            st.markdown(options_html, unsafe_allow_html=True)
-            user_answers[str(i)] = st.session_state.get(f"q{i}", "")
-
-        if st.button("Testni yakunlash"):
-            score = calculate_score(selected_questions, user_answers)
-            st.success(f"✅ Test yakunlandi! To'g'ri javoblar soni: {score}/{len(selected_questions)}")
-            pdf = generate_pdf_report(selected_questions, user_answers, score)
-            pdf_file_path = "test_results.pdf"
-            pdf.output(pdf_file_path)
+            html_code += "</div>"
             
-            with open(pdf_file_path, "rb") as pdf_file:
-                pdf_data = pdf_file.read()
-            st.download_button("📘 Natijalarni PDF shaklda yuklab olish", data=pdf_data, file_name="test_results.pdf", mime="application/pdf")
+            st.markdown(html_code, unsafe_allow_html=True)
+
+        # Foydalanuvchi javoblarini olish uchun yashirin komponent
+        st.markdown(
+            """
+            <script>
+                function setAnswer(question_id, answer) {
+                    const formData = new FormData();
+                    formData.append("question_id", question_id);
+                    formData.append("answer", answer);
+                    fetch("/submit_answer", { method: "POST", body: formData });
+                }
+            </script>
+            """,
+            unsafe_allow_html=True,
+        )
+        
+        # Javoblarni topshirish tugmasi
+        if st.button("Testni yakunlash"):
+            st.write("Javoblaringiz saqlandi va qayta ishlanmoqda.")
+            # Natijalarni qayta ishlash (hozircha server tarafda ishlash talab qilinadi)
 
 if __name__ == "__main__":
     main()
+
+
+# import streamlit as st
+# from fpdf import FPDF
+# from docx import Document
+
+# # DOCX shablonni yuklash funksiyasi
+# def load_test_from_docx(file_path):
+#     doc = Document(file_path)
+#     content = []
+#     for paragraph in doc.paragraphs:
+#         content.append(paragraph.text.strip())
+#     content = "\n".join(content)
+    
+#     questions = []
+#     question_blocks = content.strip().split("%%%%")
+#     for block in question_blocks:
+#         if block.strip():
+#             parts = block.strip().split("++++")
+#             question_text = parts[0].replace("****[1]\n", "").strip()
+#             options = [part.strip() for part in parts[1:]]
+#             correct_answer = options[0]
+#             questions.append({
+#                 "question": question_text,
+#                 "options": options,
+#                 "correct_answer": correct_answer
+#             })
+#     return questions
+
+# # Savollarni bo‘limlarga ajratish
+# def split_questions(questions, chunk_size=25):
+#     return [questions[i:i + chunk_size] for i in range(0, len(questions), chunk_size)]
+
+# # Natijalarni hisoblash funksiyasi
+# def calculate_score(questions, user_answers):
+#     correct_count = 0
+#     for i, question in enumerate(questions):
+#         if question["correct_answer"] == user_answers.get(str(i), ""):
+#             correct_count += 1
+#     return correct_count
+
+# # Unicode shrift qo‘llab-quvvatlovchi PDF hisobotni yaratish funksiyasi
+# def generate_pdf_report(questions, user_answers, score):
+#     pdf = FPDF()
+#     pdf.add_page()
+#     pdf.add_font("ArialUnicode", "", "ARIAL.TTF", uni=True)
+#     pdf.set_font("ArialUnicode", size=12)
+#     pdf.cell(200, 10, txt="Test Natijalari", ln=True, align='C')
+#     pdf.ln(10)
+
+#     for i, question in enumerate(questions):
+#         pdf.set_font("ArialUnicode", size=10)
+#         pdf.multi_cell(0, 10, txt=f"{i + 1}. {question['question']}")
+#         pdf.multi_cell(0, 10, txt=f"  To'g'ri javob: {question['correct_answer']}")
+#         pdf.multi_cell(0, 10, txt=f"  Sizning javobingiz: {user_answers.get(str(i), '')}")
+#         pdf.ln(5)
+
+#     pdf.set_font("ArialUnicode", size=12)
+#     pdf.cell(0, 10, txt=f"To'g'ri javoblar soni: {score}/{len(questions)}", ln=True)
+#     return pdf
+
+# # Streamlit interfeysi
+# def main():
+#     st.markdown(
+#         """
+#         <style>
+#         .main-title {
+#             color: #4CAF50;
+#             text-align: center;
+#             font-family: 'Arial', sans-serif;
+#             font-size: 2.5em;
+#         }
+#         .subtitle {
+#             color: #FF5722;
+#             text-align: center;
+#             font-family: 'Courier New', Courier, monospace;
+#             font-size: 1.5em;
+#         }
+#         .question {
+#             background-color: #E0F7FA;
+#             padding: 15px;
+#             border-radius: 10px;
+#             margin-bottom: 10px;
+#         }
+#         .option {
+#             display: flex;
+#             align-items: center;
+#             background-color: #F1F8E9;
+#             padding: 10px;
+#             margin: 5px;
+#             border: 1px solid #CDDC39;
+#             border-radius: 5px;
+#             font-size: 16px;
+#             color: #4CAF50;
+#             cursor: pointer;
+#         }
+#         .option input {
+#             margin-right: 10px;
+#         }
+#         </style>
+#         """,
+#         unsafe_allow_html=True,
+#     )
+
+#     st.markdown("<h1 class='main-title'>📘 Streamlit Test Tizimi</h1>", unsafe_allow_html=True)
+#     st.markdown("<h3 class='subtitle'>Quyidagi testga javob bering:</h3>", unsafe_allow_html=True)
+
+#     uploaded_file = st.file_uploader("Shablonni yuklang (DOCX format):", type=["docx"])
+    
+#     if uploaded_file:
+#         questions = load_test_from_docx(uploaded_file)
+#         chunks = split_questions(questions, chunk_size=25)
+#         chunk_titles = [f"Savollar {i * 25 + 1}-{(i + 1) * 25}" for i in range(len(chunks))]
+        
+#         selected_chunk_index = st.selectbox("Savollar bo‘limini tanlang:", options=range(len(chunks)), format_func=lambda x: chunk_titles[x])
+#         selected_questions = chunks[selected_chunk_index]
+
+#         font_size = st.slider("Shrift o‘lchamini tanlang:", min_value=12, max_value=44, value=16)
+
+#         user_answers = {}
+
+#         for i, question in enumerate(selected_questions):
+#             st.markdown(f"<div class='question' style='font-size:{font_size}px;'><b>{i + 1}. {question['question']}</b></div>", unsafe_allow_html=True)
+            
+#             options_html = "".join([
+#                 f"""
+#                 <div class='option'>
+#                     <input type='radio' id='q{i}_{j}' name='q{i}' value='{option}' onchange="fetch('/api/submit', {{
+#                         method: 'POST',
+#                         body: JSON.stringify({{'question_id': {i}, 'answer': '{option}'}})
+#                     }})">
+#                     <label for='q{i}_{j}'>{option}</label>
+#                 </div>
+#                 """
+#                 for j, option in enumerate(question["options"])
+#             ])
+#             st.markdown(options_html, unsafe_allow_html=True)
+#             user_answers[str(i)] = st.session_state.get(f"q{i}", "")
+
+#         if st.button("Testni yakunlash"):
+#             score = calculate_score(selected_questions, user_answers)
+#             st.success(f"✅ Test yakunlandi! To'g'ri javoblar soni: {score}/{len(selected_questions)}")
+#             pdf = generate_pdf_report(selected_questions, user_answers, score)
+#             pdf_file_path = "test_results.pdf"
+#             pdf.output(pdf_file_path)
+            
+#             with open(pdf_file_path, "rb") as pdf_file:
+#                 pdf_data = pdf_file.read()
+#             st.download_button("📘 Natijalarni PDF shaklda yuklab olish", data=pdf_data, file_name="test_results.pdf", mime="application/pdf")
+
+# if __name__ == "__main__":
+#     main()
 
 
 # import streamlit as st
